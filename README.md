@@ -1,3 +1,5 @@
+# Most Recent Activity in GNOME's GitLab
+
 <!-- BLOG-POST-LIST:START -->
 - [Felipe Borges commented on issue #1067 at GNOME / gnome-software](https://gitlab.gnome.org/GNOME/gnome-software/-/issues/1067#note_952256)
 - [Felipe Borges opened merge request !607: WIP: Add support for extracting pass...](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607)
