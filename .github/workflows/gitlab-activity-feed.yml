@@ -15,5 +15,3 @@ jobs:
         with:
           feed_list: "https://gitlab.gnome.org/felipeborges.atom"
           max_post_count: 20 
-          item_exec: "post.title = post.title.replace('Felipe Borges ', '');"
-          template: "* [Felipe Borges](https://gitlab.gnome.org/felipeborges)  [$title]($url)"
