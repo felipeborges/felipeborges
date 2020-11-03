@@ -1,0 +1,17 @@
+name: GitLab Activity Feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme-with-gitlab-activity:
+    name: Update this repository README with the GitLab activity feed of this user
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://gitlab.gnome.org/felipeborges.atom"
+          max_post_count: 20 
