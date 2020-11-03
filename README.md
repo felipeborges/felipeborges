@@ -22,3 +22,7 @@
 - [Felipe Borges pushed to project branch allow-theme-override-in-gsetting at GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/3a044fcaebb03f4baba4c887228cc12de6b80993...2930e40e051abd888af92508790b14ebbd50cc0a)
 - [Felipe Borges commented on issue #2 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/2#note_951412)
 <!-- BLOG-POST-LIST:END -->
+
+___
+
+### [View All](https://gitlab.gnome.org/users/felipeborges/activity)
