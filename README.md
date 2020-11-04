@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #628 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/628#note_952914)
 - [Felipe Borges closed issue #316: GNOME Boxes - VNC quality settings at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/316)
 - [Felipe Borges commented on issue #316 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/316#note_952879)
 - [Felipe Borges commented on issue #316 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/316#note_952878)
@@ -20,7 +21,6 @@
 - [Felipe Borges accepted merge request !392: vm-configurator: Pass discard &quot;unm...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/392)
 - [Felipe Borges closed issue #35: Use virtio-scsi rather than virtio-blk at GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/35)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/bd9e04fa42d5972abc22ca14e32af4d608e9e54f)
-- [Felipe Borges pushed to project branch discard-unmap-for-virtio-blk at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/e52101c9de6c350cd15ab537547e44558bf154b0...bd9e04fa42d5972abc22ca14e32af4d608e9e54f)
 <!-- BLOG-POST-LIST:END -->
 
 ___
