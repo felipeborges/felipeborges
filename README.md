@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges closed merge request !6: Update Portuguese Translation at GNOME...](https://gitlab.gnome.org/GNOME/gnome-subtitles/-/merge_requests/6)
+- [Felipe Borges commented on merge request !6 at GNOME / gnome-subtitles](https://gitlab.gnome.org/GNOME/gnome-subtitles/-/merge_requests/6#note_952953)
 - [Felipe Borges commented on issue #628 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/628#note_952914)
 - [Felipe Borges closed issue #316: GNOME Boxes - VNC quality settings at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/316)
 - [Felipe Borges commented on issue #316 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/316#note_952879)
@@ -19,8 +21,6 @@
 - [Felipe Borges pushed new project branch always-set-device-sound-model at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/always-set-device-sound-model)
 - [Felipe Borges deleted project branch discard-unmap-for-virtio-blk at GNOME / ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/discard-unmap-for-virtio-blk)
 - [Felipe Borges accepted merge request !392: vm-configurator: Pass discard &quot;unm...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/392)
-- [Felipe Borges closed issue #35: Use virtio-scsi rather than virtio-blk at GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/35)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/bd9e04fa42d5972abc22ca14e32af4d608e9e54f)
 <!-- BLOG-POST-LIST:END -->
 
 ___
