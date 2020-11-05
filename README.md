@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #177 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/177#note_953447)
 - [Felipe Borges closed merge request !6: Update Portuguese Translation at GNOME...](https://gitlab.gnome.org/GNOME/gnome-subtitles/-/merge_requests/6)
 - [Felipe Borges commented on merge request !6 at GNOME / gnome-subtitles](https://gitlab.gnome.org/GNOME/gnome-subtitles/-/merge_requests/6#note_952953)
 - [Felipe Borges commented on issue #628 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/628#note_952914)
@@ -20,7 +21,6 @@
 - [Felipe Borges opened merge request !393: vm-configurator: Default to ich9 sou...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/393)
 - [Felipe Borges pushed new project branch always-set-device-sound-model at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/always-set-device-sound-model)
 - [Felipe Borges deleted project branch discard-unmap-for-virtio-blk at GNOME / ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/discard-unmap-for-virtio-blk)
-- [Felipe Borges accepted merge request !392: vm-configurator: Pass discard &quot;unm...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/392)
 <!-- BLOG-POST-LIST:END -->
 
 ___
