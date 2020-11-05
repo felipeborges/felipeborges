@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch account-for-interference-on-reboot-cou...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/30223b3d745d402fa56b19d433e25c5a84ff3f44)
+- [Felipe Borges pushed new project branch account-for-interference-on-reboot-co...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/account-for-interference-on-reboot-count)
+- [Felipe Borges opened merge request !394: vm-creator: Account for when we fail...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/394)
 - [Felipe Borges commented on issue #177 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/177#note_953447)
 - [Felipe Borges closed merge request !6: Update Portuguese Translation at GNOME...](https://gitlab.gnome.org/GNOME/gnome-subtitles/-/merge_requests/6)
 - [Felipe Borges commented on merge request !6 at GNOME / gnome-subtitles](https://gitlab.gnome.org/GNOME/gnome-subtitles/-/merge_requests/6#note_952953)
@@ -18,9 +21,6 @@
 - [Felipe Borges commented on issue #1067 at GNOME / gnome-software](https://gitlab.gnome.org/GNOME/gnome-software/-/issues/1067#note_952240)
 - [Felipe Borges closed issue #1089: Firmware updates re-appear after being inst...](https://gitlab.gnome.org/GNOME/gnome-software/-/issues/1089)
 - [Felipe Borges commented on issue #1060 at GNOME / gnome-software](https://gitlab.gnome.org/GNOME/gnome-software/-/issues/1060#note_952094)
-- [Felipe Borges opened merge request !393: vm-configurator: Default to ich9 sou...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/393)
-- [Felipe Borges pushed new project branch always-set-device-sound-model at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/always-set-device-sound-model)
-- [Felipe Borges deleted project branch discard-unmap-for-virtio-blk at GNOME / ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/discard-unmap-for-virtio-blk)
 <!-- BLOG-POST-LIST:END -->
 
 ___
