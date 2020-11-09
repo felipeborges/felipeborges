@@ -1,6 +1,13 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened issue #89: Update the Printers management settings at GN...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/89)
+- [Felipe Borges opened issue #88: Add &quot;Show battery percentage&quot; option to the P...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/88)
+- [Felipe Borges opened issue #87: Update Sound Settings documentation at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/87)
+- [Felipe Borges opened issue #86: Document the new Settings &quot;Application&quot; panel...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/86)
+- [Felipe Borges opened issue #85: Document the QR Code feature of the Settings ...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/85)
+- [Felipe Borges closed issue #81: Outdated docs for GNOME Settings at GNOME / g...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/81)
+- [Felipe Borges commented on issue #81 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/81#note_956448)
 - [Felipe Borges commented on issue #1067 at GNOME / gnome-software](https://gitlab.gnome.org/GNOME/gnome-software/-/issues/1067#note_953617)
 - [Felipe Borges pushed to project branch account-for-interference-on-reboot-cou...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/30223b3d745d402fa56b19d433e25c5a84ff3f44)
 - [Felipe Borges pushed new project branch account-for-interference-on-reboot-co...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/account-for-interference-on-reboot-count)
@@ -14,13 +21,6 @@
 - [Felipe Borges commented on issue #316 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/316#note_952878)
 - [Felipe Borges opened issue #316: GNOME Boxes - VNC quality settings at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/316)
 - [Felipe Borges commented on issue #316 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/316#note_952876)
-- [Felipe Borges commented on issue #1067 at GNOME / gnome-software](https://gitlab.gnome.org/GNOME/gnome-software/-/issues/1067#note_952256)
-- [Felipe Borges opened merge request !607: WIP: Add support for extracting pass...](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607)
-- [Felipe Borges pushed new project branch wip/feborges/password-protected-archi...](https://gitlab.gnome.org/GNOME/nautilus/-/commits/wip/feborges/password-protected-archives)
-- [Felipe Borges pushed new project branch wip/feborges/password-protected-archi...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commits/wip/feborges/password-protected-archives)
-- [Felipe Borges created project Felipe Borges / gnome-autoar](https://gitlab.gnome.org/felipeborges/gnome-autoar)
-- [Felipe Borges commented on issue #1067 at GNOME / gnome-software](https://gitlab.gnome.org/GNOME/gnome-software/-/issues/1067#note_952240)
-- [Felipe Borges closed issue #1089: Firmware updates re-appear after being inst...](https://gitlab.gnome.org/GNOME/gnome-software/-/issues/1089)
 <!-- BLOG-POST-LIST:END -->
 
 ___
