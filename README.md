@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !32 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/32#note_957424)
 - [Felipe Borges commented on issue #628 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/628#note_957279)
 - [Felipe Borges deleted project branch init-docs at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/init-docs)
 - [Felipe Borges accepted merge request !31: Initialize documentation files at G...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/31)
@@ -20,7 +21,6 @@
 - [Felipe Borges opened issue #85: Document the QR Code feature of the Settings ...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/85)
 - [Felipe Borges closed issue #81: Outdated docs for GNOME Settings at GNOME / g...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/81)
 - [Felipe Borges commented on issue #81 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/81#note_956448)
-- [Felipe Borges commented on issue #1067 at GNOME / gnome-software](https://gitlab.gnome.org/GNOME/gnome-software/-/issues/1067#note_953617)
 <!-- BLOG-POST-LIST:END -->
 
 ___
