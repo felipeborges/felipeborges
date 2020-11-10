@@ -1,6 +1,15 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #628 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/628#note_957279)
+- [Felipe Borges deleted project branch init-docs at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/init-docs)
+- [Felipe Borges accepted merge request !31: Initialize documentation files at G...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/31)
+- [Felipe Borges closed issue #23: Add documentation at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/23)
+- [Felipe Borges closed issue #23: Add documentation at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/23)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/2879035665e1c3bae9895f2c79c009241bb3e111...58069d04d53ff2262210e9b2873c64ac4dca0894)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/f0c7adfd553e96e2564b7eea47509fa3384e710b)
+- [Felipe Borges pushed to project branch init-docs at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/2002991dd1c41abcd91d37f0721b45623d06dc1d...58069d04d53ff2262210e9b2873c64ac4dca0894)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/2879035665e1c3bae9895f2c79c009241bb3e111)
 - [Felipe Borges commented on merge request !32 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/32#note_957256)
 - [Felipe Borges commented on merge request !32 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/32#note_957255)
 - [Felipe Borges commented on issue #932 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/932#note_957237)
@@ -12,15 +21,6 @@
 - [Felipe Borges closed issue #81: Outdated docs for GNOME Settings at GNOME / g...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/81)
 - [Felipe Borges commented on issue #81 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/81#note_956448)
 - [Felipe Borges commented on issue #1067 at GNOME / gnome-software](https://gitlab.gnome.org/GNOME/gnome-software/-/issues/1067#note_953617)
-- [Felipe Borges pushed to project branch account-for-interference-on-reboot-cou...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/30223b3d745d402fa56b19d433e25c5a84ff3f44)
-- [Felipe Borges pushed new project branch account-for-interference-on-reboot-co...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/account-for-interference-on-reboot-count)
-- [Felipe Borges opened merge request !394: vm-creator: Account for when we fail...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/394)
-- [Felipe Borges commented on issue #177 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/177#note_953447)
-- [Felipe Borges closed merge request !6: Update Portuguese Translation at GNOME...](https://gitlab.gnome.org/GNOME/gnome-subtitles/-/merge_requests/6)
-- [Felipe Borges commented on merge request !6 at GNOME / gnome-subtitles](https://gitlab.gnome.org/GNOME/gnome-subtitles/-/merge_requests/6#note_952953)
-- [Felipe Borges commented on issue #628 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/628#note_952914)
-- [Felipe Borges closed issue #316: GNOME Boxes - VNC quality settings at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/316)
-- [Felipe Borges commented on issue #316 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/316#note_952879)
 <!-- BLOG-POST-LIST:END -->
 
 ___
