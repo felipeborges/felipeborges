@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !32 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/32#note_957256)
+- [Felipe Borges commented on merge request !32 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/32#note_957255)
+- [Felipe Borges commented on issue #932 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/932#note_957237)
 - [Felipe Borges opened issue #89: Update the Printers management settings at GN...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/89)
 - [Felipe Borges opened issue #88: Add &quot;Show battery percentage&quot; option to the P...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/88)
 - [Felipe Borges opened issue #87: Update Sound Settings documentation at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/87)
@@ -18,9 +21,6 @@
 - [Felipe Borges commented on issue #628 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/628#note_952914)
 - [Felipe Borges closed issue #316: GNOME Boxes - VNC quality settings at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/316)
 - [Felipe Borges commented on issue #316 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/316#note_952879)
-- [Felipe Borges commented on issue #316 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/316#note_952878)
-- [Felipe Borges opened issue #316: GNOME Boxes - VNC quality settings at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/316)
-- [Felipe Borges commented on issue #316 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/316#note_952876)
 <!-- BLOG-POST-LIST:END -->
 
 ___
