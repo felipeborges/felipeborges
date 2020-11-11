@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges accepted merge request !32: Add initial VNC quality setting at ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/32)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/58069d04d53ff2262210e9b2873c64ac4dca0894...655100392a86f8d0c515ed55624b9e4de1e445ee)
+- [Felipe Borges commented on merge request !32 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/32#note_958092)
 - [Felipe Borges commented on issue #628 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/628#note_957479)
 - [Felipe Borges commented on merge request !32 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/32#note_957424)
 - [Felipe Borges commented on issue #628 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/628#note_957279)
@@ -18,9 +21,6 @@
 - [Felipe Borges opened issue #89: Update the Printers management settings at GN...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/89)
 - [Felipe Borges opened issue #88: Add &quot;Show battery percentage&quot; option to the P...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/88)
 - [Felipe Borges opened issue #87: Update Sound Settings documentation at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/87)
-- [Felipe Borges opened issue #86: Document the new Settings &quot;Application&quot; panel...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/86)
-- [Felipe Borges opened issue #85: Document the QR Code feature of the Settings ...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/85)
-- [Felipe Borges closed issue #81: Outdated docs for GNOME Settings at GNOME / g...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/81)
 <!-- BLOG-POST-LIST:END -->
 
 ___
