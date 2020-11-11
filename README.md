@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch use-wallpaper-portal at GNOME / nautilus](https://gitlab.gnome.org/GNOME/nautilus/-/compare/28797bf83bcb2d8c5a636fa6cb7fb8ed84eaaf90...5ef0dfba1edaa967088c42b7265501173cddcd95)
 - [Felipe Borges accepted merge request !32: Add initial VNC quality setting at ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/32)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/58069d04d53ff2262210e9b2873c64ac4dca0894...655100392a86f8d0c515ed55624b9e4de1e445ee)
 - [Felipe Borges commented on merge request !32 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/32#note_958092)
@@ -19,8 +20,6 @@
 - [Felipe Borges commented on merge request !32 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/32#note_957255)
 - [Felipe Borges commented on issue #932 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/932#note_957237)
 - [Felipe Borges opened issue #89: Update the Printers management settings at GN...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/89)
-- [Felipe Borges opened issue #88: Add &quot;Show battery percentage&quot; option to the P...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/88)
-- [Felipe Borges opened issue #87: Update Sound Settings documentation at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/87)
 <!-- BLOG-POST-LIST:END -->
 
 ___
