@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #177 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/177#note_960243)
 - [Felipe Borges opened merge request !395: osinfo: Update download URL for GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/395)
 - [Felipe Borges pushed new project branch update-gnome-os-urls at GNOME / GNOME...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/update-gnome-os-urls)
 - [Felipe Borges commented on issue #617 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/617#note_959298)
@@ -19,7 +20,6 @@
 - [Felipe Borges closed issue #23: Add documentation at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/23)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/2879035665e1c3bae9895f2c79c009241bb3e111...58069d04d53ff2262210e9b2873c64ac4dca0894)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/f0c7adfd553e96e2564b7eea47509fa3384e710b)
-- [Felipe Borges pushed to project branch init-docs at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/2002991dd1c41abcd91d37f0721b45623d06dc1d...58069d04d53ff2262210e9b2873c64ac4dca0894)
 <!-- BLOG-POST-LIST:END -->
 
 ___
