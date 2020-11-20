@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed new project tag v3.38.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/v3.38.2)
+- [Felipe Borges deleted project branch release-3.38.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-3.38.2)
+- [Felipe Borges accepted merge request !398: Release 3.38.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/398)
+- [Felipe Borges pushed to project branch gnome-3-38 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/567393b09e7520b59e85fbcfd5f690064dd942b8...78bbca86478da74b0b95eee509b4f5f160fed9d2)
 - [Felipe Borges pushed to project branch release-3.38.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/78bbca86478da74b0b95eee509b4f5f160fed9d2)
 - [Felipe Borges opened merge request !398: Release 3.38.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/398)
 - [Felipe Borges pushed new project branch release-3.38.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-3.38.2)
@@ -17,10 +21,6 @@
 - [Felipe Borges closed issue #22: GNOME Boxes - VNC quality settings at GNOME /...](https://gitlab.gnome.org/GNOME/connections/-/issues/22)
 - [Felipe Borges deleted project branch reinstate-gnome-branding at GNOME / Conn...](https://gitlab.gnome.org/GNOME/connections/-/commits/reinstate-gnome-branding)
 - [Felipe Borges accepted merge request !34: Reinstate gnome branding at GNOME /...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/34)
-- [Felipe Borges closed issue #24: /usr/bin/connections is pretty generic at GNO...](https://gitlab.gnome.org/GNOME/connections/-/issues/24)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/2f15060be792c1b3df42be01f2d2489717176a4d...a3a5e5fc644748a417a6925a7d00970135bd67f4)
-- [Felipe Borges pushed to project branch reinstate-gnome-branding at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/compare/3cf81284e6ab642054256be0ba70c421f02ae70b...a3a5e5fc644748a417a6925a7d00970135bd67f4)
-- [Felipe Borges deleted project branch update-submodules-on-build at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/commits/update-submodules-on-build)
 <!-- BLOG-POST-LIST:END -->
 
 ___
