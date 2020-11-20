@@ -1,6 +1,14 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed new project branch update-submodules-on-build at GNOME /...](https://gitlab.gnome.org/GNOME/connections/-/commits/update-submodules-on-build)
+- [Felipe Borges opened merge request !34: Reinstate gnome branding at GNOME / C...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/34)
+- [Felipe Borges pushed new project branch reinstate-gnome-branding at GNOME / C...](https://gitlab.gnome.org/GNOME/connections/-/commits/reinstate-gnome-branding)
+- [Felipe Borges deleted project branch make-high-quality-the-real-default-vnc-c...](https://gitlab.gnome.org/GNOME/connections/-/commits/make-high-quality-the-real-default-vnc-connection-bandwidth)
+- [Felipe Borges accepted merge request !33: vnc: Make HIGH_QUALITY the default ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/33)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/1396b4c5d7366bf0bf1984d7e4bbefe5333a3e6e)
+- [Felipe Borges commented on merge request !33 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/33#note_966386)
+- [Felipe Borges commented on issue #30 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/30#note_966385)
 - [Felipe Borges commented on issue #30 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/30#note_966367)
 - [Felipe Borges commented on issue #27 at Teams / Circle](https://gitlab.gnome.org/Teams/Circle/-/issues/27#note_965709)
 - [Felipe Borges commented on issue #629 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/629#note_965707)
@@ -12,14 +20,6 @@
 - [Felipe Borges pushed new project branch use-usb3-when-supported at GNOME / GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/use-usb3-when-supported)
 - [Felipe Borges closed issue #631: USB3 device sharing does not work at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/631)
 - [Felipe Borges commented on issue #27 at Teams / Circle](https://gitlab.gnome.org/Teams/Circle/-/issues/27#note_965676)
-- [Felipe Borges commented on issue #177 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/177#note_965478)
-- [Felipe Borges commented on merge request !33 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/33#note_965476)
-- [Felipe Borges commented on merge request !32 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/32#note_965473)
-- [Felipe Borges opened merge request !33: vnc: Make HIGH_QUALITY the default VN...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/33)
-- [Felipe Borges pushed new project branch make-high-quality-the-real-default-vn...](https://gitlab.gnome.org/GNOME/connections/-/commits/make-high-quality-the-real-default-vnc-connection-bandwidth)
-- [Felipe Borges commented on issue #30 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/30#note_965466)
-- [Felipe Borges opened issue #632: Setup a static website @ boxes.gnome.org at ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/632)
-- [Felipe Borges opened issue #37: Setup a wordpress instance with wp-forms for ...](https://gitlab.gnome.org/Infrastructure/blogs-web/-/issues/37)
 <!-- BLOG-POST-LIST:END -->
 
 ___
