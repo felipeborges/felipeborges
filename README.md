@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch release-3.38.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/78bbca86478da74b0b95eee509b4f5f160fed9d2)
+- [Felipe Borges opened merge request !398: Release 3.38.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/398)
+- [Felipe Borges pushed new project branch release-3.38.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-3.38.2)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/70aaaebef6a135befeacfbd51854db93ae1db8b1)
 - [Felipe Borges deleted project branch drop-remnant-intltool-_ at GNOME / Conne...](https://gitlab.gnome.org/GNOME/connections/-/commits/drop-remnant-intltool-_)
 - [Felipe Borges accepted merge request !36: data: Drop _ from &lt;comment&gt; tag sin...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/36)
 - [Felipe Borges closed issue #18: org.gnome.Connections.xml is not translatable...](https://gitlab.gnome.org/GNOME/connections/-/issues/18)
@@ -17,10 +21,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/2f15060be792c1b3df42be01f2d2489717176a4d...a3a5e5fc644748a417a6925a7d00970135bd67f4)
 - [Felipe Borges pushed to project branch reinstate-gnome-branding at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/compare/3cf81284e6ab642054256be0ba70c421f02ae70b...a3a5e5fc644748a417a6925a7d00970135bd67f4)
 - [Felipe Borges deleted project branch update-submodules-on-build at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/commits/update-submodules-on-build)
-- [Felipe Borges accepted merge request !35: ci: Test against Fedora latest inst...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/35)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/2f15060be792c1b3df42be01f2d2489717176a4d)
-- [Felipe Borges opened merge request !35: ci: Test against Fedora latest instea...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/35)
-- [Felipe Borges pushed to project branch update-submodules-on-build at GNOME / ...](https://gitlab.gnome.org/GNOME/connections/-/commit/2f15060be792c1b3df42be01f2d2489717176a4d)
 <!-- BLOG-POST-LIST:END -->
 
 ___
