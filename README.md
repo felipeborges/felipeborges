@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges accepted merge request !38: Resolve &quot;Allow pressing enter to co...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/38)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/f58a5d602f7c7717d579613867945dcba8a6542e...43f0bdc9c5c70979faae5daff1d2217c30fd3ff7)
+- [Felipe Borges commented on merge request !38 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/38#note_969715)
 - [Felipe Borges commented on issue #1 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/1#note_968714)
 - [Felipe Borges commented on merge request !399 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/399#note_968641)
 - [Felipe Borges pushed new project tag v3.38.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/v3.38.2)
@@ -18,9 +21,6 @@
 - [Felipe Borges opened merge request !36: data: Drop _ from &lt;comment&gt; tag since...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/36)
 - [Felipe Borges pushed new project branch drop-remnant-intltool-_ at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/commits/drop-remnant-intltool-_)
 - [Felipe Borges closed issue #19: Incorrect string. at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/19)
-- [Felipe Borges commented on issue #20 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/20#note_966425)
-- [Felipe Borges closed issue #20: VNC in absolute pointer mode should have a lo...](https://gitlab.gnome.org/GNOME/connections/-/issues/20)
-- [Felipe Borges closed issue #22: GNOME Boxes - VNC quality settings at GNOME /...](https://gitlab.gnome.org/GNOME/connections/-/issues/22)
 <!-- BLOG-POST-LIST:END -->
 
 ___
