@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #1 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/issues/1#note_971897)
 - [Felipe Borges commented on merge request !677 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/677#note_971729)
 - [Felipe Borges closed merge request !677: user-accounts: Don&#39;t fill verificati...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/677)
 - [Felipe Borges commented on merge request !723 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/723#note_971728)
@@ -20,7 +21,6 @@
 - [Felipe Borges deleted project branch drop-remnant-intltool-_ at GNOME / Conne...](https://gitlab.gnome.org/GNOME/connections/-/commits/drop-remnant-intltool-_)
 - [Felipe Borges accepted merge request !36: data: Drop _ from &lt;comment&gt; tag sin...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/36)
 - [Felipe Borges closed issue #18: org.gnome.Connections.xml is not translatable...](https://gitlab.gnome.org/GNOME/connections/-/issues/18)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/f58a5d602f7c7717d579613867945dcba8a6542e)
 <!-- BLOG-POST-LIST:END -->
 
 ___
