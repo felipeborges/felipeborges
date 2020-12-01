@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !37 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/37#note_974837)
+- [Felipe Borges accepted merge request !37: Tidy up confirmation of deleted con...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/37)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/8db1e01d4a1831c7fbbf8edacfacc605b1cab8a0)
 - [Felipe Borges deleted project branch properties-dialog-tweaks at GNOME / Conn...](https://gitlab.gnome.org/GNOME/connections/-/commits/properties-dialog-tweaks)
 - [Felipe Borges accepted merge request !40: Properties dialog tweaks at GNOME /...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/40)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/064dafe84fa45d5ee1519cf8b38e0d8c5394fd11...8960d08265b1740e40d6c7a2251d32332d17bd4d)
@@ -18,9 +21,6 @@
 - [Felipe Borges accepted merge request !399: Remove unnecessary repetition: to ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/399)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/28749f0778853ad2c9d8d8f0179408f4e0d7977f)
 - [Felipe Borges commented on issue #633 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/633#note_974089)
-- [Felipe Borges closed issue #633: Doubled word (to to) in 3d-acceleration.page...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/633)
-- [Felipe Borges commented on merge request !400 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/400#note_974087)
-- [Felipe Borges closed merge request !400: Solved issue #633 at GNOME / GNOME B...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/400)
 <!-- BLOG-POST-LIST:END -->
 
 ___
