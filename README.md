@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed new project branch wip/run-in-bg at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/wip/run-in-bg)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/2804502c247030b4d00123867fea0e2ca64bc1b1)
 - [Felipe Borges opened merge request !41: Refactor properties instanciation at ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/41)
 - [Felipe Borges pushed new project branch refactor-properties-instanciation at ...](https://gitlab.gnome.org/GNOME/connections/-/commits/refactor-properties-instanciation)
@@ -20,7 +21,6 @@
 - [Felipe Borges commented on issue #37 at Infrastructure / blogs-web](https://gitlab.gnome.org/Infrastructure/blogs-web/-/issues/37#note_974094)
 - [Felipe Borges commented on merge request !902 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/902#note_974093)
 - [Felipe Borges approved merge request !902: mouse-test: Remove useless unreach...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/902)
-- [Felipe Borges closed issue #32: help: doubled word (a a) at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/32)
 <!-- BLOG-POST-LIST:END -->
 
 ___
