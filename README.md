@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/2804502c247030b4d00123867fea0e2ca64bc1b1)
 - [Felipe Borges opened merge request !41: Refactor properties instanciation at ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/41)
 - [Felipe Borges pushed new project branch refactor-properties-instanciation at ...](https://gitlab.gnome.org/GNOME/connections/-/commits/refactor-properties-instanciation)
 - [Felipe Borges deleted project branch unify-outreachy-channel at Felipe Borges...](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/unify-outreachy-channel)
@@ -20,7 +21,6 @@
 - [Felipe Borges commented on merge request !902 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/902#note_974093)
 - [Felipe Borges approved merge request !902: mouse-test: Remove useless unreach...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/902)
 - [Felipe Borges closed issue #32: help: doubled word (a a) at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/32)
-- [Felipe Borges accepted merge request !39: Solved issue #32 at GNOME / Connect...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/39)
 <!-- BLOG-POST-LIST:END -->
 
 ___
