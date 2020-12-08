@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch wip/run-in-bg at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/67182c0740b162e7ba041a2f5d84121fbb156028...546aba6b5592d1bf23f0109b3f1e97c1e9b162c7)
+- [Felipe Borges pushed to project branch wip/run-in-bg at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/67182c0740b162e7ba041a2f5d84121fbb156028)
+- [Felipe Borges pushed to project branch wip/run-in-bg at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/046bd92ef6258ea006826c5b2a6246ee93b67c71...6a64cef5b0a6580515ecdd1b96fe25b5f7fe158c)
 - [Felipe Borges commented on merge request !401 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401#note_980240)
 - [Felipe Borges pushed to project branch wip/run-in-bg at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/c04428e2b8a0f3e6bdfcf2a0e517c2761da35d09...046bd92ef6258ea006826c5b2a6246ee93b67c71)
 - [Felipe Borges commented on merge request !401 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401#note_977581)
@@ -18,9 +21,6 @@
 - [Felipe Borges commented on merge request !37 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/37#note_974837)
 - [Felipe Borges accepted merge request !37: Tidy up confirmation of deleted con...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/37)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/8db1e01d4a1831c7fbbf8edacfacc605b1cab8a0)
-- [Felipe Borges deleted project branch properties-dialog-tweaks at GNOME / Conn...](https://gitlab.gnome.org/GNOME/connections/-/commits/properties-dialog-tweaks)
-- [Felipe Borges accepted merge request !40: Properties dialog tweaks at GNOME /...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/40)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/064dafe84fa45d5ee1519cf8b38e0d8c5394fd11...8960d08265b1740e40d6c7a2251d32332d17bd4d)
 <!-- BLOG-POST-LIST:END -->
 
 ___
