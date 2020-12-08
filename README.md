@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !401 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401#note_980240)
+- [Felipe Borges pushed to project branch wip/run-in-bg at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/c04428e2b8a0f3e6bdfcf2a0e517c2761da35d09...046bd92ef6258ea006826c5b2a6246ee93b67c71)
 - [Felipe Borges commented on merge request !401 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401#note_977581)
 - [Felipe Borges commented on merge request !401 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401#note_977548)
 - [Felipe Borges commented on merge request !401 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401#note_977547)
@@ -19,8 +21,6 @@
 - [Felipe Borges deleted project branch properties-dialog-tweaks at GNOME / Conn...](https://gitlab.gnome.org/GNOME/connections/-/commits/properties-dialog-tweaks)
 - [Felipe Borges accepted merge request !40: Properties dialog tweaks at GNOME /...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/40)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/064dafe84fa45d5ee1519cf8b38e0d8c5394fd11...8960d08265b1740e40d6c7a2251d32332d17bd4d)
-- [Felipe Borges pushed to project branch properties-dialog-tweaks at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/compare/237aa395216f738fe0c59545e352ac8fc1b30222...8960d08265b1740e40d6c7a2251d32332d17bd4d)
-- [Felipe Borges opened merge request !40: Properties dialog tweaks at GNOME / C...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/40)
 <!-- BLOG-POST-LIST:END -->
 
 ___
