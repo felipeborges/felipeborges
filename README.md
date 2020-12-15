@@ -1,6 +1,12 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch wip/run-in-bg at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/wip/run-in-bg)
+- [Felipe Borges accepted merge request !401: app: Keep GApplication alive when ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401)
+- [Felipe Borges closed issue #379: [flatpak] &quot;Run in Background&quot; policy at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/379)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/74580034dc58842009ca315a486cec2191f47d97...48fed39634553d0d745a7a467cc2c088505732c4)
+- [Felipe Borges commented on merge request !401 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401#note_985469)
+- [Felipe Borges pushed to project branch wip/run-in-bg at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/4cfde64ac3644ffd79aaf5eefad05a2f921697c7...48fed39634553d0d745a7a467cc2c088505732c4)
 - [Felipe Borges commented on merge request !165 at GNOME / Sound Recorder](https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/merge_requests/165#note_980581)
 - [Felipe Borges commented on merge request !165 at GNOME / Sound Recorder](https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/merge_requests/165#note_980579)
 - [Felipe Borges commented on merge request !165 at GNOME / Sound Recorder](https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/merge_requests/165#note_980578)
@@ -15,12 +21,6 @@
 - [Felipe Borges commented on merge request !401 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401#note_980240)
 - [Felipe Borges pushed to project branch wip/run-in-bg at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/c04428e2b8a0f3e6bdfcf2a0e517c2761da35d09...046bd92ef6258ea006826c5b2a6246ee93b67c71)
 - [Felipe Borges commented on merge request !401 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401#note_977581)
-- [Felipe Borges commented on merge request !401 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401#note_977548)
-- [Felipe Borges commented on merge request !401 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401#note_977547)
-- [Felipe Borges opened merge request !401: app: Keep GApplication alive when ru...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401)
-- [Felipe Borges pushed to project branch wip/run-in-bg at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/c04428e2b8a0f3e6bdfcf2a0e517c2761da35d09)
-- [Felipe Borges pushed new project branch wip/run-in-bg at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/wip/run-in-bg)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/2804502c247030b4d00123867fea0e2ca64bc1b1)
 <!-- BLOG-POST-LIST:END -->
 
 ___
