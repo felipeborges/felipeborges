@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #637 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637#note_989812)
 - [Felipe Borges commented on merge request !919 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/919#note_989780)
 - [Felipe Borges commented on merge request !919 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/919#note_987345)
 - [Felipe Borges opened merge request !919: info-overview: Present Hardware &quot;ven...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/919)
@@ -20,7 +21,6 @@
 - [Felipe Borges commented on merge request !29 at GNOME / GNOME Tour](https://gitlab.gnome.org/GNOME/gnome-tour/-/merge_requests/29#note_980573)
 - [Felipe Borges closed merge request !29: Add Arabic translation at GNOME / GNO...](https://gitlab.gnome.org/GNOME/gnome-tour/-/merge_requests/29)
 - [Felipe Borges pushed to project branch wip/run-in-bg at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/4cfde64ac3644ffd79aaf5eefad05a2f921697c7)
-- [Felipe Borges pushed to project branch wip/run-in-bg at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/67182c0740b162e7ba041a2f5d84121fbb156028...546aba6b5592d1bf23f0109b3f1e97c1e9b162c7)
 <!-- BLOG-POST-LIST:END -->
 
 ___
