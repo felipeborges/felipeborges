@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #638 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/638#note_991281)
+- [Felipe Borges closed issue #638: Multiple instances of Gnome OS Nightly persi...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/638)
 - [Felipe Borges commented on issue #637 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637#note_989941)
 - [Felipe Borges commented on issue #637 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637#note_989812)
 - [Felipe Borges commented on merge request !919 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/919#note_989780)
@@ -19,8 +21,6 @@
 - [Felipe Borges commented on merge request !165 at GNOME / Sound Recorder](https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/merge_requests/165#note_980578)
 - [Felipe Borges commented on merge request !165 at GNOME / Sound Recorder](https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/merge_requests/165#note_980577)
 - [Felipe Borges commented on merge request !165 at GNOME / Sound Recorder](https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/merge_requests/165#note_980576)
-- [Felipe Borges commented on merge request !29 at GNOME / GNOME Tour](https://gitlab.gnome.org/GNOME/gnome-tour/-/merge_requests/29#note_980573)
-- [Felipe Borges closed merge request !29: Add Arabic translation at GNOME / GNO...](https://gitlab.gnome.org/GNOME/gnome-tour/-/merge_requests/29)
 <!-- BLOG-POST-LIST:END -->
 
 ___
