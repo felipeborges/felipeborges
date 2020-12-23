@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #639 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/639#note_991341)
+- [Felipe Borges closed issue #639: Issue on windows 10 virtual machine and Cura...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/639)
 - [Felipe Borges commented on issue #638 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/638#note_991281)
 - [Felipe Borges closed issue #638: Multiple instances of Gnome OS Nightly persi...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/638)
 - [Felipe Borges commented on issue #637 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637#note_989941)
@@ -19,8 +21,6 @@
 - [Felipe Borges commented on merge request !165 at GNOME / Sound Recorder](https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/merge_requests/165#note_980581)
 - [Felipe Borges commented on merge request !165 at GNOME / Sound Recorder](https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/merge_requests/165#note_980579)
 - [Felipe Borges commented on merge request !165 at GNOME / Sound Recorder](https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/merge_requests/165#note_980578)
-- [Felipe Borges commented on merge request !165 at GNOME / Sound Recorder](https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/merge_requests/165#note_980577)
-- [Felipe Borges commented on merge request !165 at GNOME / Sound Recorder](https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/merge_requests/165#note_980576)
 <!-- BLOG-POST-LIST:END -->
 
 ___
