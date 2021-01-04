@@ -19,8 +19,6 @@
 - [Felipe Borges deleted project branch wip/run-in-bg at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/wip/run-in-bg)
 - [Felipe Borges accepted merge request !401: app: Keep GApplication alive when ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401)
 - [Felipe Borges closed issue #379: [flatpak] &quot;Run in Background&quot; policy at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/379)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/74580034dc58842009ca315a486cec2191f47d97...48fed39634553d0d745a7a467cc2c088505732c4)
-- [Felipe Borges commented on merge request !401 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401#note_985469)
 <!-- BLOG-POST-LIST:END -->
 
 ___
