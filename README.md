@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #637 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637#note_997218)
 - [Felipe Borges commented on issue #637 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637#note_997105)
 - [Felipe Borges commented on merge request !402 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/402#note_997060)
 - [Felipe Borges commented on issue #83 at Tobias Bernard / App Ideas](https://gitlab.gnome.org/bertob/app-ideas/-/issues/83#note_997059)
@@ -18,7 +19,6 @@
 - [Felipe Borges pushed new project branch hostnamed-device-model-vendor at GNOM...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/hostnamed-device-model-vendor)
 - [Felipe Borges commented on issue #1219 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1219#note_987109)
 - [Felipe Borges deleted project branch wip/run-in-bg at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/wip/run-in-bg)
-- [Felipe Borges accepted merge request !401: app: Keep GApplication alive when ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401)
 <!-- BLOG-POST-LIST:END -->
 
 ___
