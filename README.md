@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !402 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/402#note_997060)
+- [Felipe Borges commented on issue #83 at Tobias Bernard / App Ideas](https://gitlab.gnome.org/bertob/app-ideas/-/issues/83#note_997059)
+- [Felipe Borges commented on merge request !403 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/403#note_997057)
+- [Felipe Borges closed merge request !403: Update Turkish Translation at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/403)
 - [Felipe Borges commented on issue #639 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/639#note_991341)
 - [Felipe Borges closed issue #639: Issue on windows 10 virtual machine and Cura...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/639)
 - [Felipe Borges commented on issue #638 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/638#note_991281)
@@ -17,10 +21,6 @@
 - [Felipe Borges closed issue #379: [flatpak] &quot;Run in Background&quot; policy at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/379)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/74580034dc58842009ca315a486cec2191f47d97...48fed39634553d0d745a7a467cc2c088505732c4)
 - [Felipe Borges commented on merge request !401 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/401#note_985469)
-- [Felipe Borges pushed to project branch wip/run-in-bg at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/4cfde64ac3644ffd79aaf5eefad05a2f921697c7...48fed39634553d0d745a7a467cc2c088505732c4)
-- [Felipe Borges commented on merge request !165 at GNOME / Sound Recorder](https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/merge_requests/165#note_980581)
-- [Felipe Borges commented on merge request !165 at GNOME / Sound Recorder](https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/merge_requests/165#note_980579)
-- [Felipe Borges commented on merge request !165 at GNOME / Sound Recorder](https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/merge_requests/165#note_980578)
 <!-- BLOG-POST-LIST:END -->
 
 ___
