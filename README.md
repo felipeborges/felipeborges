@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch master at Felipe Borges / gnome-boxes-...](https://gitlab.gnome.org/felipeborges/gnome-boxes-fedora-flatpak/-/commit/eb9cebfc83163f1eb59e3a53133ebaab361091ab)
 - [Felipe Borges pushed new project branch master at Felipe Borges / gnome-boxes...](https://gitlab.gnome.org/felipeborges/gnome-boxes-fedora-flatpak/-/commits/master)
 - [Felipe Borges created project Felipe Borges / gnome-boxes-fedora-flatpak](https://gitlab.gnome.org/felipeborges/gnome-boxes-fedora-flatpak)
 - [Felipe Borges commented on issue #1264 at GNOME / gnome-builder](https://gitlab.gnome.org/GNOME/gnome-builder/-/issues/1264#note_997325)
@@ -18,7 +19,6 @@
 - [Felipe Borges commented on issue #637 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637#note_989812)
 - [Felipe Borges commented on merge request !919 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/919#note_989780)
 - [Felipe Borges commented on merge request !919 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/919#note_987345)
-- [Felipe Borges opened merge request !919: info-overview: Present Hardware &quot;ven...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/919)
 <!-- BLOG-POST-LIST:END -->
 
 ___
