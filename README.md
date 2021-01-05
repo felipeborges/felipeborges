@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch backport-vala-fixes at GNOME / tracker](https://gitlab.gnome.org/GNOME/tracker/-/commits/backport-vala-fixes)
+- [Felipe Borges opened merge request !367: [tracker-3.0] libtracker-sparql: Fix...](https://gitlab.gnome.org/GNOME/tracker/-/merge_requests/367)
+- [Felipe Borges pushed new project branch backport-vala-fixes at GNOME / tracker](https://gitlab.gnome.org/GNOME/tracker/-/commits/backport-vala-fixes)
+- [Felipe Borges opened issue #1307: Make &quot;evolution-backup&quot; work for the Flatpa...](https://gitlab.gnome.org/GNOME/evolution/-/issues/1307)
 - [Felipe Borges pushed to project branch master at Felipe Borges / gnome-boxes-...](https://gitlab.gnome.org/felipeborges/gnome-boxes-fedora-flatpak/-/commit/eb9cebfc83163f1eb59e3a53133ebaab361091ab)
 - [Felipe Borges pushed new project branch master at Felipe Borges / gnome-boxes...](https://gitlab.gnome.org/felipeborges/gnome-boxes-fedora-flatpak/-/commits/master)
 - [Felipe Borges created project Felipe Borges / gnome-boxes-fedora-flatpak](https://gitlab.gnome.org/felipeborges/gnome-boxes-fedora-flatpak)
@@ -15,10 +19,6 @@
 - [Felipe Borges closed issue #639: Issue on windows 10 virtual machine and Cura...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/639)
 - [Felipe Borges commented on issue #638 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/638#note_991281)
 - [Felipe Borges closed issue #638: Multiple instances of Gnome OS Nightly persi...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/638)
-- [Felipe Borges commented on issue #637 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637#note_989941)
-- [Felipe Borges commented on issue #637 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637#note_989812)
-- [Felipe Borges commented on merge request !919 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/919#note_989780)
-- [Felipe Borges commented on merge request !919 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/919#note_987345)
 <!-- BLOG-POST-LIST:END -->
 
 ___
