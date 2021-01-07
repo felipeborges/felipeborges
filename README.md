@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #641 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/641#note_999861)
+- [Felipe Borges opened issue #641: Indicate operating systems that support expr...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/641)
 - [Felipe Borges pushed to project branch fix-typos at Felipe Borges / gnome-use...](https://gitlab.gnome.org/felipeborges/gnome-user-docs/-/compare/8ce3ae6bc143b971608941777da0ba16011a2e07...e875e2a1dc4fc79aca0e001665670ace560b6f80)
 - [Felipe Borges deleted project branch backport-vala-fixes at GNOME / tracker](https://gitlab.gnome.org/GNOME/tracker/-/commits/backport-vala-fixes)
 - [Felipe Borges opened merge request !367: [tracker-3.0] libtracker-sparql: Fix...](https://gitlab.gnome.org/GNOME/tracker/-/merge_requests/367)
@@ -17,8 +19,6 @@
 - [Felipe Borges commented on merge request !403 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/403#note_997057)
 - [Felipe Borges closed merge request !403: Update Turkish Translation at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/403)
 - [Felipe Borges commented on issue #639 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/639#note_991341)
-- [Felipe Borges closed issue #639: Issue on windows 10 virtual machine and Cura...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/639)
-- [Felipe Borges commented on issue #638 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/638#note_991281)
 <!-- BLOG-POST-LIST:END -->
 
 ___
