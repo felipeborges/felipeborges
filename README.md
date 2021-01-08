@@ -1,6 +1,12 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges accepted merge request !402: Use HdyApplicationWindow and HdyHe...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/402)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/70aa88d18a3e8215db9f9b15be55fdeae051b55d)
+- [Felipe Borges commented on merge request !402 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/402#note_1000776)
+- [Felipe Borges pushed to project branch wip/cdavis/hdywindow at GNOME / GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/14a60aa0c5ee58d1b4ccfb8c185be55e1cc9d737...70aa88d18a3e8215db9f9b15be55fdeae051b55d)
+- [Felipe Borges commented on issue #613 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/613#note_1000761)
+- [Felipe Borges closed issue #613: Something went wrong: Boxes cannot access th...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/613)
 - [Felipe Borges commented on issue #625 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/625#note_1000756)
 - [Felipe Borges closed issue #625: Gnome-Boxes Crash Ubuntu at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/625)
 - [Felipe Borges commented on issue #634 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/634#note_1000745)
@@ -15,10 +21,6 @@
 - [Felipe Borges pushed to project branch master at Felipe Borges / gnome-boxes-...](https://gitlab.gnome.org/felipeborges/gnome-boxes-fedora-flatpak/-/commit/eb9cebfc83163f1eb59e3a53133ebaab361091ab)
 - [Felipe Borges pushed new project branch master at Felipe Borges / gnome-boxes...](https://gitlab.gnome.org/felipeborges/gnome-boxes-fedora-flatpak/-/commits/master)
 - [Felipe Borges created project Felipe Borges / gnome-boxes-fedora-flatpak](https://gitlab.gnome.org/felipeborges/gnome-boxes-fedora-flatpak)
-- [Felipe Borges commented on issue #1264 at GNOME / gnome-builder](https://gitlab.gnome.org/GNOME/gnome-builder/-/issues/1264#note_997325)
-- [Felipe Borges commented on issue #637 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637#note_997218)
-- [Felipe Borges commented on issue #637 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637#note_997105)
-- [Felipe Borges commented on merge request !402 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/402#note_997060)
 <!-- BLOG-POST-LIST:END -->
 
 ___
