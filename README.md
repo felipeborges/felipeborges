@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #625 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/625#note_1000756)
+- [Felipe Borges closed issue #625: Gnome-Boxes Crash Ubuntu at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/625)
+- [Felipe Borges commented on issue #634 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/634#note_1000745)
+- [Felipe Borges closed issue #634: (Flatpak) Gnome boxes crashes on launch at G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/634)
 - [Felipe Borges commented on issue #641 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/641#note_999861)
 - [Felipe Borges opened issue #641: Indicate operating systems that support expr...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/641)
 - [Felipe Borges pushed to project branch fix-typos at Felipe Borges / gnome-use...](https://gitlab.gnome.org/felipeborges/gnome-user-docs/-/compare/8ce3ae6bc143b971608941777da0ba16011a2e07...e875e2a1dc4fc79aca0e001665670ace560b6f80)
@@ -15,10 +19,6 @@
 - [Felipe Borges commented on issue #637 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637#note_997218)
 - [Felipe Borges commented on issue #637 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637#note_997105)
 - [Felipe Borges commented on merge request !402 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/402#note_997060)
-- [Felipe Borges commented on issue #83 at Tobias Bernard / App Ideas](https://gitlab.gnome.org/bertob/app-ideas/-/issues/83#note_997059)
-- [Felipe Borges commented on merge request !403 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/403#note_997057)
-- [Felipe Borges closed merge request !403: Update Turkish Translation at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/403)
-- [Felipe Borges commented on issue #639 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/639#note_991341)
 <!-- BLOG-POST-LIST:END -->
 
 ___
