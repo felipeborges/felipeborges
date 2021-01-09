@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #635 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/635#note_1002108)
 - [Felipe Borges accepted merge request !402: Use HdyApplicationWindow and HdyHe...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/402)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/70aa88d18a3e8215db9f9b15be55fdeae051b55d)
 - [Felipe Borges commented on merge request !402 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/402#note_1000776)
@@ -20,7 +21,6 @@
 - [Felipe Borges opened issue #1307: Make &quot;evolution-backup&quot; work for the Flatpa...](https://gitlab.gnome.org/GNOME/evolution/-/issues/1307)
 - [Felipe Borges pushed to project branch master at Felipe Borges / gnome-boxes-...](https://gitlab.gnome.org/felipeborges/gnome-boxes-fedora-flatpak/-/commit/eb9cebfc83163f1eb59e3a53133ebaab361091ab)
 - [Felipe Borges pushed new project branch master at Felipe Borges / gnome-boxes...](https://gitlab.gnome.org/felipeborges/gnome-boxes-fedora-flatpak/-/commits/master)
-- [Felipe Borges created project Felipe Borges / gnome-boxes-fedora-flatpak](https://gitlab.gnome.org/felipeborges/gnome-boxes-fedora-flatpak)
 <!-- BLOG-POST-LIST:END -->
 
 ___
