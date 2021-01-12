@@ -1,6 +1,11 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !607 at GNOME / nautilus](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1004828)
+- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/compare/7bf257d5fe1eb6168e7b3c427dbe12b7856c62c2...899643571ea50c4d3786ecd1b39f6a5bd355e1d5)
+- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1004810)
+- [Felipe Borges opened merge request !7: extractor: Add support for password pr...](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7)
+- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commit/d401d75f5b51091e351fde05b1c9823e589cbffa)
 - [Felipe Borges commented on issue #177 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/177#note_1003763)
 - [Felipe Borges commented on issue #635 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/635#note_1002108)
 - [Felipe Borges accepted merge request !402: Use HdyApplicationWindow and HdyHe...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/402)
@@ -16,11 +21,6 @@
 - [Felipe Borges commented on issue #641 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/641#note_999861)
 - [Felipe Borges opened issue #641: Indicate operating systems that support expr...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/641)
 - [Felipe Borges pushed to project branch fix-typos at Felipe Borges / gnome-use...](https://gitlab.gnome.org/felipeborges/gnome-user-docs/-/compare/8ce3ae6bc143b971608941777da0ba16011a2e07...e875e2a1dc4fc79aca0e001665670ace560b6f80)
-- [Felipe Borges deleted project branch backport-vala-fixes at GNOME / tracker](https://gitlab.gnome.org/GNOME/tracker/-/commits/backport-vala-fixes)
-- [Felipe Borges opened merge request !367: [tracker-3.0] libtracker-sparql: Fix...](https://gitlab.gnome.org/GNOME/tracker/-/merge_requests/367)
-- [Felipe Borges pushed new project branch backport-vala-fixes at GNOME / tracker](https://gitlab.gnome.org/GNOME/tracker/-/commits/backport-vala-fixes)
-- [Felipe Borges opened issue #1307: Make &quot;evolution-backup&quot; work for the Flatpa...](https://gitlab.gnome.org/GNOME/evolution/-/issues/1307)
-- [Felipe Borges pushed to project branch master at Felipe Borges / gnome-boxes-...](https://gitlab.gnome.org/felipeborges/gnome-boxes-fedora-flatpak/-/commit/eb9cebfc83163f1eb59e3a53133ebaab361091ab)
 <!-- BLOG-POST-LIST:END -->
 
 ___
