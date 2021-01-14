@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #534 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/534#note_1006649)
 - [Felipe Borges commented on merge request !607 at GNOME / nautilus](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1004828)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/compare/7bf257d5fe1eb6168e7b3c427dbe12b7856c62c2...899643571ea50c4d3786ecd1b39f6a5bd355e1d5)
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1004810)
@@ -20,7 +21,6 @@
 - [Felipe Borges closed issue #634: (Flatpak) Gnome boxes crashes on launch at G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/634)
 - [Felipe Borges commented on issue #641 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/641#note_999861)
 - [Felipe Borges opened issue #641: Indicate operating systems that support expr...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/641)
-- [Felipe Borges pushed to project branch fix-typos at Felipe Borges / gnome-use...](https://gitlab.gnome.org/felipeborges/gnome-user-docs/-/compare/8ce3ae6bc143b971608941777da0ba16011a2e07...e875e2a1dc4fc79aca0e001665670ace560b6f80)
 <!-- BLOG-POST-LIST:END -->
 
 ___
