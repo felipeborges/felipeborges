@@ -20,7 +20,6 @@
 - [Felipe Borges commented on issue #613 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/613#note_1000761)
 - [Felipe Borges closed issue #613: Something went wrong: Boxes cannot access th...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/613)
 - [Felipe Borges commented on issue #625 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/625#note_1000756)
-- [Felipe Borges closed issue #625: Gnome-Boxes Crash Ubuntu at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/625)
 <!-- BLOG-POST-LIST:END -->
 
 ___
