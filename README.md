@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !42 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/42#note_1010465)
 - [Felipe Borges commented on merge request !919 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/919#note_1007556)
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1006712)
 - [Felipe Borges commented on issue #534 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/534#note_1006698)
@@ -20,7 +21,6 @@
 - [Felipe Borges closed issue #613: Something went wrong: Boxes cannot access th...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/613)
 - [Felipe Borges commented on issue #625 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/625#note_1000756)
 - [Felipe Borges closed issue #625: Gnome-Boxes Crash Ubuntu at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/625)
-- [Felipe Borges commented on issue #634 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/634#note_1000745)
 <!-- BLOG-POST-LIST:END -->
 
 ___
