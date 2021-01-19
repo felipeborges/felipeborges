@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened merge request !1: Add &quot;Project proposal&quot; issue template ...](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/merge_requests/1)
+- [Felipe Borges pushed new project branch add-proposal-issue-template at Teams ...](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/commits/add-proposal-issue-template)
 - [Felipe Borges commented on merge request !42 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/42#note_1010465)
 - [Felipe Borges commented on merge request !919 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/919#note_1007556)
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1006712)
@@ -17,9 +19,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/70aa88d18a3e8215db9f9b15be55fdeae051b55d)
 - [Felipe Borges commented on merge request !402 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/402#note_1000776)
 - [Felipe Borges pushed to project branch wip/cdavis/hdywindow at GNOME / GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/14a60aa0c5ee58d1b4ccfb8c185be55e1cc9d737...70aa88d18a3e8215db9f9b15be55fdeae051b55d)
-- [Felipe Borges commented on issue #613 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/613#note_1000761)
-- [Felipe Borges closed issue #613: Something went wrong: Boxes cannot access th...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/613)
-- [Felipe Borges commented on issue #625 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/625#note_1000756)
 <!-- BLOG-POST-LIST:END -->
 
 ___
