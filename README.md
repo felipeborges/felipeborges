@@ -18,7 +18,6 @@
 - [Felipe Borges opened merge request !7: extractor: Add support for password pr...](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commit/d401d75f5b51091e351fde05b1c9823e589cbffa)
 - [Felipe Borges commented on issue #177 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/177#note_1003763)
-- [Felipe Borges commented on issue #635 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/635#note_1002108)
 <!-- BLOG-POST-LIST:END -->
 
 ___
