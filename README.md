@@ -1,6 +1,13 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013651)
+- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013648)
+- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013644)
+- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013643)
+- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013640)
+- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013639)
+- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commit/aa1e6e226d44c28062cf1d168c6b0765626a9149)
 - [Felipe Borges deleted project branch refactor-properties-instanciation at GNO...](https://gitlab.gnome.org/GNOME/connections/-/commits/refactor-properties-instanciation)
 - [Felipe Borges accepted merge request !41: Refactor properties instanciation a...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/41)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/75fb737014ee21e230f681e4ccb755814df8c92b...cd84f0adf38ee3b397264e5f330512c6c5b074c6)
@@ -11,13 +18,6 @@
 - [Felipe Borges commented on merge request !919 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/919#note_1007556)
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1006712)
 - [Felipe Borges commented on issue #534 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/534#note_1006698)
-- [Felipe Borges commented on issue #534 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/534#note_1006649)
-- [Felipe Borges commented on merge request !607 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1004828)
-- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/compare/7bf257d5fe1eb6168e7b3c427dbe12b7856c62c2...899643571ea50c4d3786ecd1b39f6a5bd355e1d5)
-- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1004810)
-- [Felipe Borges opened merge request !7: extractor: Add support for password pr...](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7)
-- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commit/d401d75f5b51091e351fde05b1c9823e589cbffa)
-- [Felipe Borges commented on issue #177 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/177#note_1003763)
 <!-- BLOG-POST-LIST:END -->
 
 ___
