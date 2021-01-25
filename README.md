@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges closed issue #637: Crash when clicking on &quot;Create a Virtual Mac...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637)
 - [Felipe Borges commented on merge request !87 at GNOME / network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet/-/merge_requests/87#note_1013676)
 - [Felipe Borges commented on merge request !87 at GNOME / network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet/-/merge_requests/87#note_1013671)
 - [Felipe Borges commented on merge request !87 at GNOME / network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet/-/merge_requests/87#note_1013668)
