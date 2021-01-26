@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/compare/899643571ea50c4d3786ecd1b39f6a5bd355e1d5...ec5d3531324bfd97b51732a90b615f6093e1442b)
 - [Felipe Borges commented on issue #644 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/644#note_1016188)
 - [Felipe Borges closed issue #637: Crash when clicking on &quot;Create a Virtual Mac...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637)
 - [Felipe Borges commented on merge request !87 at GNOME / network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet/-/merge_requests/87#note_1013676)
