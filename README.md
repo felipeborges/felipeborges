@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch hostnamed-device-model-vendor at GNOME...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commit/873e7db16fff9a72fe059896d59d3fb23f87018d)
 - [Felipe Borges accepted merge request !938: mouse: Drop unused g-s-d GSettings...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/938)
 - [Felipe Borges pushed to project branch master at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commit/fe9b66c387ed38e58fad0d0ef4cd091778a2b837)
 - [Felipe Borges commented on merge request !938 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/938#note_1017764)
