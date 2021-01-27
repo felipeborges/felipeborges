@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges accepted merge request !938: mouse: Drop unused g-s-d GSettings...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/938)
+- [Felipe Borges pushed to project branch master at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commit/fe9b66c387ed38e58fad0d0ef4cd091778a2b837)
+- [Felipe Borges commented on merge request !938 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/938#note_1017764)
 - [Felipe Borges pushed to project branch hostnamed-device-model-vendor at GNOME...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commit/bf6b7e2a216761b025541f469b43d1d16ac4db03)
 - [Felipe Borges pushed to project branch hostnamed-device-model-vendor at GNOME...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/compare/6e414fb6ebea83293a5cd30b797941464339cde3...6abc8425f4a22430e68322cd109483f362ac25dd)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/compare/899643571ea50c4d3786ecd1b39f6a5bd355e1d5...ec5d3531324bfd97b51732a90b615f6093e1442b)
@@ -17,9 +20,6 @@
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013640)
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013639)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commit/aa1e6e226d44c28062cf1d168c6b0765626a9149)
-- [Felipe Borges deleted project branch refactor-properties-instanciation at GNO...](https://gitlab.gnome.org/GNOME/connections/-/commits/refactor-properties-instanciation)
-- [Felipe Borges accepted merge request !41: Refactor properties instanciation a...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/41)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/75fb737014ee21e230f681e4ccb755814df8c92b...cd84f0adf38ee3b397264e5f330512c6c5b074c6)
 <!-- BLOG-POST-LIST:END -->
 
 ___
