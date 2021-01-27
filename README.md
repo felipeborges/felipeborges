@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch hostnamed-device-model-vendor at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/hostnamed-device-model-vendor)
+- [Felipe Borges commented on merge request !919 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/919#note_1017824)
 - [Felipe Borges pushed to project branch hostnamed-device-model-vendor at GNOME...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commit/873e7db16fff9a72fe059896d59d3fb23f87018d)
 - [Felipe Borges accepted merge request !938: mouse: Drop unused g-s-d GSettings...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/938)
 - [Felipe Borges pushed to project branch master at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commit/fe9b66c387ed38e58fad0d0ef4cd091778a2b837)
@@ -19,8 +21,6 @@
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013644)
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013643)
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013640)
-- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013639)
-- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commit/aa1e6e226d44c28062cf1d168c6b0765626a9149)
 <!-- BLOG-POST-LIST:END -->
 
 ___
