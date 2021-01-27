@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges closed merge request !1: Add &quot;Project proposal&quot; issue template ...](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/merge_requests/1)
+- [Felipe Borges pushed to project branch master at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/compare/d2b81cc14dddc984bc1f6dcdd75c3bcfc03e23df...f06eb17035ab9c07e8081e5fade460793aefcda2)
 - [Felipe Borges deleted project branch hostnamed-device-model-vendor at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/hostnamed-device-model-vendor)
 - [Felipe Borges commented on merge request !919 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/919#note_1017824)
 - [Felipe Borges pushed to project branch hostnamed-device-model-vendor at GNOME...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commit/873e7db16fff9a72fe059896d59d3fb23f87018d)
@@ -19,8 +21,6 @@
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013651)
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013648)
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013644)
-- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013643)
-- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013640)
 <!-- BLOG-POST-LIST:END -->
 
 ___
