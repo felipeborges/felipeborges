@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened issue #201: Promote GSoC 2021 call for project ideas at ...](https://gitlab.gnome.org/Teams/Engagement/Social-Media-and-News/-/issues/201)
+- [Felipe Borges commented on issue #7 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/7#note_1017953)
+- [Felipe Borges opened issue #9: GNOME Boxes Website at Teams / Engagement / GS...](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/9)
 - [Felipe Borges closed merge request !1: Add &quot;Project proposal&quot; issue template ...](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/merge_requests/1)
 - [Felipe Borges pushed to project branch master at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/compare/d2b81cc14dddc984bc1f6dcdd75c3bcfc03e23df...f06eb17035ab9c07e8081e5fade460793aefcda2)
 - [Felipe Borges deleted project branch hostnamed-device-model-vendor at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/hostnamed-device-model-vendor)
@@ -18,9 +21,6 @@
 - [Felipe Borges commented on merge request !87 at GNOME / network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet/-/merge_requests/87#note_1013671)
 - [Felipe Borges commented on merge request !87 at GNOME / network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet/-/merge_requests/87#note_1013668)
 - [Felipe Borges commented on merge request !87 at GNOME / network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet/-/merge_requests/87#note_1013665)
-- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013651)
-- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013648)
-- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1013644)
 <!-- BLOG-POST-LIST:END -->
 
 ___
