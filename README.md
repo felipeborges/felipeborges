@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !607 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1018576)
 - [Felipe Borges commented on issue #201 at Teams / Engagement / Social Media an...](https://gitlab.gnome.org/Teams/Engagement/Social-Media-and-News/-/issues/201#note_1018517)
 - [Felipe Borges opened issue #201: Promote GSoC 2021 call for project ideas at ...](https://gitlab.gnome.org/Teams/Engagement/Social-Media-and-News/-/issues/201)
 - [Felipe Borges commented on issue #7 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/7#note_1017953)
@@ -19,8 +20,6 @@
 - [Felipe Borges commented on issue #644 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/644#note_1016188)
 - [Felipe Borges closed issue #637: Crash when clicking on &quot;Create a Virtual Mac...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637)
 - [Felipe Borges commented on merge request !87 at GNOME / network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet/-/merge_requests/87#note_1013676)
-- [Felipe Borges commented on merge request !87 at GNOME / network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet/-/merge_requests/87#note_1013671)
-- [Felipe Borges commented on merge request !87 at GNOME / network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet/-/merge_requests/87#note_1013668)
 <!-- BLOG-POST-LIST:END -->
 
 ___
