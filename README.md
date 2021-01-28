@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #201 at Teams / Engagement / Social Media an...](https://gitlab.gnome.org/Teams/Engagement/Social-Media-and-News/-/issues/201#note_1018517)
 - [Felipe Borges opened issue #201: Promote GSoC 2021 call for project ideas at ...](https://gitlab.gnome.org/Teams/Engagement/Social-Media-and-News/-/issues/201)
 - [Felipe Borges commented on issue #7 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/7#note_1017953)
 - [Felipe Borges opened issue #9: GNOME Boxes Website at Teams / Engagement / GS...](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/9)
@@ -20,7 +21,6 @@
 - [Felipe Borges commented on merge request !87 at GNOME / network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet/-/merge_requests/87#note_1013676)
 - [Felipe Borges commented on merge request !87 at GNOME / network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet/-/merge_requests/87#note_1013671)
 - [Felipe Borges commented on merge request !87 at GNOME / network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet/-/merge_requests/87#note_1013668)
-- [Felipe Borges commented on merge request !87 at GNOME / network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet/-/merge_requests/87#note_1013665)
 <!-- BLOG-POST-LIST:END -->
 
 ___
