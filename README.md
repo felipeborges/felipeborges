@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !607 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1019669)
+- [Felipe Borges commented on merge request !607 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1019635)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/55557c60926aac4c5db08f8e89029ce496aa3fb6)
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1019589)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commit/5c676fcdb22c15955839766297ca3354826addf8)
@@ -18,8 +20,6 @@
 - [Felipe Borges accepted merge request !938: mouse: Drop unused g-s-d GSettings...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/938)
 - [Felipe Borges pushed to project branch master at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commit/fe9b66c387ed38e58fad0d0ef4cd091778a2b837)
 - [Felipe Borges commented on merge request !938 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/938#note_1017764)
-- [Felipe Borges pushed to project branch hostnamed-device-model-vendor at GNOME...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commit/bf6b7e2a216761b025541f469b43d1d16ac4db03)
-- [Felipe Borges pushed to project branch hostnamed-device-model-vendor at GNOME...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/compare/6e414fb6ebea83293a5cd30b797941464339cde3...6abc8425f4a22430e68322cd109483f362ac25dd)
 <!-- BLOG-POST-LIST:END -->
 
 ___
