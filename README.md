@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/55557c60926aac4c5db08f8e89029ce496aa3fb6)
+- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1019589)
+- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commit/5c676fcdb22c15955839766297ca3354826addf8)
 - [Felipe Borges commented on issue #705 at GNOME / fractal](https://gitlab.gnome.org/GNOME/fractal/-/issues/705#note_1019571)
 - [Felipe Borges commented on merge request !607 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1018576)
 - [Felipe Borges commented on issue #201 at Teams / Engagement / Social Media an...](https://gitlab.gnome.org/Teams/Engagement/Social-Media-and-News/-/issues/201#note_1018517)
@@ -17,9 +20,6 @@
 - [Felipe Borges commented on merge request !938 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/938#note_1017764)
 - [Felipe Borges pushed to project branch hostnamed-device-model-vendor at GNOME...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commit/bf6b7e2a216761b025541f469b43d1d16ac4db03)
 - [Felipe Borges pushed to project branch hostnamed-device-model-vendor at GNOME...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/compare/6e414fb6ebea83293a5cd30b797941464339cde3...6abc8425f4a22430e68322cd109483f362ac25dd)
-- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/compare/899643571ea50c4d3786ecd1b39f6a5bd355e1d5...ec5d3531324bfd97b51732a90b615f6093e1442b)
-- [Felipe Borges commented on issue #644 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/644#note_1016188)
-- [Felipe Borges closed issue #637: Crash when clicking on &quot;Create a Virtual Mac...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/637)
 <!-- BLOG-POST-LIST:END -->
 
 ___
