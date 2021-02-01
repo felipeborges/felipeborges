@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !404 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/404#note_1022528)
+- [Felipe Borges pushed to project branch master at Peter / GNOME Boxes](https://gitlab.gnome.org/p3732/gnome-boxes/-/compare/c8c9b785497cc7d37ee99b8bc70bed95dd4f6491...1b2b756e4261753329b676c179342d0511dcda6e)
 - [Felipe Borges commented on merge request !404 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/404#note_1022433)
 - [Felipe Borges commented on issue #646 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/646#note_1019822)
 - [Felipe Borges commented on merge request !935 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/935#note_1019815)
@@ -18,8 +20,6 @@
 - [Felipe Borges closed merge request !1: Add &quot;Project proposal&quot; issue template ...](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/merge_requests/1)
 - [Felipe Borges pushed to project branch master at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/compare/d2b81cc14dddc984bc1f6dcdd75c3bcfc03e23df...f06eb17035ab9c07e8081e5fade460793aefcda2)
 - [Felipe Borges deleted project branch hostnamed-device-model-vendor at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/hostnamed-device-model-vendor)
-- [Felipe Borges commented on merge request !919 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/919#note_1017824)
-- [Felipe Borges pushed to project branch hostnamed-device-model-vendor at GNOME...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commit/873e7db16fff9a72fe059896d59d3fb23f87018d)
 <!-- BLOG-POST-LIST:END -->
 
 ___
