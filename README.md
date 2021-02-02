@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #649 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/649#note_1023628)
+- [Felipe Borges commented on commit 943561d7 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/commit/943561d7697f185890d5f6b6615f4fbb68fbc2e7)
 - [Felipe Borges accepted merge request !404: welcome-tutorial: align welcome gr...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/404)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/1b2b756e4261753329b676c179342d0511dcda6e)
 - [Felipe Borges commented on merge request !404 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/404#note_1022528)
@@ -18,8 +20,6 @@
 - [Felipe Borges commented on issue #201 at Teams / Engagement / Social Media an...](https://gitlab.gnome.org/Teams/Engagement/Social-Media-and-News/-/issues/201#note_1018517)
 - [Felipe Borges opened issue #201: Promote GSoC 2021 call for project ideas at ...](https://gitlab.gnome.org/Teams/Engagement/Social-Media-and-News/-/issues/201)
 - [Felipe Borges commented on issue #7 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/7#note_1017953)
-- [Felipe Borges opened issue #9: GNOME Boxes Website at Teams / Engagement / GS...](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/9)
-- [Felipe Borges closed merge request !1: Add &quot;Project proposal&quot; issue template ...](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/merge_requests/1)
 <!-- BLOG-POST-LIST:END -->
 
 ___
