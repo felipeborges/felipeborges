@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #648 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/648#note_1023728)
+- [Felipe Borges commented on issue #647 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/647#note_1023688)
 - [Felipe Borges commented on issue #649 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/649#note_1023628)
 - [Felipe Borges commented on commit 943561d7 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/commit/943561d7697f185890d5f6b6615f4fbb68fbc2e7)
 - [Felipe Borges accepted merge request !404: welcome-tutorial: align welcome gr...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/404)
@@ -18,8 +20,6 @@
 - [Felipe Borges commented on issue #705 at GNOME / fractal](https://gitlab.gnome.org/GNOME/fractal/-/issues/705#note_1019571)
 - [Felipe Borges commented on merge request !607 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1018576)
 - [Felipe Borges commented on issue #201 at Teams / Engagement / Social Media an...](https://gitlab.gnome.org/Teams/Engagement/Social-Media-and-News/-/issues/201#note_1018517)
-- [Felipe Borges opened issue #201: Promote GSoC 2021 call for project ideas at ...](https://gitlab.gnome.org/Teams/Engagement/Social-Media-and-News/-/issues/201)
-- [Felipe Borges commented on issue #7 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/7#note_1017953)
 <!-- BLOG-POST-LIST:END -->
 
 ___
