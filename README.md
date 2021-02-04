@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch use-usb3-when-supported at GNOME / GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/7224c84881dd9dd742b8a70c95a18a1f7cdbe379...2994e8f9c305e05fafa9f6e341dadf9923961bd3)
+- [Felipe Borges accepted merge request !405: empty-boxes: Use HdyStatusPage at ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/405)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/38f4cfeb7f05385baef211e30e8eb370ca8babe9...ed303c561bfe3b6b8c6d698ea23f4eb1e32d07ce)
+- [Felipe Borges commented on merge request !405 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/405#note_1026036)
 - [Felipe Borges commented on issue #648 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/648#note_1023728)
 - [Felipe Borges commented on issue #647 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/647#note_1023688)
 - [Felipe Borges commented on issue #649 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/649#note_1023628)
@@ -17,9 +21,6 @@
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/55557c60926aac4c5db08f8e89029ce496aa3fb6)
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1019589)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commit/5c676fcdb22c15955839766297ca3354826addf8)
-- [Felipe Borges commented on issue #705 at GNOME / fractal](https://gitlab.gnome.org/GNOME/fractal/-/issues/705#note_1019571)
-- [Felipe Borges commented on merge request !607 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1018576)
-- [Felipe Borges commented on issue #201 at Teams / Engagement / Social Media an...](https://gitlab.gnome.org/Teams/Engagement/Social-Media-and-News/-/issues/201#note_1018517)
 <!-- BLOG-POST-LIST:END -->
 
 ___
