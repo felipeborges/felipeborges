@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #54 at GNOME / gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop/-/issues/54#note_1027246)
+- [Felipe Borges commented on issue #54 at GNOME / gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop/-/issues/54#note_1027244)
 - [Felipe Borges commented on issue #54 at GNOME / gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop/-/issues/54#note_1026490)
 - [Felipe Borges pushed new project branch restore-gtk-app-window-for-now at GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/restore-gtk-app-window-for-now)
 - [Felipe Borges pushed to project branch use-usb3-when-supported at GNOME / GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/7224c84881dd9dd742b8a70c95a18a1f7cdbe379...2994e8f9c305e05fafa9f6e341dadf9923961bd3)
@@ -19,8 +21,6 @@
 - [Felipe Borges commented on issue #646 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/646#note_1019822)
 - [Felipe Borges commented on merge request !935 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/935#note_1019815)
 - [Felipe Borges commented on merge request !607 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1019669)
-- [Felipe Borges commented on merge request !607 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1019635)
-- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/55557c60926aac4c5db08f8e89029ce496aa3fb6)
 <!-- BLOG-POST-LIST:END -->
 
 ___
