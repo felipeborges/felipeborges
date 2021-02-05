@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #1095 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1095#note_1027264)
 - [Felipe Borges commented on issue #54 at GNOME / gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop/-/issues/54#note_1027246)
 - [Felipe Borges commented on issue #54 at GNOME / gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop/-/issues/54#note_1027244)
 - [Felipe Borges commented on issue #54 at GNOME / gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop/-/issues/54#note_1026490)
@@ -20,7 +21,6 @@
 - [Felipe Borges commented on merge request !404 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/404#note_1022433)
 - [Felipe Borges commented on issue #646 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/646#note_1019822)
 - [Felipe Borges commented on merge request !935 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/935#note_1019815)
-- [Felipe Borges commented on merge request !607 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1019669)
 <!-- BLOG-POST-LIST:END -->
 
 ___
