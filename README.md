@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !406 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/406#note_1028874)
+- [Felipe Borges pushed to project branch wip/cdavis/adjust-status-casing at GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/4d0654940e7e1a5e14a9c70bf731328e9dede9a4...3987db3cd926081aa1704620b5442483a63012c2)
 - [Felipe Borges commented on issue #1095 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1095#note_1027264)
 - [Felipe Borges commented on issue #54 at GNOME / gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop/-/issues/54#note_1027246)
 - [Felipe Borges commented on issue #54 at GNOME / gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop/-/issues/54#note_1027244)
@@ -19,8 +21,6 @@
 - [Felipe Borges commented on merge request !404 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/404#note_1022528)
 - [Felipe Borges pushed to project branch master at Peter / GNOME Boxes](https://gitlab.gnome.org/p3732/gnome-boxes/-/compare/c8c9b785497cc7d37ee99b8bc70bed95dd4f6491...1b2b756e4261753329b676c179342d0511dcda6e)
 - [Felipe Borges commented on merge request !404 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/404#note_1022433)
-- [Felipe Borges commented on issue #646 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/646#note_1019822)
-- [Felipe Borges commented on merge request !935 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/935#note_1019815)
 <!-- BLOG-POST-LIST:END -->
 
 ___
