@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/6dfdee26cc066e5ec4d612416cf41016155054f3)
+- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/43562ef867e7056f93723364728216dba6dac20d)
 - [Felipe Borges opened merge request !407: Better handle non-installed guests a...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/407)
 - [Felipe Borges pushed new project branch handle-live-guests at GNOME / GNOME B...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/handle-live-guests)
 - [Felipe Borges accepted merge request !406: empty-boxes: Adjust casing at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/406)
@@ -19,8 +21,6 @@
 - [Felipe Borges commented on issue #648 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/648#note_1023728)
 - [Felipe Borges commented on issue #647 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/647#note_1023688)
 - [Felipe Borges commented on issue #649 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/649#note_1023628)
-- [Felipe Borges commented on commit 943561d7 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/commit/943561d7697f185890d5f6b6615f4fbb68fbc2e7)
-- [Felipe Borges accepted merge request !404: welcome-tutorial: align welcome gr...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/404)
 <!-- BLOG-POST-LIST:END -->
 
 ___
