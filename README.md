@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened merge request !407: Better handle non-installed guests a...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/407)
+- [Felipe Borges pushed new project branch handle-live-guests at GNOME / GNOME B...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/handle-live-guests)
 - [Felipe Borges accepted merge request !406: empty-boxes: Adjust casing at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/406)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/3987db3cd926081aa1704620b5442483a63012c2)
 - [Felipe Borges commented on merge request !406 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/406#note_1028874)
@@ -19,8 +21,6 @@
 - [Felipe Borges commented on issue #649 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/649#note_1023628)
 - [Felipe Borges commented on commit 943561d7 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/commit/943561d7697f185890d5f6b6615f4fbb68fbc2e7)
 - [Felipe Borges accepted merge request !404: welcome-tutorial: align welcome gr...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/404)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/1b2b756e4261753329b676c179342d0511dcda6e)
-- [Felipe Borges commented on merge request !404 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/404#note_1022528)
 <!-- BLOG-POST-LIST:END -->
 
 ___
