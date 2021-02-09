@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #108 at GNOME / Eye of GNOME](https://gitlab.gnome.org/GNOME/eog/-/issues/108#note_1030519)
 - [Felipe Borges opened issue #172: Update appdata screenshot at GNOME / Eye of ...](https://gitlab.gnome.org/GNOME/eog/-/issues/172)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/6dfdee26cc066e5ec4d612416cf41016155054f3)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/43562ef867e7056f93723364728216dba6dac20d)
@@ -20,7 +21,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/38f4cfeb7f05385baef211e30e8eb370ca8babe9...ed303c561bfe3b6b8c6d698ea23f4eb1e32d07ce)
 - [Felipe Borges commented on merge request !405 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/405#note_1026036)
 - [Felipe Borges commented on issue #648 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/648#note_1023728)
-- [Felipe Borges commented on issue #647 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/647#note_1023688)
 <!-- BLOG-POST-LIST:END -->
 
 ___
