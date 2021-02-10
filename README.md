@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #172 at GNOME / Eye of GNOME](https://gitlab.gnome.org/GNOME/eog/-/issues/172#note_1031773)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/f333d4dd20a31e7d0edc14a7b10959b894c5c29a)
 - [Felipe Borges deleted project branch restore-gtk-app-window-for-now at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/restore-gtk-app-window-for-now)
 - [Felipe Borges accepted merge request !408: app-window: Bind toolbar visibilit...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/408)
@@ -20,7 +21,6 @@
 - [Felipe Borges commented on merge request !406 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/406#note_1028874)
 - [Felipe Borges pushed to project branch wip/cdavis/adjust-status-casing at GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/4d0654940e7e1a5e14a9c70bf731328e9dede9a4...3987db3cd926081aa1704620b5442483a63012c2)
 - [Felipe Borges commented on issue #1095 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1095#note_1027264)
-- [Felipe Borges commented on issue #54 at GNOME / gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop/-/issues/54#note_1027246)
 <!-- BLOG-POST-LIST:END -->
 
 ___
