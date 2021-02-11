@@ -20,7 +20,6 @@
 - [Felipe Borges commented on issue #108 at GNOME / Eye of GNOME](https://gitlab.gnome.org/GNOME/eog/-/issues/108#note_1030519)
 - [Felipe Borges opened issue #172: Update appdata screenshot at GNOME / Eye of ...](https://gitlab.gnome.org/GNOME/eog/-/issues/172)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/6dfdee26cc066e5ec4d612416cf41016155054f3)
-- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/43562ef867e7056f93723364728216dba6dac20d)
 <!-- BLOG-POST-LIST:END -->
 
 ___
