@@ -1,6 +1,12 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed new project branch wip/new-properties-dialog at GNOME / ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/wip/new-properties-dialog)
+- [Felipe Borges commented on merge request !613 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/613#note_1032725)
+- [Felipe Borges commented on merge request !607 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1032723)
+- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/4e5152f50810c1ae43a763d51c87c0044f6412ee)
+- [Felipe Borges commented on merge request !607 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1032711)
+- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/compare/f333d4dd20a31e7d0edc14a7b10959b894c5c29a...5a39371426c4a533da8c5b38e530b6a2c2153f70)
 - [Felipe Borges commented on issue #1256 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1256#note_1032648)
 - [Felipe Borges commented on issue #172 at GNOME / Eye of GNOME](https://gitlab.gnome.org/GNOME/eog/-/issues/172#note_1031773)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/f333d4dd20a31e7d0edc14a7b10959b894c5c29a)
@@ -15,12 +21,6 @@
 - [Felipe Borges opened issue #172: Update appdata screenshot at GNOME / Eye of ...](https://gitlab.gnome.org/GNOME/eog/-/issues/172)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/6dfdee26cc066e5ec4d612416cf41016155054f3)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/43562ef867e7056f93723364728216dba6dac20d)
-- [Felipe Borges opened merge request !407: Better handle non-installed guests a...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/407)
-- [Felipe Borges pushed new project branch handle-live-guests at GNOME / GNOME B...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/handle-live-guests)
-- [Felipe Borges accepted merge request !406: empty-boxes: Adjust casing at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/406)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/3987db3cd926081aa1704620b5442483a63012c2)
-- [Felipe Borges commented on merge request !406 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/406#note_1028874)
-- [Felipe Borges pushed to project branch wip/cdavis/adjust-status-casing at GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/4d0654940e7e1a5e14a9c70bf731328e9dede9a4...3987db3cd926081aa1704620b5442483a63012c2)
 <!-- BLOG-POST-LIST:END -->
 
 ___
