@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1033181)
+- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commit/58ac8fc571518c9830a6d0892b29215ce41cad81)
 - [Felipe Borges pushed new project branch wip/new-properties-dialog at GNOME / ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/wip/new-properties-dialog)
 - [Felipe Borges commented on merge request !613 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/613#note_1032725)
 - [Felipe Borges commented on merge request !607 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1032723)
@@ -18,8 +20,6 @@
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1030759)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commit/7d679257db10e786b7b7f7ce1562e14a54598436)
 - [Felipe Borges commented on issue #108 at GNOME / Eye of GNOME](https://gitlab.gnome.org/GNOME/eog/-/issues/108#note_1030519)
-- [Felipe Borges opened issue #172: Update appdata screenshot at GNOME / Eye of ...](https://gitlab.gnome.org/GNOME/eog/-/issues/172)
-- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/6dfdee26cc066e5ec4d612416cf41016155054f3)
 <!-- BLOG-POST-LIST:END -->
 
 ___
