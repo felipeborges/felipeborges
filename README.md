@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch wip/feborges/password-protected-archives...](https://gitlab.gnome.org/GNOME/nautilus/-/commits/wip/feborges/password-protected-archives)
+- [Felipe Borges closed issue #327: Offer clear error messages for archive types...](https://gitlab.gnome.org/GNOME/nautilus/-/issues/327)
 - [Felipe Borges deleted project branch handle-live-guests at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/handle-live-guests)
 - [Felipe Borges accepted merge request !407: Better handle non-installed guests...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/407)
 - [Felipe Borges closed issue #647: Notification about missing source installer ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/647)
@@ -18,8 +20,6 @@
 - [Felipe Borges commented on merge request !607 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1032711)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/compare/f333d4dd20a31e7d0edc14a7b10959b894c5c29a...5a39371426c4a533da8c5b38e530b6a2c2153f70)
 - [Felipe Borges commented on issue #1256 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1256#note_1032648)
-- [Felipe Borges commented on issue #172 at GNOME / Eye of GNOME](https://gitlab.gnome.org/GNOME/eog/-/issues/172#note_1031773)
-- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/f333d4dd20a31e7d0edc14a7b10959b894c5c29a)
 <!-- BLOG-POST-LIST:END -->
 
 ___
