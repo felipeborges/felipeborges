@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch handle-live-guests at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/655722d78f9b0c7686cf383e0b42e83997ebfe62...1bf03b070776ec28396d821d2edc1fe119873ce2)
 - [Felipe Borges deleted project branch wip/feborges/password-protected-archives...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commits/wip/feborges/password-protected-archives)
 - [Felipe Borges closed issue #1: Support ZIP password-protected archives at GNO...](https://gitlab.gnome.org/GNOME/gnome-autoar/-/issues/1)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/f766d27e00b2d002815cc9d75fdc90155d711def)
@@ -19,7 +20,6 @@
 - [Felipe Borges accepted merge request !408: app-window: Bind toolbar visibilit...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/408)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/ef2d7c1b8078231a8b9a817e93e6ef25602cbdbb)
 - [Felipe Borges commented on merge request !408 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/408#note_1031434)
-- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/compare/7d679257db10e786b7b7f7ce1562e14a54598436...e1cb3a8394d782eec7884885c7275abbd41fd305)
 <!-- BLOG-POST-LIST:END -->
 
 ___
