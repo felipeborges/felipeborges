@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #29 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/29#note_1036685)
+- [Felipe Borges closed issue #29: Add preview functionality for videos at GNOME...](https://gitlab.gnome.org/GNOME/sushi/-/issues/29)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/8441f3c6504c9ca1d4b54b6b325d6b190a4c11ae)
 - [Felipe Borges pushed new project tag 40.beta at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/40.beta)
 - [Felipe Borges deleted project branch release-40-beta at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-40-beta)
@@ -19,8 +21,6 @@
 - [Felipe Borges pushed to project branch handle-live-guests at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/655722d78f9b0c7686cf383e0b42e83997ebfe62...1bf03b070776ec28396d821d2edc1fe119873ce2)
 - [Felipe Borges deleted project branch wip/feborges/password-protected-archives...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commits/wip/feborges/password-protected-archives)
 - [Felipe Borges closed issue #1: Support ZIP password-protected archives at GNO...](https://gitlab.gnome.org/GNOME/gnome-autoar/-/issues/1)
-- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/f766d27e00b2d002815cc9d75fdc90155d711def)
-- [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1033181)
 <!-- BLOG-POST-LIST:END -->
 
 ___
