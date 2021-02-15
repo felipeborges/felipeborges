@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/8441f3c6504c9ca1d4b54b6b325d6b190a4c11ae)
+- [Felipe Borges pushed new project tag 40.beta at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/40.beta)
 - [Felipe Borges deleted project branch release-40-beta at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-40-beta)
 - [Felipe Borges accepted merge request !409: Release 40.beta at GNOME / GNOME B...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/409)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/0a7b58f77ce564227c7c4b4ae7dc1e038e68c718)
@@ -19,7 +21,6 @@
 - [Felipe Borges closed issue #1: Support ZIP password-protected archives at GNO...](https://gitlab.gnome.org/GNOME/gnome-autoar/-/issues/1)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/f766d27e00b2d002815cc9d75fdc90155d711def)
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1033181)
-- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commit/58ac8fc571518c9830a6d0892b29215ce41cad81)
 <!-- BLOG-POST-LIST:END -->
 
 ___
