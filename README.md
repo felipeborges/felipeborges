@@ -1,6 +1,11 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch release-40-beta at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-40-beta)
+- [Felipe Borges accepted merge request !409: Release 40.beta at GNOME / GNOME B...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/409)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/0a7b58f77ce564227c7c4b4ae7dc1e038e68c718)
+- [Felipe Borges pushed to project branch use-usb3-when-supported at GNOME / GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/65eba5d8bd77fab5e3d2bc409825436ce0a967a2...3570e6908f5d2c70123f0efe83504a5e84e178c6)
+- [Felipe Borges pushed to project branch use-usb3-when-supported at GNOME / GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/2994e8f9c305e05fafa9f6e341dadf9923961bd3...65eba5d8bd77fab5e3d2bc409825436ce0a967a2)
 - [Felipe Borges opened merge request !409: Release 40.beta at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/409)
 - [Felipe Borges pushed new project branch release-40-beta at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-40-beta)
 - [Felipe Borges deleted project branch wip/feborges/password-protected-archives...](https://gitlab.gnome.org/GNOME/nautilus/-/commits/wip/feborges/password-protected-archives)
@@ -15,11 +20,6 @@
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/f766d27e00b2d002815cc9d75fdc90155d711def)
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/7#note_1033181)
 - [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commit/58ac8fc571518c9830a6d0892b29215ce41cad81)
-- [Felipe Borges pushed new project branch wip/new-properties-dialog at GNOME / ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/wip/new-properties-dialog)
-- [Felipe Borges commented on merge request !613 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/613#note_1032725)
-- [Felipe Borges commented on merge request !607 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1032723)
-- [Felipe Borges pushed to project branch wip/feborges/password-protected-archiv...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/4e5152f50810c1ae43a763d51c87c0044f6412ee)
-- [Felipe Borges commented on merge request !607 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/607#note_1032711)
 <!-- BLOG-POST-LIST:END -->
 
 ___
