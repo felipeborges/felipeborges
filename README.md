@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened merge request !1031: core-deps: update libvirt-glib to 4...](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/merge_requests/1031)
+- [Felipe Borges pushed new project branch update-libvirt-glib-to-4.0.0 at GNOME...](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/commits/update-libvirt-glib-to-4.0.0)
 - [Felipe Borges commented on issue #29 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/29#note_1036685)
 - [Felipe Borges closed issue #29: Add preview functionality for videos at GNOME...](https://gitlab.gnome.org/GNOME/sushi/-/issues/29)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/8441f3c6504c9ca1d4b54b6b325d6b190a4c11ae)
@@ -19,8 +21,6 @@
 - [Felipe Borges closed issue #647: Notification about missing source installer ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/647)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/04947d41e09f36003777fb085355e40a30f44fcf...1bf03b070776ec28396d821d2edc1fe119873ce2)
 - [Felipe Borges pushed to project branch handle-live-guests at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/655722d78f9b0c7686cf383e0b42e83997ebfe62...1bf03b070776ec28396d821d2edc1fe119873ce2)
-- [Felipe Borges deleted project branch wip/feborges/password-protected-archives...](https://gitlab.gnome.org/felipeborges/gnome-autoar/-/commits/wip/feborges/password-protected-archives)
-- [Felipe Borges closed issue #1: Support ZIP password-protected archives at GNO...](https://gitlab.gnome.org/GNOME/gnome-autoar/-/issues/1)
 <!-- BLOG-POST-LIST:END -->
 
 ___
