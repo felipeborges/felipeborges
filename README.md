@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch update-libvirt-glib-to-4.0.0 at GNOME / ...](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/commits/update-libvirt-glib-to-4.0.0)
 - [Felipe Borges commented on merge request !1031 at GNOME / gnome-build-meta](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/merge_requests/1031#note_1037668)
 - [Felipe Borges opened merge request !1031: core-deps: update libvirt-glib to 4...](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/merge_requests/1031)
 - [Felipe Borges pushed new project branch update-libvirt-glib-to-4.0.0 at GNOME...](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/commits/update-libvirt-glib-to-4.0.0)
@@ -20,7 +21,6 @@
 - [Felipe Borges deleted project branch handle-live-guests at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/handle-live-guests)
 - [Felipe Borges accepted merge request !407: Better handle non-installed guests...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/407)
 - [Felipe Borges closed issue #647: Notification about missing source installer ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/647)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/04947d41e09f36003777fb085355e40a30f44fcf...1bf03b070776ec28396d821d2edc1fe119873ce2)
 <!-- BLOG-POST-LIST:END -->
 
 ___
