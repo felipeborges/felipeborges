@@ -1,6 +1,12 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch always-set-device-sound-model at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/always-set-device-sound-model)
+- [Felipe Borges accepted merge request !393: vm-configurator: Default to ich9 s...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/393)
+- [Felipe Borges closed issue #618: Boxes 3.38.1 compiling with Clang 11 failing...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/618)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/32007e51e68f601ad961477a89f919f3ae0f747a)
+- [Felipe Borges pushed to project branch master at GNOME / gnome-boxes-logos](https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/compare/6550ec64b55fcd11b6f43cb59045c60f05b4e596...3832aa7617f38c209dc4f22b68a4c57e6d5c7aed)
+- [Felipe Borges pushed to project branch always-set-device-sound-model at GNOME...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/ec5f8ed9382f09c8fc4ae131d25ea1c412fbb1f1...32007e51e68f601ad961477a89f919f3ae0f747a)
 - [Felipe Borges deleted project branch use-usb3-when-supported at GNOME / GNOME...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/use-usb3-when-supported)
 - [Felipe Borges accepted merge request !397: vm-configurator: Use USB3 for supp...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/397)
 - [Felipe Borges closed issue #258: Use USB3 for supported OS at GNOME / GNOME B...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/258)
@@ -15,12 +21,6 @@
 - [Felipe Borges pushed to project branch use-usb3-when-supported at GNOME / GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/feaa7d5dddce2246cf3404b23ffb48439180cf5c...645f268e94eb4cd52618de66027c32c611b61cdb)
 - [Felipe Borges commented on issue #642 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/642#note_1038622)
 - [Felipe Borges closed issue #642: Feature Request: add confirmation window whe...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/642)
-- [Felipe Borges commented on issue #547 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/547#note_1038616)
-- [Felipe Borges closed issue #547: Redirect USB keyboard to guest OS at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/547)
-- [Felipe Borges closed issue #554: &quot;Create and Customize&quot; button for new VMs do...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/554)
-- [Felipe Borges commented on issue #564 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/564#note_1038613)
-- [Felipe Borges closed issue #564: Virtualization extensions unavailable at GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/564)
-- [Felipe Borges commented on issue #570 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/570#note_1038610)
 <!-- BLOG-POST-LIST:END -->
 
 ___
