@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !410 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/410#note_1039823)
 - [Felipe Borges commented on issue #1249 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1249#note_1039768)
 - [Felipe Borges closed issue #1249: Settings panel not responding when trying t...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1249)
 - [Felipe Borges closed issue #1258: Crash when open touchpad section on Gnome O...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1258)
@@ -20,7 +21,6 @@
 - [Felipe Borges accepted merge request !393: vm-configurator: Default to ich9 s...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/393)
 - [Felipe Borges closed issue #618: Boxes 3.38.1 compiling with Clang 11 failing...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/618)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/32007e51e68f601ad961477a89f919f3ae0f747a)
-- [Felipe Borges pushed to project branch master at GNOME / gnome-boxes-logos](https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/compare/6550ec64b55fcd11b6f43cb59045c60f05b4e596...3832aa7617f38c209dc4f22b68a4c57e6d5c7aed)
 <!-- BLOG-POST-LIST:END -->
 
 ___
