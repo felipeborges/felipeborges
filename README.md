@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #652 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/652#note_1042019)
 - [Felipe Borges commented on issue #1249 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1249#note_1040371)
 - [Felipe Borges commented on merge request !410 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/410#note_1039823)
 - [Felipe Borges commented on issue #1249 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1249#note_1039768)
@@ -20,7 +21,6 @@
 - [Felipe Borges commented on issue #570 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/570#note_1039460)
 - [Felipe Borges deleted project branch always-set-device-sound-model at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/always-set-device-sound-model)
 - [Felipe Borges accepted merge request !393: vm-configurator: Default to ich9 s...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/393)
-- [Felipe Borges closed issue #618: Boxes 3.38.1 compiling with Clang 11 failing...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/618)
 <!-- BLOG-POST-LIST:END -->
 
 ___
