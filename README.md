@@ -1,6 +1,12 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened merge request !954: network: Indicate the maximum passwo...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/954)
+- [Felipe Borges pushed new project branch wifi-hotspot-psw-max-chars at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/wifi-hotspot-psw-max-chars)
+- [Felipe Borges commented on issue #965 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/965#note_1042253)
+- [Felipe Borges closed issue #965: WiFi Hotspot initially greyed when starting ...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/965)
+- [Felipe Borges opened merge request !953: online-accounts: Present all support...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/953)
+- [Felipe Borges pushed new project branch online-accounts-show-all-providers at...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/online-accounts-show-all-providers)
 - [Felipe Borges opened merge request !952: mouse: Invert left-right button orde...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/952)
 - [Felipe Borges pushed new project branch mouse-button-order-rtl at GNOME / Set...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/mouse-button-order-rtl)
 - [Felipe Borges commented on issue #1106 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1106#note_1042193)
@@ -15,12 +21,6 @@
 - [Felipe Borges commented on issue #652 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/652#note_1042019)
 - [Felipe Borges commented on issue #1249 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1249#note_1040371)
 - [Felipe Borges commented on merge request !410 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/410#note_1039823)
-- [Felipe Borges commented on issue #1249 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1249#note_1039768)
-- [Felipe Borges closed issue #1249: Settings panel not responding when trying t...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1249)
-- [Felipe Borges closed issue #1258: Crash when open touchpad section on Gnome O...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1258)
-- [Felipe Borges commented on issue #1258 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1258#note_1039759)
-- [Felipe Borges commented on issue #1261 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1261#note_1039755)
-- [Felipe Borges commented on issue #1256 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1256#note_1039753)
 <!-- BLOG-POST-LIST:END -->
 
 ___
