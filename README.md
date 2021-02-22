@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened merge request !952: mouse: Invert left-right button orde...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/952)
+- [Felipe Borges pushed new project branch mouse-button-order-rtl at GNOME / Set...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/mouse-button-order-rtl)
 - [Felipe Borges commented on issue #1106 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1106#note_1042193)
 - [Felipe Borges commented on issue #61 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/61#note_1042189)
 - [Felipe Borges commented on issue #1158 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1158#note_1042180)
@@ -19,8 +21,6 @@
 - [Felipe Borges commented on issue #1258 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1258#note_1039759)
 - [Felipe Borges commented on issue #1261 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1261#note_1039755)
 - [Felipe Borges commented on issue #1256 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1256#note_1039753)
-- [Felipe Borges accepted merge request !410: help: Do not make symbolic menu ic...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/410)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/7dee9ddde73e11bbd835630cdab69bbe83be3163)
 <!-- BLOG-POST-LIST:END -->
 
 ___
