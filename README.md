@@ -1,6 +1,12 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #1269 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1269#note_1043116)
+- [Felipe Borges commented on issue #141 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/141#note_1043111)
+- [Felipe Borges closed issue #556: Printers: unlock button isn&#39;t easy to unders...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/556)
+- [Felipe Borges commented on issue #556 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/556#note_1043081)
+- [Felipe Borges closed issue #569: Every Detail Matters: GNOME Settings (Round ...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/569)
+- [Felipe Borges commented on issue #1272 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1272#note_1043074)
 - [Felipe Borges closed issue #444: App without an icon is misaligned in the “Ap...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/444)
 - [Felipe Borges commented on issue #663 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/663#note_1043060)
 - [Felipe Borges accepted merge request !958: Fix language chooser at GNOME / Se...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/958)
@@ -15,12 +21,6 @@
 - [Felipe Borges closed issue #797: add &quot;Run in background&quot; to the System integr...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/797)
 - [Felipe Borges commented on issue #839 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/839#note_1043008)
 - [Felipe Borges commented on issue #3692 at GNOME / gtk](https://gitlab.gnome.org/GNOME/gtk/-/issues/3692#note_1043002)
-- [Felipe Borges commented on issue #914 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/914#note_1042996)
-- [Felipe Borges closed issue #914: Users - Take a Picture option is shown even ...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/914)
-- [Felipe Borges commented on issue #3692 at GNOME / gtk](https://gitlab.gnome.org/GNOME/gtk/-/issues/3692#note_1042983)
-- [Felipe Borges opened issue #3692: GtkPasswordEntry shouldn&#39;t reveal the passw...](https://gitlab.gnome.org/GNOME/gtk/-/issues/3692)
-- [Felipe Borges commented on issue #985 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/985#note_1042933)
-- [Felipe Borges deleted project branch mouse-test-hscrollbar-policy at GNOME / ...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/mouse-test-hscrollbar-policy)
 <!-- BLOG-POST-LIST:END -->
 
 ___
