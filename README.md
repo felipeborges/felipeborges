@@ -1,6 +1,13 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #797 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/797#note_1043011)
+- [Felipe Borges closed issue #797: add &quot;Run in background&quot; to the System integr...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/797)
+- [Felipe Borges commented on issue #839 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/839#note_1043008)
+- [Felipe Borges commented on issue #3692 at GNOME / gtk](https://gitlab.gnome.org/GNOME/gtk/-/issues/3692#note_1043002)
+- [Felipe Borges commented on issue #914 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/914#note_1042996)
+- [Felipe Borges closed issue #914: Users - Take a Picture option is shown even ...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/914)
+- [Felipe Borges commented on issue #3692 at GNOME / gtk](https://gitlab.gnome.org/GNOME/gtk/-/issues/3692#note_1042983)
 - [Felipe Borges opened issue #3692: GtkPasswordEntry shouldn&#39;t reveal the passw...](https://gitlab.gnome.org/GNOME/gtk/-/issues/3692)
 - [Felipe Borges commented on issue #985 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/985#note_1042933)
 - [Felipe Borges deleted project branch mouse-test-hscrollbar-policy at GNOME / ...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/mouse-test-hscrollbar-policy)
@@ -14,13 +21,6 @@
 - [Felipe Borges commented on merge request !956 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/956#note_1042841)
 - [Felipe Borges opened merge request !956: panels: Align dialog labels with the...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/956)
 - [Felipe Borges pushed new project branch applications-align-dialog-labels at G...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/applications-align-dialog-labels)
-- [Felipe Borges opened merge request !955: mouse: Allow horizontal scroll in mo...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/955)
-- [Felipe Borges pushed new project branch mouse-test-hscrollbar-policy at GNOME...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/mouse-test-hscrollbar-policy)
-- [Felipe Borges commented on issue #1056 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1056#note_1042828)
-- [Felipe Borges closed issue #1056: Gnome settings should highlight current des...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1056)
-- [Felipe Borges commented on merge request !954 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/954#note_1042826)
-- [Felipe Borges pushed to project branch wifi-hotspot-psw-max-chars at GNOME / ...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commit/1b770ef65c11b85934842cd34d98212488b5b73f)
-- [Felipe Borges accepted merge request !411: Reference of [GtkChild] field is h...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/411)
 <!-- BLOG-POST-LIST:END -->
 
 ___
