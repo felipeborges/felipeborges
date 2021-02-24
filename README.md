@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #1273 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1273#note_1043783)
 - [Felipe Borges commented on issue #1270 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1270#note_1043134)
 - [Felipe Borges commented on issue #1269 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1269#note_1043116)
 - [Felipe Borges commented on issue #141 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/141#note_1043111)
@@ -20,7 +21,6 @@
 - [Felipe Borges closed issue #781: Show product name in &quot;About&quot; panel at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/781)
 - [Felipe Borges commented on issue #797 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/797#note_1043011)
 - [Felipe Borges closed issue #797: add &quot;Run in background&quot; to the System integr...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/797)
-- [Felipe Borges commented on issue #839 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/839#note_1043008)
 <!-- BLOG-POST-LIST:END -->
 
 ___
