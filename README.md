@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #973 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/973#note_1048201)
+- [Felipe Borges closed issue #973: Add option to change mouse scroll speed at G...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/973)
+- [Felipe Borges commented on issue #973 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/973#note_1048195)
 - [Felipe Borges deleted project branch not-only-isos at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/not-only-isos)
 - [Felipe Borges accepted merge request !413: assistant: Indicate that installat...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/413)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/f03152678b8c5d740beaacb8e32556bd85d6fd78)
@@ -18,9 +21,6 @@
 - [Felipe Borges opened merge request !412: libvirt-machine: Undefine NVRAM doma...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/412)
 - [Felipe Borges pushed new project branch nvram-flatpak at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/nvram-flatpak)
 - [Felipe Borges commented on issue #657 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/657#note_1047938)
-- [Felipe Borges commented on issue #662 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/662#note_1047937)
-- [Felipe Borges commented on issue #1273 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1273#note_1043783)
-- [Felipe Borges commented on issue #1270 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1270#note_1043134)
 <!-- BLOG-POST-LIST:END -->
 
 ___
