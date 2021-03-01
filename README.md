@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch not-only-isos at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/not-only-isos)
+- [Felipe Borges accepted merge request !413: assistant: Indicate that installat...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/413)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/f03152678b8c5d740beaacb8e32556bd85d6fd78)
 - [Felipe Borges commented on merge request !413 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/413#note_1048102)
 - [Felipe Borges pushed to project branch not-only-isos at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/1733444ea23a87ba38ede333cfed06d7dce8faff...f03152678b8c5d740beaacb8e32556bd85d6fd78)
 - [Felipe Borges deleted project branch nvram-flatpak at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/nvram-flatpak)
@@ -18,9 +21,6 @@
 - [Felipe Borges commented on issue #662 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/662#note_1047937)
 - [Felipe Borges commented on issue #1273 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1273#note_1043783)
 - [Felipe Borges commented on issue #1270 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1270#note_1043134)
-- [Felipe Borges commented on issue #1269 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1269#note_1043116)
-- [Felipe Borges commented on issue #141 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/141#note_1043111)
-- [Felipe Borges closed issue #556: Printers: unlock button isn&#39;t easy to unders...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/556)
 <!-- BLOG-POST-LIST:END -->
 
 ___
