@@ -1,6 +1,11 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #658 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/658#note_1047995)
+- [Felipe Borges opened merge request !412: libvirt-machine: Undefine NVRAM doma...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/412)
+- [Felipe Borges pushed new project branch nvram-flatpak at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/nvram-flatpak)
+- [Felipe Borges commented on issue #657 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/657#note_1047938)
+- [Felipe Borges commented on issue #662 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/662#note_1047937)
 - [Felipe Borges commented on issue #1273 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1273#note_1043783)
 - [Felipe Borges commented on issue #1270 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1270#note_1043134)
 - [Felipe Borges commented on issue #1269 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1269#note_1043116)
@@ -16,11 +21,6 @@
 - [Felipe Borges commented on merge request !958 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/958#note_1043055)
 - [Felipe Borges commented on issue #3692 at GNOME / gtk](https://gitlab.gnome.org/GNOME/gtk/-/issues/3692#note_1043048)
 - [Felipe Borges closed issue #3692: GtkPasswordEntry shouldn&#39;t reveal the passw...](https://gitlab.gnome.org/GNOME/gtk/-/issues/3692)
-- [Felipe Borges commented on issue #3692 at GNOME / gtk](https://gitlab.gnome.org/GNOME/gtk/-/issues/3692#note_1043034)
-- [Felipe Borges commented on issue #781 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/781#note_1043016)
-- [Felipe Borges closed issue #781: Show product name in &quot;About&quot; panel at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/781)
-- [Felipe Borges commented on issue #797 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/797#note_1043011)
-- [Felipe Borges closed issue #797: add &quot;Run in background&quot; to the System integr...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/797)
 <!-- BLOG-POST-LIST:END -->
 
 ___
