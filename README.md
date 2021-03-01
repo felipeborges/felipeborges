@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !413 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/413#note_1048102)
+- [Felipe Borges pushed to project branch not-only-isos at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/1733444ea23a87ba38ede333cfed06d7dce8faff...f03152678b8c5d740beaacb8e32556bd85d6fd78)
 - [Felipe Borges deleted project branch nvram-flatpak at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/nvram-flatpak)
 - [Felipe Borges accepted merge request !412: libvirt-machine: Undefine NVRAM do...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/412)
 - [Felipe Borges closed issue #655: Cannot delete VM at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/655)
@@ -19,8 +21,6 @@
 - [Felipe Borges commented on issue #1269 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1269#note_1043116)
 - [Felipe Borges commented on issue #141 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/141#note_1043111)
 - [Felipe Borges closed issue #556: Printers: unlock button isn&#39;t easy to unders...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/556)
-- [Felipe Borges commented on issue #556 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/556#note_1043081)
-- [Felipe Borges closed issue #569: Every Detail Matters: GNOME Settings (Round ...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/569)
 <!-- BLOG-POST-LIST:END -->
 
 ___
