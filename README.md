@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #1090 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1090#note_1049106)
 - [Felipe Borges commented on issue #105 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/105#note_1048917)
 - [Felipe Borges deleted project branch better-parse-unusual-medias at GNOME / G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/better-parse-unusual-medias)
 - [Felipe Borges accepted merge request !415: util-app: Improve serialization of...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/415)
@@ -18,7 +19,6 @@
 - [Felipe Borges commented on issue #658 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/658#note_1048815)
 - [Felipe Borges closed issue #658: Unknown OS warning for &quot;Arch Linux ISO&quot; at G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/658)
 - [Felipe Borges closed issue #663: Virtualization extensions unavailable at GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/663)
-- [Felipe Borges accepted merge request !414: MachineConfigEditor: Format the er...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/414)
 <!-- BLOG-POST-LIST:END -->
 
 ___
