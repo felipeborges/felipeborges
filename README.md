@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !412 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/412#note_1048755)
+- [Felipe Borges commented on merge request !414 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/414#note_1048754)
+- [Felipe Borges pushed to project branch fix_unformatted_err_msg at Sebastian G...](https://gitlab.gnome.org/picsel/gnome-boxes/-/compare/38135c148dc6a714db6420ed1db609ea88dc3be2...9a9ea6b5f76439dbc13c5a0fd7d6389ffb218a1c)
 - [Felipe Borges opened issue #160: Divulgar a chamada de trabalhos para o event...](https://gitlab.gnome.org/Infrastructure/br-gnome-org/-/issues/160)
 - [Felipe Borges commented on merge request !104 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/104#note_1048316)
 - [Felipe Borges commented on issue #665 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/665#note_1048315)
@@ -18,9 +21,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/8d841b41f5765a4c826d19b24bf307a34bacac74)
 - [Felipe Borges commented on merge request !413 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/413#note_1048059)
 - [Felipe Borges opened merge request !413: assistant: Indicate that installatio...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/413)
-- [Felipe Borges pushed new project branch not-only-isos at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/not-only-isos)
-- [Felipe Borges commented on issue #177 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/177#note_1048046)
-- [Felipe Borges commented on issue #658 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/658#note_1047995)
 <!-- BLOG-POST-LIST:END -->
 
 ___
