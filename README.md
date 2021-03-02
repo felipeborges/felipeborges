@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges closed issue #663: Virtualization extensions unavailable at GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/663)
+- [Felipe Borges accepted merge request !414: MachineConfigEditor: Format the er...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/414)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/9a9ea6b5f76439dbc13c5a0fd7d6389ffb218a1c)
 - [Felipe Borges commented on merge request !412 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/412#note_1048755)
 - [Felipe Borges commented on merge request !414 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/414#note_1048754)
 - [Felipe Borges pushed to project branch fix_unformatted_err_msg at Sebastian G...](https://gitlab.gnome.org/picsel/gnome-boxes/-/compare/38135c148dc6a714db6420ed1db609ea88dc3be2...9a9ea6b5f76439dbc13c5a0fd7d6389ffb218a1c)
@@ -18,9 +21,6 @@
 - [Felipe Borges deleted project branch nvram-flatpak at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/nvram-flatpak)
 - [Felipe Borges accepted merge request !412: libvirt-machine: Undefine NVRAM do...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/412)
 - [Felipe Borges closed issue #655: Cannot delete VM at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/655)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/8d841b41f5765a4c826d19b24bf307a34bacac74)
-- [Felipe Borges commented on merge request !413 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/413#note_1048059)
-- [Felipe Borges opened merge request !413: assistant: Indicate that installatio...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/413)
 <!-- BLOG-POST-LIST:END -->
 
 ___
