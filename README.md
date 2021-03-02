@@ -1,6 +1,11 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !42 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/42#note_1048841)
+- [Felipe Borges opened merge request !415: util-app: Improve serialization of O...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/415)
+- [Felipe Borges pushed new project branch better-parse-unusual-medias at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/better-parse-unusual-medias)
+- [Felipe Borges commented on issue #658 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/658#note_1048815)
+- [Felipe Borges closed issue #658: Unknown OS warning for &quot;Arch Linux ISO&quot; at G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/658)
 - [Felipe Borges closed issue #663: Virtualization extensions unavailable at GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/663)
 - [Felipe Borges accepted merge request !414: MachineConfigEditor: Format the er...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/414)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/9a9ea6b5f76439dbc13c5a0fd7d6389ffb218a1c)
@@ -16,11 +21,6 @@
 - [Felipe Borges deleted project branch not-only-isos at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/not-only-isos)
 - [Felipe Borges accepted merge request !413: assistant: Indicate that installat...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/413)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/f03152678b8c5d740beaacb8e32556bd85d6fd78)
-- [Felipe Borges commented on merge request !413 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/413#note_1048102)
-- [Felipe Borges pushed to project branch not-only-isos at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/1733444ea23a87ba38ede333cfed06d7dce8faff...f03152678b8c5d740beaacb8e32556bd85d6fd78)
-- [Felipe Borges deleted project branch nvram-flatpak at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/nvram-flatpak)
-- [Felipe Borges accepted merge request !412: libvirt-machine: Undefine NVRAM do...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/412)
-- [Felipe Borges closed issue #655: Cannot delete VM at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/655)
 <!-- BLOG-POST-LIST:END -->
 
 ___
