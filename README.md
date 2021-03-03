@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #668 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/668#note_1049569)
+- [Felipe Borges closed issue #668: Receive files (Send files back to host) at G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/668)
 - [Felipe Borges commented on issue #1090 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1090#note_1049135)
 - [Felipe Borges commented on issue #86 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/86#note_1049122)
 - [Felipe Borges commented on issue #1090 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1090#note_1049106)
@@ -17,8 +19,6 @@
 - [Felipe Borges pushed new project branch gtkchild-unowned at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/gtkchild-unowned)
 - [Felipe Borges commented on merge request !42 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/42#note_1048841)
 - [Felipe Borges opened merge request !415: util-app: Improve serialization of O...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/415)
-- [Felipe Borges pushed new project branch better-parse-unusual-medias at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/better-parse-unusual-medias)
-- [Felipe Borges commented on issue #658 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/658#note_1048815)
 <!-- BLOG-POST-LIST:END -->
 
 ___
