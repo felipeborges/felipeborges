@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !42 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/42#note_1050380)
 - [Felipe Borges commented on merge request !13 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/13#note_1050374)
 - [Felipe Borges commented on issue #668 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/668#note_1049569)
 - [Felipe Borges closed issue #668: Receive files (Send files back to host) at G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/668)
@@ -18,7 +19,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/16656f991f4205fd7f2c0f911f9387dfd08dc1da)
 - [Felipe Borges opened merge request !43: Mark GtkChild object references as un...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/43)
 - [Felipe Borges pushed new project branch gtkchild-unowned at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/gtkchild-unowned)
-- [Felipe Borges commented on merge request !42 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/42#note_1048841)
 <!-- BLOG-POST-LIST:END -->
 
 ___
