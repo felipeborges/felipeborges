@@ -1,6 +1,12 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #36 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/36#note_1053543)
+- [Felipe Borges accepted merge request !13: extractor: Drop recursive delete on...](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/13)
+- [Felipe Borges pushed to project branch master at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/commit/f4792b2178c7eec5351eca9b2d8d19c884af7ba3)
+- [Felipe Borges pushed to project branch wip/oholy/drop-recursive-delete at GNO...](https://gitlab.gnome.org/GNOME/gnome-autoar/-/compare/9d58a9dcde3c4a74107674b847189d41bbe22b6c...f4792b2178c7eec5351eca9b2d8d19c884af7ba3)
+- [Felipe Borges commented on merge request !13 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/13#note_1053527)
+- [Felipe Borges commented on issue #670 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/670#note_1053523)
 - [Felipe Borges commented on issue #86 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/86#note_1053434)
 - [Felipe Borges commented on issue #670 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/670#note_1053427)
 - [Felipe Borges commented on issue #130 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/130#note_1053426)
@@ -15,12 +21,6 @@
 - [Felipe Borges closed issue #15: Update screenshots at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/15)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/ceb2382769af1aede9c809b2ddcbeabda6bf5911)
 - [Felipe Borges commented on merge request !42 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/42#note_1051024)
-- [Felipe Borges pushed to project branch update-dark-screenshot at Rohan Mishra...](https://gitlab.gnome.org/rohmishra/connections/-/compare/cf4934289498b2cb96f147bc32ca17fabf488516...ceb2382769af1aede9c809b2ddcbeabda6bf5911)
-- [Felipe Borges commented on merge request !42 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/42#note_1050380)
-- [Felipe Borges commented on merge request !13 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/13#note_1050374)
-- [Felipe Borges commented on issue #668 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/668#note_1049569)
-- [Felipe Borges closed issue #668: Receive files (Send files back to host) at G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/668)
-- [Felipe Borges commented on issue #1090 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1090#note_1049135)
 <!-- BLOG-POST-LIST:END -->
 
 ___
