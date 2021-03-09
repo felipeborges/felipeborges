@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #86 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/86#note_1053434)
+- [Felipe Borges commented on issue #670 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/670#note_1053427)
+- [Felipe Borges commented on issue #130 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/130#note_1053426)
 - [Felipe Borges commented on issue #13 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/13#note_1051167)
 - [Felipe Borges commented on issue #1282 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1282#note_1051136)
 - [Felipe Borges deleted project branch resize-screenshot at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/resize-screenshot)
@@ -18,8 +21,6 @@
 - [Felipe Borges commented on issue #668 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/668#note_1049569)
 - [Felipe Borges closed issue #668: Receive files (Send files back to host) at G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/668)
 - [Felipe Borges commented on issue #1090 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1090#note_1049135)
-- [Felipe Borges commented on issue #86 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/86#note_1049122)
-- [Felipe Borges commented on issue #1090 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1090#note_1049106)
 <!-- BLOG-POST-LIST:END -->
 
 ___
