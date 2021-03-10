@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch add-edit-xml-docs at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/200dcb854d70a16243a35c056a34b047351211a6...33498fafa970e86d07ebf6d33bd1f7875e5e73c9)
+- [Felipe Borges commented on merge request !416 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/416#note_1054584)
+- [Felipe Borges pushed to project branch add-edit-xml-docs at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/200dcb854d70a16243a35c056a34b047351211a6)
 - [Felipe Borges commented on issue #1287 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1287#note_1054536)
 - [Felipe Borges commented on issue #1282 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1282#note_1054361)
 - [Felipe Borges opened merge request !417: help: Use scallable icon (SVG) at GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/417)
@@ -18,9 +21,6 @@
 - [Felipe Borges commented on issue #670 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/670#note_1053427)
 - [Felipe Borges commented on issue #130 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/130#note_1053426)
 - [Felipe Borges commented on issue #13 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/13#note_1051167)
-- [Felipe Borges commented on issue #1282 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1282#note_1051136)
-- [Felipe Borges deleted project branch resize-screenshot at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/resize-screenshot)
-- [Felipe Borges accepted merge request !44: appdata: Resize screenshot at GNOME...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/44)
 <!-- BLOG-POST-LIST:END -->
 
 ___
