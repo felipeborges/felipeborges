@@ -20,7 +20,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/commit/f4792b2178c7eec5351eca9b2d8d19c884af7ba3)
 - [Felipe Borges pushed to project branch wip/oholy/drop-recursive-delete at GNO...](https://gitlab.gnome.org/GNOME/gnome-autoar/-/compare/9d58a9dcde3c4a74107674b847189d41bbe22b6c...f4792b2178c7eec5351eca9b2d8d19c884af7ba3)
 - [Felipe Borges commented on merge request !13 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/13#note_1053527)
-- [Felipe Borges commented on issue #670 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/670#note_1053523)
 <!-- BLOG-POST-LIST:END -->
 
 ___
