@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !416 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/416#note_1054320)
+- [Felipe Borges opened merge request !416: help: Add instructions to edit libvi...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/416)
+- [Felipe Borges pushed new project branch add-edit-xml-docs at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-edit-xml-docs)
 - [Felipe Borges commented on issue #36 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/36#note_1053543)
 - [Felipe Borges accepted merge request !13: extractor: Drop recursive delete on...](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/13)
 - [Felipe Borges pushed to project branch master at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/commit/f4792b2178c7eec5351eca9b2d8d19c884af7ba3)
@@ -18,9 +21,6 @@
 - [Felipe Borges opened merge request !44: appdata: Resize screenshot at GNOME /...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/44)
 - [Felipe Borges pushed new project branch resize-screenshot at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/resize-screenshot)
 - [Felipe Borges accepted merge request !42: Update Screenshot to dark variant a...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/42)
-- [Felipe Borges closed issue #15: Update screenshots at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/15)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/ceb2382769af1aede9c809b2ddcbeabda6bf5911)
-- [Felipe Borges commented on merge request !42 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/42#note_1051024)
 <!-- BLOG-POST-LIST:END -->
 
 ___
