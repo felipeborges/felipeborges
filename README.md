@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #1287 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1287#note_1054536)
 - [Felipe Borges commented on issue #1282 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1282#note_1054361)
 - [Felipe Borges opened merge request !417: help: Use scallable icon (SVG) at GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/417)
 - [Felipe Borges pushed new project branch help-use-scallable-icon at GNOME / GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/help-use-scallable-icon)
@@ -20,7 +21,6 @@
 - [Felipe Borges commented on issue #1282 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1282#note_1051136)
 - [Felipe Borges deleted project branch resize-screenshot at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/resize-screenshot)
 - [Felipe Borges accepted merge request !44: appdata: Resize screenshot at GNOME...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/44)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/5c903a051eeb4e8e3d30a7412ae67264bfe5bff8)
 <!-- BLOG-POST-LIST:END -->
 
 ___
