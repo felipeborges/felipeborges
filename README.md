@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #1282 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1282#note_1054361)
+- [Felipe Borges opened merge request !417: help: Use scallable icon (SVG) at GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/417)
+- [Felipe Borges pushed new project branch help-use-scallable-icon at GNOME / GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/help-use-scallable-icon)
 - [Felipe Borges commented on merge request !416 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/416#note_1054320)
 - [Felipe Borges opened merge request !416: help: Add instructions to edit libvi...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/416)
 - [Felipe Borges pushed new project branch add-edit-xml-docs at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-edit-xml-docs)
@@ -18,9 +21,6 @@
 - [Felipe Borges deleted project branch resize-screenshot at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/resize-screenshot)
 - [Felipe Borges accepted merge request !44: appdata: Resize screenshot at GNOME...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/44)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/5c903a051eeb4e8e3d30a7412ae67264bfe5bff8)
-- [Felipe Borges opened merge request !44: appdata: Resize screenshot at GNOME /...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/44)
-- [Felipe Borges pushed new project branch resize-screenshot at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/resize-screenshot)
-- [Felipe Borges accepted merge request !42: Update Screenshot to dark variant a...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/42)
 <!-- BLOG-POST-LIST:END -->
 
 ___
