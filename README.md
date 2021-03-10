@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch add-edit-xml-docs at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-edit-xml-docs)
+- [Felipe Borges accepted merge request !416: help: Add instructions to edit lib...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/416)
+- [Felipe Borges closed issue #611: Update help docs for 3.38 at GNOME / GNOME B...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/611)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/33498fafa970e86d07ebf6d33bd1f7875e5e73c9)
 - [Felipe Borges pushed to project branch add-edit-xml-docs at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/200dcb854d70a16243a35c056a34b047351211a6...33498fafa970e86d07ebf6d33bd1f7875e5e73c9)
 - [Felipe Borges commented on merge request !416 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/416#note_1054584)
 - [Felipe Borges pushed to project branch add-edit-xml-docs at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/200dcb854d70a16243a35c056a34b047351211a6)
@@ -17,10 +21,6 @@
 - [Felipe Borges pushed to project branch wip/oholy/drop-recursive-delete at GNO...](https://gitlab.gnome.org/GNOME/gnome-autoar/-/compare/9d58a9dcde3c4a74107674b847189d41bbe22b6c...f4792b2178c7eec5351eca9b2d8d19c884af7ba3)
 - [Felipe Borges commented on merge request !13 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/13#note_1053527)
 - [Felipe Borges commented on issue #670 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/670#note_1053523)
-- [Felipe Borges commented on issue #86 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/86#note_1053434)
-- [Felipe Borges commented on issue #670 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/670#note_1053427)
-- [Felipe Borges commented on issue #130 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/130#note_1053426)
-- [Felipe Borges commented on issue #13 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/13#note_1051167)
 <!-- BLOG-POST-LIST:END -->
 
 ___
