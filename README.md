@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch dont-run-tests-without-introspection at ...](https://gitlab.gnome.org/GNOME/gnome-bluetooth/-/commits/dont-run-tests-without-introspection)
+- [Felipe Borges pushed to project branch dont-run-tests-without-introspection a...](https://gitlab.gnome.org/GNOME/gnome-bluetooth/-/commit/b53622e331fe55cec82e0a5b81e5df56c6491220)
+- [Felipe Borges opened merge request !52: build: Only run tests if introspectio...](https://gitlab.gnome.org/GNOME/gnome-bluetooth/-/merge_requests/52)
+- [Felipe Borges pushed new project branch dont-run-tests-without-introspection ...](https://gitlab.gnome.org/GNOME/gnome-bluetooth/-/commits/dont-run-tests-without-introspection)
 - [Felipe Borges commented on issue #6 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/6#note_1055177)
 - [Felipe Borges commented on issue #85 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/85#note_1055162)
 - [Felipe Borges commented on issue #1287 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1287#note_1055126)
@@ -16,10 +20,6 @@
 - [Felipe Borges opened merge request !417: help: Use scallable icon (SVG) at GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/417)
 - [Felipe Borges pushed new project branch help-use-scallable-icon at GNOME / GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/help-use-scallable-icon)
 - [Felipe Borges commented on merge request !416 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/416#note_1054320)
-- [Felipe Borges opened merge request !416: help: Add instructions to edit libvi...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/416)
-- [Felipe Borges pushed new project branch add-edit-xml-docs at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-edit-xml-docs)
-- [Felipe Borges commented on issue #36 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/36#note_1053543)
-- [Felipe Borges accepted merge request !13: extractor: Drop recursive delete on...](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/13)
 <!-- BLOG-POST-LIST:END -->
 
 ___
