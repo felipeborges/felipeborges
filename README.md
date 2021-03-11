@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #85 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/85#note_1055162)
+- [Felipe Borges commented on issue #1287 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1287#note_1055126)
 - [Felipe Borges deleted project branch add-edit-xml-docs at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-edit-xml-docs)
 - [Felipe Borges accepted merge request !416: help: Add instructions to edit lib...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/416)
 - [Felipe Borges closed issue #611: Update help docs for 3.38 at GNOME / GNOME B...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/611)
@@ -18,8 +20,6 @@
 - [Felipe Borges commented on issue #36 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/36#note_1053543)
 - [Felipe Borges accepted merge request !13: extractor: Drop recursive delete on...](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/13)
 - [Felipe Borges pushed to project branch master at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/commit/f4792b2178c7eec5351eca9b2d8d19c884af7ba3)
-- [Felipe Borges pushed to project branch wip/oholy/drop-recursive-delete at GNO...](https://gitlab.gnome.org/GNOME/gnome-autoar/-/compare/9d58a9dcde3c4a74107674b847189d41bbe22b6c...f4792b2178c7eec5351eca9b2d8d19c884af7ba3)
-- [Felipe Borges commented on merge request !13 at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/13#note_1053527)
 <!-- BLOG-POST-LIST:END -->
 
 ___
