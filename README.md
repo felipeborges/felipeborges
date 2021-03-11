@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #6 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/6#note_1055177)
 - [Felipe Borges commented on issue #85 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/85#note_1055162)
 - [Felipe Borges commented on issue #1287 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1287#note_1055126)
 - [Felipe Borges deleted project branch add-edit-xml-docs at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-edit-xml-docs)
@@ -19,7 +20,6 @@
 - [Felipe Borges pushed new project branch add-edit-xml-docs at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-edit-xml-docs)
 - [Felipe Borges commented on issue #36 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/36#note_1053543)
 - [Felipe Borges accepted merge request !13: extractor: Drop recursive delete on...](https://gitlab.gnome.org/GNOME/gnome-autoar/-/merge_requests/13)
-- [Felipe Borges pushed to project branch master at GNOME / gnome-autoar](https://gitlab.gnome.org/GNOME/gnome-autoar/-/commit/f4792b2178c7eec5351eca9b2d8d19c884af7ba3)
 <!-- BLOG-POST-LIST:END -->
 
 ___
