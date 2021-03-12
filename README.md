@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch help-use-scallable-icon at GNOME / GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/a94de9434983103abf68867b875a7a296bc0c3b2...c16b568bd0ad57b0402603c83186d2a0ac735553)
 - [Felipe Borges deleted project branch dont-run-tests-without-introspection at ...](https://gitlab.gnome.org/GNOME/gnome-bluetooth/-/commits/dont-run-tests-without-introspection)
 - [Felipe Borges pushed to project branch dont-run-tests-without-introspection a...](https://gitlab.gnome.org/GNOME/gnome-bluetooth/-/commit/b53622e331fe55cec82e0a5b81e5df56c6491220)
 - [Felipe Borges opened merge request !52: build: Only run tests if introspectio...](https://gitlab.gnome.org/GNOME/gnome-bluetooth/-/merge_requests/52)
@@ -19,7 +20,6 @@
 - [Felipe Borges commented on issue #1282 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1282#note_1054361)
 - [Felipe Borges opened merge request !417: help: Use scallable icon (SVG) at GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/417)
 - [Felipe Borges pushed new project branch help-use-scallable-icon at GNOME / GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/help-use-scallable-icon)
-- [Felipe Borges commented on merge request !416 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/416#note_1054320)
 <!-- BLOG-POST-LIST:END -->
 
 ___
