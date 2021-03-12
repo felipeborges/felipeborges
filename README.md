@@ -1,6 +1,14 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed new project tag 40.rc at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/40.rc)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/2ffafdd336fdeaa61ff3f4ecbf5959eaed086ad9...d299f9da317353128819090683f2b5f7b559a775)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/d92ddfb2c938a01d8a53f3ca4896eb971e6020fc)
+- [Felipe Borges pushed new project tag 40.rc at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/40.rc)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/fd24d6e2a25a9b6c051563f9b4b161850f431845)
+- [Felipe Borges deleted project branch help-use-scallable-icon at GNOME / GNOME...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/help-use-scallable-icon)
+- [Felipe Borges accepted merge request !417: help: Use scallable icon (SVG) at ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/417)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/c16b568bd0ad57b0402603c83186d2a0ac735553)
 - [Felipe Borges pushed to project branch help-use-scallable-icon at GNOME / GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/a94de9434983103abf68867b875a7a296bc0c3b2...c16b568bd0ad57b0402603c83186d2a0ac735553)
 - [Felipe Borges deleted project branch dont-run-tests-without-introspection at ...](https://gitlab.gnome.org/GNOME/gnome-bluetooth/-/commits/dont-run-tests-without-introspection)
 - [Felipe Borges pushed to project branch dont-run-tests-without-introspection a...](https://gitlab.gnome.org/GNOME/gnome-bluetooth/-/commit/b53622e331fe55cec82e0a5b81e5df56c6491220)
@@ -12,14 +20,6 @@
 - [Felipe Borges deleted project branch add-edit-xml-docs at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-edit-xml-docs)
 - [Felipe Borges accepted merge request !416: help: Add instructions to edit lib...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/416)
 - [Felipe Borges closed issue #611: Update help docs for 3.38 at GNOME / GNOME B...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/611)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/33498fafa970e86d07ebf6d33bd1f7875e5e73c9)
-- [Felipe Borges pushed to project branch add-edit-xml-docs at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/200dcb854d70a16243a35c056a34b047351211a6...33498fafa970e86d07ebf6d33bd1f7875e5e73c9)
-- [Felipe Borges commented on merge request !416 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/416#note_1054584)
-- [Felipe Borges pushed to project branch add-edit-xml-docs at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/200dcb854d70a16243a35c056a34b047351211a6)
-- [Felipe Borges commented on issue #1287 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1287#note_1054536)
-- [Felipe Borges commented on issue #1282 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1282#note_1054361)
-- [Felipe Borges opened merge request !417: help: Use scallable icon (SVG) at GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/417)
-- [Felipe Borges pushed new project branch help-use-scallable-icon at GNOME / GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/help-use-scallable-icon)
 <!-- BLOG-POST-LIST:END -->
 
 ___
