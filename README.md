@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #106 at GNOME / Sound Recorder](https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/issues/106#note_1058699)
+- [Felipe Borges closed issue #9: GNOME Boxes Website at Teams / Engagement / GS...](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/9)
+- [Felipe Borges commented on issue #9 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/9#note_1058669)
 - [Felipe Borges pushed new project tag 40.rc at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/40.rc)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/2ffafdd336fdeaa61ff3f4ecbf5959eaed086ad9...d299f9da317353128819090683f2b5f7b559a775)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/d92ddfb2c938a01d8a53f3ca4896eb971e6020fc)
@@ -17,9 +20,6 @@
 - [Felipe Borges commented on issue #6 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/6#note_1055177)
 - [Felipe Borges commented on issue #85 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/85#note_1055162)
 - [Felipe Borges commented on issue #1287 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1287#note_1055126)
-- [Felipe Borges deleted project branch add-edit-xml-docs at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-edit-xml-docs)
-- [Felipe Borges accepted merge request !416: help: Add instructions to edit lib...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/416)
-- [Felipe Borges closed issue #611: Update help docs for 3.38 at GNOME / GNOME B...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/611)
 <!-- BLOG-POST-LIST:END -->
 
 ___
