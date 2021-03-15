@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened merge request !966: Make IPv4/v6 pages drive the scrolle...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/966)
+- [Felipe Borges pushed new project branch network-make-pages-drive-scrolledwind...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/network-make-pages-drive-scrolledwindow)
 - [Felipe Borges accepted merge request !418: help: Resize Boxes icon as 48px an...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/418)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/fb4399a8b5c83685c41eaa8475a96d10d9e5f2d2)
 - [Felipe Borges commented on issue #1292 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1292#note_1058720)
@@ -19,8 +21,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/c16b568bd0ad57b0402603c83186d2a0ac735553)
 - [Felipe Borges pushed to project branch help-use-scallable-icon at GNOME / GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/a94de9434983103abf68867b875a7a296bc0c3b2...c16b568bd0ad57b0402603c83186d2a0ac735553)
 - [Felipe Borges deleted project branch dont-run-tests-without-introspection at ...](https://gitlab.gnome.org/GNOME/gnome-bluetooth/-/commits/dont-run-tests-without-introspection)
-- [Felipe Borges pushed to project branch dont-run-tests-without-introspection a...](https://gitlab.gnome.org/GNOME/gnome-bluetooth/-/commit/b53622e331fe55cec82e0a5b81e5df56c6491220)
-- [Felipe Borges opened merge request !52: build: Only run tests if introspectio...](https://gitlab.gnome.org/GNOME/gnome-bluetooth/-/merge_requests/52)
 <!-- BLOG-POST-LIST:END -->
 
 ___
