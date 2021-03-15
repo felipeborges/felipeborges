@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/de721f079c04ff087752cf68743f4b405aad7d94)
+- [Felipe Borges accepted merge request !45: help: Update Connections icon as SV...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/45)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/6f1f16d561db39f21ad8e97321c85962d5afa609)
+- [Felipe Borges commented on merge request !45 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/45#note_1059022)
 - [Felipe Borges closed issue #671: Deleted VMs keep coming back at GNOME / GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/671)
 - [Felipe Borges commented on issue #671 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/671#note_1058853)
 - [Felipe Borges commented on issue #671 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/671#note_1058824)
@@ -17,10 +21,6 @@
 - [Felipe Borges pushed new project tag 40.rc at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/40.rc)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/2ffafdd336fdeaa61ff3f4ecbf5959eaed086ad9...d299f9da317353128819090683f2b5f7b559a775)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/d92ddfb2c938a01d8a53f3ca4896eb971e6020fc)
-- [Felipe Borges pushed new project tag 40.rc at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/40.rc)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/fd24d6e2a25a9b6c051563f9b4b161850f431845)
-- [Felipe Borges deleted project branch help-use-scallable-icon at GNOME / GNOME...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/help-use-scallable-icon)
-- [Felipe Borges accepted merge request !417: help: Use scallable icon (SVG) at ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/417)
 <!-- BLOG-POST-LIST:END -->
 
 ___
