@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened merge request !419: Introduce audio playback for vnc con...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/419)
+- [Felipe Borges pushed new project branch introduce-audio-for-vnc-connections a...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/introduce-audio-for-vnc-connections)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/de721f079c04ff087752cf68743f4b405aad7d94)
 - [Felipe Borges accepted merge request !45: help: Update Connections icon as SV...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/45)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/6f1f16d561db39f21ad8e97321c85962d5afa609)
@@ -19,8 +21,6 @@
 - [Felipe Borges closed issue #9: GNOME Boxes Website at Teams / Engagement / GS...](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/9)
 - [Felipe Borges commented on issue #9 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/9#note_1058669)
 - [Felipe Borges pushed new project tag 40.rc at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/40.rc)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/2ffafdd336fdeaa61ff3f4ecbf5959eaed086ad9...d299f9da317353128819090683f2b5f7b559a775)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/d92ddfb2c938a01d8a53f3ca4896eb971e6020fc)
 <!-- BLOG-POST-LIST:END -->
 
 ___
