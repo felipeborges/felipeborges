@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #35 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/35#note_1059693)
 - [Felipe Borges commented on issue #1799 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1799#note_1059612)
 - [Felipe Borges closed issue #1799: Nautilus freezes when it is searching at GN...](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1799)
 - [Felipe Borges closed issue #37: Can&#39;t use a custom port for VNC at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/issues/37)
@@ -20,7 +21,6 @@
 - [Felipe Borges opened merge request !966: Make IPv4/v6 pages drive the scrolle...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/966)
 - [Felipe Borges pushed new project branch network-make-pages-drive-scrolledwind...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/network-make-pages-drive-scrolledwindow)
 - [Felipe Borges accepted merge request !418: help: Resize Boxes icon as 48px an...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/418)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/fb4399a8b5c83685c41eaa8475a96d10d9e5f2d2)
 <!-- BLOG-POST-LIST:END -->
 
 ___
