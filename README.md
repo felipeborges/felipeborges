@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #1799 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1799#note_1059612)
+- [Felipe Borges closed issue #1799: Nautilus freezes when it is searching at GN...](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1799)
 - [Felipe Borges closed issue #37: Can&#39;t use a custom port for VNC at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/issues/37)
 - [Felipe Borges commented on issue #37 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/37#note_1059564)
 - [Felipe Borges pushed to project branch introduce-audio-for-vnc-connections at...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/78786651a7b6b12f1d6490e7bf789b2d3a9f0a55...87452e8acf6fd15e1efdd295b131ae585aa5db8d)
@@ -19,8 +21,6 @@
 - [Felipe Borges pushed new project branch network-make-pages-drive-scrolledwind...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/network-make-pages-drive-scrolledwindow)
 - [Felipe Borges accepted merge request !418: help: Resize Boxes icon as 48px an...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/418)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/fb4399a8b5c83685c41eaa8475a96d10d9e5f2d2)
-- [Felipe Borges commented on issue #1292 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1292#note_1058720)
-- [Felipe Borges commented on merge request !418 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/418#note_1058717)
 <!-- BLOG-POST-LIST:END -->
 
 ___
