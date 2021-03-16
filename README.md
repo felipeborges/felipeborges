@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened merge request !46: Add a few [missing] keyboard shortcut...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/46)
+- [Felipe Borges pushed new project branch kbd-shortcuts at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/kbd-shortcuts)
+- [Felipe Borges commented on issue #35 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/35#note_1059708)
 - [Felipe Borges commented on issue #35 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/35#note_1059693)
 - [Felipe Borges commented on issue #1799 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1799#note_1059612)
 - [Felipe Borges closed issue #1799: Nautilus freezes when it is searching at GN...](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1799)
@@ -18,9 +21,6 @@
 - [Felipe Borges closed issue #671: Deleted VMs keep coming back at GNOME / GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/671)
 - [Felipe Borges commented on issue #671 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/671#note_1058853)
 - [Felipe Borges commented on issue #671 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/671#note_1058824)
-- [Felipe Borges opened merge request !966: Make IPv4/v6 pages drive the scrolle...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/966)
-- [Felipe Borges pushed new project branch network-make-pages-drive-scrolledwind...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/network-make-pages-drive-scrolledwindow)
-- [Felipe Borges accepted merge request !418: help: Resize Boxes icon as 48px an...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/418)
 <!-- BLOG-POST-LIST:END -->
 
 ___
