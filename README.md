@@ -1,6 +1,11 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges closed issue #37: Can&#39;t use a custom port for VNC at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/issues/37)
+- [Felipe Borges commented on issue #37 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/37#note_1059564)
+- [Felipe Borges pushed to project branch introduce-audio-for-vnc-connections at...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/78786651a7b6b12f1d6490e7bf789b2d3a9f0a55...87452e8acf6fd15e1efdd295b131ae585aa5db8d)
+- [Felipe Borges commented on merge request !419 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/419#note_1059560)
+- [Felipe Borges pushed to project branch gnome-3-38 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/954ed70df5e04f83fdd8ccd7d5b8965a9fe73ae5)
 - [Felipe Borges opened merge request !419: Introduce audio playback for vnc con...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/419)
 - [Felipe Borges pushed new project branch introduce-audio-for-vnc-connections a...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/introduce-audio-for-vnc-connections)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/de721f079c04ff087752cf68743f4b405aad7d94)
@@ -16,11 +21,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/fb4399a8b5c83685c41eaa8475a96d10d9e5f2d2)
 - [Felipe Borges commented on issue #1292 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1292#note_1058720)
 - [Felipe Borges commented on merge request !418 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/418#note_1058717)
-- [Felipe Borges pushed to project branch help-insiyatif at Sabri Ünal / gnome-b...](https://gitlab.gnome.org/libreajans/gnome-boxes/-/compare/d8bce85fa59219b6d3b79493bef15bbfeea2e9a7...fb4399a8b5c83685c41eaa8475a96d10d9e5f2d2)
-- [Felipe Borges commented on issue #106 at GNOME / Sound Recorder](https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/issues/106#note_1058699)
-- [Felipe Borges closed issue #9: GNOME Boxes Website at Teams / Engagement / GS...](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/9)
-- [Felipe Borges commented on issue #9 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/9#note_1058669)
-- [Felipe Borges pushed new project tag 40.rc at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/40.rc)
 <!-- BLOG-POST-LIST:END -->
 
 ___
