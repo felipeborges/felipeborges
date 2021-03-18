@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened merge request !420: assistant, downloads-hub: Restore su...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/420)
+- [Felipe Borges pushed new project branch restore-support-to-download at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/restore-support-to-download)
 - [Felipe Borges opened merge request !46: Add a few [missing] keyboard shortcut...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/46)
 - [Felipe Borges pushed new project branch kbd-shortcuts at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/kbd-shortcuts)
 - [Felipe Borges commented on issue #35 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/35#note_1059708)
@@ -19,8 +21,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/6f1f16d561db39f21ad8e97321c85962d5afa609)
 - [Felipe Borges commented on merge request !45 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/45#note_1059022)
 - [Felipe Borges closed issue #671: Deleted VMs keep coming back at GNOME / GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/671)
-- [Felipe Borges commented on issue #671 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/671#note_1058853)
-- [Felipe Borges commented on issue #671 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/671#note_1058824)
 <!-- BLOG-POST-LIST:END -->
 
 ___
