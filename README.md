@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #121 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/121#note_1061985)
 - [Felipe Borges accepted merge request !7: Add Arch Linux logo at GNOME / gnome...](https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/merge_requests/7)
 - [Felipe Borges pushed to project branch master at GNOME / gnome-boxes-logos](https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/commit/fd99b99d1070436e7a57c1809ca3b2a51a5dfc41)
 - [Felipe Borges commented on merge request !7 at GNOME / gnome-boxes-logos](https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/merge_requests/7#note_1061888)
@@ -20,7 +21,6 @@
 - [Felipe Borges pushed to project branch gnome-3-38 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/954ed70df5e04f83fdd8ccd7d5b8965a9fe73ae5)
 - [Felipe Borges opened merge request !419: Introduce audio playback for vnc con...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/419)
 - [Felipe Borges pushed new project branch introduce-audio-for-vnc-connections a...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/introduce-audio-for-vnc-connections)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/de721f079c04ff087752cf68743f4b405aad7d94)
 <!-- BLOG-POST-LIST:END -->
 
 ___
