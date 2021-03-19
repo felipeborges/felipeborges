@@ -1,6 +1,11 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened merge request !421: Release 40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/421)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/173c82e032624f16096d7429564045fc056c6cc4)
+- [Felipe Borges pushed new project branch release-40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-40.0)
+- [Felipe Borges pushed new project tag 40.0 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/40.0)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/5fd4f1bcf39e8747553571e54897549f8e51beb4)
 - [Felipe Borges commented on issue #121 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/121#note_1061985)
 - [Felipe Borges accepted merge request !7: Add Arch Linux logo at GNOME / gnome...](https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/merge_requests/7)
 - [Felipe Borges pushed to project branch master at GNOME / gnome-boxes-logos](https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/commit/fd99b99d1070436e7a57c1809ca3b2a51a5dfc41)
@@ -16,11 +21,6 @@
 - [Felipe Borges closed issue #1799: Nautilus freezes when it is searching at GN...](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1799)
 - [Felipe Borges closed issue #37: Can&#39;t use a custom port for VNC at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/issues/37)
 - [Felipe Borges commented on issue #37 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/37#note_1059564)
-- [Felipe Borges pushed to project branch introduce-audio-for-vnc-connections at...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/78786651a7b6b12f1d6490e7bf789b2d3a9f0a55...87452e8acf6fd15e1efdd295b131ae585aa5db8d)
-- [Felipe Borges commented on merge request !419 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/419#note_1059560)
-- [Felipe Borges pushed to project branch gnome-3-38 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/954ed70df5e04f83fdd8ccd7d5b8965a9fe73ae5)
-- [Felipe Borges opened merge request !419: Introduce audio playback for vnc con...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/419)
-- [Felipe Borges pushed new project branch introduce-audio-for-vnc-connections a...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/introduce-audio-for-vnc-connections)
 <!-- BLOG-POST-LIST:END -->
 
 ___
