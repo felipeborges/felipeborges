@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed new project tag 40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/40.0)
+- [Felipe Borges deleted project branch release-40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-40.0)
+- [Felipe Borges accepted merge request !421: Release 40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/421)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/f6bc86b9fe73b391114e27f3fe607b1e916904c6)
 - [Felipe Borges opened merge request !421: Release 40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/421)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/173c82e032624f16096d7429564045fc056c6cc4)
 - [Felipe Borges pushed new project branch release-40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-40.0)
@@ -17,10 +21,6 @@
 - [Felipe Borges pushed new project branch kbd-shortcuts at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/kbd-shortcuts)
 - [Felipe Borges commented on issue #35 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/35#note_1059708)
 - [Felipe Borges commented on issue #35 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/35#note_1059693)
-- [Felipe Borges commented on issue #1799 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1799#note_1059612)
-- [Felipe Borges closed issue #1799: Nautilus freezes when it is searching at GN...](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1799)
-- [Felipe Borges closed issue #37: Can&#39;t use a custom port for VNC at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/issues/37)
-- [Felipe Borges commented on issue #37 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/37#note_1059564)
 <!-- BLOG-POST-LIST:END -->
 
 ___
