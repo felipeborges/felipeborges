@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #17 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/17#note_1063722)
+- [Felipe Borges commented on issue #20 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/20#note_1063720)
+- [Felipe Borges commented on merge request !9 at GNOME / gnome-boxes-logos](https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/merge_requests/9#note_1063719)
 - [Felipe Borges deleted project branch kbd-shortcuts at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/kbd-shortcuts)
 - [Felipe Borges accepted merge request !46: Add a few [missing] keyboard shortc...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/46)
 - [Felipe Borges closed issue #35: Connection window does not react to to keyboa...](https://gitlab.gnome.org/GNOME/connections/-/issues/35)
@@ -18,9 +21,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/173c82e032624f16096d7429564045fc056c6cc4)
 - [Felipe Borges pushed new project branch release-40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-40.0)
 - [Felipe Borges pushed new project tag 40.0 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/40.0)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/5fd4f1bcf39e8747553571e54897549f8e51beb4)
-- [Felipe Borges commented on issue #121 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/121#note_1061985)
-- [Felipe Borges accepted merge request !7: Add Arch Linux logo at GNOME / gnome...](https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/merge_requests/7)
 <!-- BLOG-POST-LIST:END -->
 
 ___
