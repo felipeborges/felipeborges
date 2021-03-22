@@ -1,6 +1,11 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch gtk-show-uri-is-deprecated at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/commits/gtk-show-uri-is-deprecated)
+- [Felipe Borges accepted merge request !47: application/connection: Replace dep...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/47)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/06c10956d383c342b788d9855d21ad336aed07be)
+- [Felipe Borges opened merge request !47: application/connection: Replace depre...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/47)
+- [Felipe Borges pushed new project branch gtk-show-uri-is-deprecated at GNOME /...](https://gitlab.gnome.org/GNOME/connections/-/commits/gtk-show-uri-is-deprecated)
 - [Felipe Borges commented on issue #17 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/17#note_1063722)
 - [Felipe Borges commented on issue #20 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/20#note_1063720)
 - [Felipe Borges commented on merge request !9 at GNOME / gnome-boxes-logos](https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/merge_requests/9#note_1063719)
@@ -16,11 +21,6 @@
 - [Felipe Borges pushed new project tag 40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/40.0)
 - [Felipe Borges deleted project branch release-40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-40.0)
 - [Felipe Borges accepted merge request !421: Release 40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/421)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/f6bc86b9fe73b391114e27f3fe607b1e916904c6)
-- [Felipe Borges opened merge request !421: Release 40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/421)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/173c82e032624f16096d7429564045fc056c6cc4)
-- [Felipe Borges pushed new project branch release-40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-40.0)
-- [Felipe Borges pushed new project tag 40.0 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/40.0)
 <!-- BLOG-POST-LIST:END -->
 
 ___
