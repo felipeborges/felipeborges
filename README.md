@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #18 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/18#note_1065683)
+- [Felipe Borges commented on issue #21 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/21#note_1065656)
 - [Felipe Borges deleted project branch gtk-show-uri-is-deprecated at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/commits/gtk-show-uri-is-deprecated)
 - [Felipe Borges accepted merge request !47: application/connection: Replace dep...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/47)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/06c10956d383c342b788d9855d21ad336aed07be)
@@ -19,8 +21,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/39c3d76ad1faf2c99c212cd6f49170266b331b3e)
 - [Felipe Borges pushed new project branch gnome-40 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/gnome-40)
 - [Felipe Borges pushed new project tag 40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/40.0)
-- [Felipe Borges deleted project branch release-40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-40.0)
-- [Felipe Borges accepted merge request !421: Release 40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/421)
 <!-- BLOG-POST-LIST:END -->
 
 ___
