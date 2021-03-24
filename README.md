@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !9 at GNOME / gnome-boxes-logos](https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/merge_requests/9#note_1065751)
+- [Felipe Borges commented on issue #363 at GNOME / gnome-build-meta](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/issues/363#note_1065703)
 - [Felipe Borges commented on issue #18 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/18#note_1065683)
 - [Felipe Borges commented on issue #21 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/21#note_1065656)
 - [Felipe Borges deleted project branch gtk-show-uri-is-deprecated at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/commits/gtk-show-uri-is-deprecated)
@@ -19,8 +21,6 @@
 - [Felipe Borges pushed to project branch restore-support-to-download at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/803654ab30eacbd42d6c5d7bfe3e993ee0ed35d2...142c25bfcaa40f24bd5e27aa53a172fa85a7a1f0)
 - [Felipe Borges pushed new project branch gnome-40 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/gnome-40)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/39c3d76ad1faf2c99c212cd6f49170266b331b3e)
-- [Felipe Borges pushed new project branch gnome-40 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/gnome-40)
-- [Felipe Borges pushed new project tag 40.0 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/40.0)
 <!-- BLOG-POST-LIST:END -->
 
 ___
