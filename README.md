@@ -18,8 +18,6 @@
 - [Felipe Borges commented on merge request !9 at GNOME / gnome-boxes-logos](https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/merge_requests/9#note_1063719)
 - [Felipe Borges deleted project branch kbd-shortcuts at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/kbd-shortcuts)
 - [Felipe Borges accepted merge request !46: Add a few [missing] keyboard shortc...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/46)
-- [Felipe Borges closed issue #35: Connection window does not react to to keyboa...](https://gitlab.gnome.org/GNOME/connections/-/issues/35)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/173c82e032624f16096d7429564045fc056c6cc4...a5f9268bcda7378bd193ebb6f77927059e68762f)
 <!-- BLOG-POST-LIST:END -->
 
 ___
