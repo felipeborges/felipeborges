@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges closed merge request !394: vm-creator: Account for when we fail...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/394)
+- [Felipe Borges closed merge request !420: assistant, downloads-hub: Restore su...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/420)
+- [Felipe Borges opened merge request !422: troubleshoot-log: Don&#39;t add margin t...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/422)
+- [Felipe Borges pushed new project branch margin-troubleshoot-log at GNOME / GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/margin-troubleshoot-log)
 - [Felipe Borges opened issue #242: Promote GSoC 2021 call for student applicati...](https://gitlab.gnome.org/Teams/Engagement/Social-Media-and-News/-/issues/242)
 - [Felipe Borges commented on issue #204 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/204#note_1069248)
 - [Felipe Borges commented on issue #13 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/13#note_1069229)
@@ -14,10 +18,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/06c10956d383c342b788d9855d21ad336aed07be)
 - [Felipe Borges opened merge request !47: application/connection: Replace depre...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/47)
 - [Felipe Borges pushed new project branch gtk-show-uri-is-deprecated at GNOME /...](https://gitlab.gnome.org/GNOME/connections/-/commits/gtk-show-uri-is-deprecated)
-- [Felipe Borges commented on issue #17 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/17#note_1063722)
-- [Felipe Borges commented on issue #20 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/20#note_1063720)
-- [Felipe Borges commented on merge request !9 at GNOME / gnome-boxes-logos](https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/merge_requests/9#note_1063719)
-- [Felipe Borges deleted project branch kbd-shortcuts at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/kbd-shortcuts)
 <!-- BLOG-POST-LIST:END -->
 
 ___
