@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #1315 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1315#note_1073965)
 - [Felipe Borges deleted project branch introduce-audio-for-vnc-connections at G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/introduce-audio-for-vnc-connections)
 - [Felipe Borges accepted merge request !419: Introduce audio playback for vnc c...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/419)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/630b1e49cfe4717e84aba3c26a64c38a3ed4aa44...91de3b1777a5226135bae4f6d060e5e6279a478d)
@@ -17,7 +18,6 @@
 - [Felipe Borges commented on issue #204 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/204#note_1069248)
 - [Felipe Borges commented on issue #13 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/13#note_1069229)
 - [Felipe Borges commented on issue #673 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/673#note_1068699)
-- [Felipe Borges commented on merge request !9 at GNOME / gnome-boxes-logos](https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/merge_requests/9#note_1065751)
 <!-- BLOG-POST-LIST:END -->
 
 ___
