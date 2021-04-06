@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch reorganize-flatpak-manifest at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/1d0680c84e77a95d59b8085bcdd3d20118d66020)
+- [Felipe Borges opened merge request !423: flatpak: Reorder modules in the mani...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/423)
+- [Felipe Borges pushed new project branch reorganize-flatpak-manifest at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/reorganize-flatpak-manifest)
 - [Felipe Borges commented on issue #1314 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1314#note_1075223)
 - [Felipe Borges commented on merge request !655 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/655#note_1075221)
 - [Felipe Borges closed merge request !655: Update Persian translation at GNOME ...](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/655)
@@ -18,8 +21,6 @@
 - [Felipe Borges closed merge request !394: vm-creator: Account for when we fail...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/394)
 - [Felipe Borges closed merge request !420: assistant, downloads-hub: Restore su...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/420)
 - [Felipe Borges opened merge request !422: troubleshoot-log: Don&#39;t add margin t...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/422)
-- [Felipe Borges pushed new project branch margin-troubleshoot-log at GNOME / GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/margin-troubleshoot-log)
-- [Felipe Borges opened issue #242: Promote GSoC 2021 call for student applicati...](https://gitlab.gnome.org/Teams/Engagement/Social-Media-and-News/-/issues/242)
 <!-- BLOG-POST-LIST:END -->
 
 ___
