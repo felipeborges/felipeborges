@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #677 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/677#note_1075364)
+- [Felipe Borges deleted project branch reorganize-flatpak-manifest at GNOME / G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/reorganize-flatpak-manifest)
+- [Felipe Borges accepted merge request !423: flatpak: Reorder modules in the ma...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/423)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/6c650a3e212ff5110b932479383699512738b8e9...1d0680c84e77a95d59b8085bcdd3d20118d66020)
 - [Felipe Borges pushed to project branch reorganize-flatpak-manifest at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/1d0680c84e77a95d59b8085bcdd3d20118d66020)
 - [Felipe Borges opened merge request !423: flatpak: Reorder modules in the mani...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/423)
 - [Felipe Borges pushed new project branch reorganize-flatpak-manifest at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/reorganize-flatpak-manifest)
@@ -17,10 +21,6 @@
 - [Felipe Borges deleted project branch margin-troubleshoot-log at GNOME / GNOME...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/margin-troubleshoot-log)
 - [Felipe Borges accepted merge request !422: troubleshoot-log: Don&#39;t add margin...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/422)
 - [Felipe Borges closed issue #672: The issues logs have a weird margin around t...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/672)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/630b1e49cfe4717e84aba3c26a64c38a3ed4aa44)
-- [Felipe Borges closed merge request !394: vm-creator: Account for when we fail...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/394)
-- [Felipe Borges closed merge request !420: assistant, downloads-hub: Restore su...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/420)
-- [Felipe Borges opened merge request !422: troubleshoot-log: Don&#39;t add margin t...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/422)
 <!-- BLOG-POST-LIST:END -->
 
 ___
