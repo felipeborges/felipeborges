@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch gnome-40 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/37020ddc025629077ae3b52f3e675857586a4ac7)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/1ef87f00f63ab25c82759be4ecd7fc4b4f784051)
 - [Felipe Borges commented on issue #1315 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1315#note_1073965)
 - [Felipe Borges deleted project branch introduce-audio-for-vnc-connections at G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/introduce-audio-for-vnc-connections)
 - [Felipe Borges accepted merge request !419: Introduce audio playback for vnc c...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/419)
@@ -16,8 +18,6 @@
 - [Felipe Borges pushed new project branch margin-troubleshoot-log at GNOME / GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/margin-troubleshoot-log)
 - [Felipe Borges opened issue #242: Promote GSoC 2021 call for student applicati...](https://gitlab.gnome.org/Teams/Engagement/Social-Media-and-News/-/issues/242)
 - [Felipe Borges commented on issue #204 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/204#note_1069248)
-- [Felipe Borges commented on issue #13 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/13#note_1069229)
-- [Felipe Borges commented on issue #673 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/673#note_1068699)
 <!-- BLOG-POST-LIST:END -->
 
 ___
