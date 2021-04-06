@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #1314 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1314#note_1075223)
 - [Felipe Borges commented on merge request !655 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/655#note_1075221)
 - [Felipe Borges closed merge request !655: Update Persian translation at GNOME ...](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/655)
 - [Felipe Borges pushed to project branch gnome-40 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/37020ddc025629077ae3b52f3e675857586a4ac7)
