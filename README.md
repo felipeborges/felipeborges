@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #632 at GNOME / gnome-calendar](https://gitlab.gnome.org/GNOME/gnome-calendar/-/issues/632#note_1077042)
 - [Felipe Borges deleted project branch replace-gtk-show-uri at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/replace-gtk-show-uri)
 - [Felipe Borges accepted merge request !424: app: Replace deprecated Gtk.show_u...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/424)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/07e5365ba63e311a76c39b439ba1fe6a4fb93dc6)
@@ -20,7 +21,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/6c650a3e212ff5110b932479383699512738b8e9...1d0680c84e77a95d59b8085bcdd3d20118d66020)
 - [Felipe Borges pushed to project branch reorganize-flatpak-manifest at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/1d0680c84e77a95d59b8085bcdd3d20118d66020)
 - [Felipe Borges opened merge request !423: flatpak: Reorder modules in the mani...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/423)
-- [Felipe Borges pushed new project branch reorganize-flatpak-manifest at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/reorganize-flatpak-manifest)
 <!-- BLOG-POST-LIST:END -->
 
 ___
