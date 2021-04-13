@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch mouse-button-order-rtl at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/mouse-button-order-rtl)
+- [Felipe Borges closed issue #1101: Mouse buttons in RTL are reversed at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1101)
 - [Felipe Borges commented on issue #679 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/679#note_1081405)
 - [Felipe Borges closed issue #679: [RFE] GNOME Boxes should provide a way for t...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/679)
 - [Felipe Borges commented on merge request !952 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/952#note_1081403)
@@ -19,8 +21,6 @@
 - [Felipe Borges commented on merge request !976 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/976#note_1077117)
 - [Felipe Borges commented on issue #7 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/7#note_1077115)
 - [Felipe Borges commented on issue #14 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/14#note_1077114)
-- [Felipe Borges commented on issue #632 at GNOME / gnome-calendar](https://gitlab.gnome.org/GNOME/gnome-calendar/-/issues/632#note_1077042)
-- [Felipe Borges deleted project branch replace-gtk-show-uri at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/replace-gtk-show-uri)
 <!-- BLOG-POST-LIST:END -->
 
 ___
