@@ -1,6 +1,11 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !426 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/426#note_1083200)
+- [Felipe Borges deleted project branch add-almalinux-logo at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-almalinux-logo)
+- [Felipe Borges accepted merge request !426: osinfo: Add AlmaLinux logo at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/426)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/9264ae3ebaafdd7b46fb5132f02c010658dc38ed)
+- [Felipe Borges commented on merge request !426 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/426#note_1083187)
 - [Felipe Borges commented on issue #1326 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1326#note_1083169)
 - [Felipe Borges commented on merge request !8 at GNOME / gnome-boxes-logos](https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/merge_requests/8#note_1083161)
 - [Felipe Borges pushed to project branch elementary at André Almeida / gnome-bo...](https://gitlab.gnome.org/andrealmeid/gnome-boxes-logos/-/compare/0924c90e939ec9cf20e09942e53a160554820e22...a887ed9d57a6382ad3e6296b4c712578224f8ea9)
@@ -16,11 +21,6 @@
 - [Felipe Borges pushed new project branch update-readme at GNOME / gnome-keyring](https://gitlab.gnome.org/GNOME/gnome-keyring/-/commits/update-readme)
 - [Felipe Borges deleted project branch some-assistant-refactoring at GNOME / GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/some-assistant-refactoring)
 - [Felipe Borges accepted merge request !425: Drop old wizard files and concepts...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/425)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/07e5365ba63e311a76c39b439ba1fe6a4fb93dc6...75297aa2961ce7b23fd65bed6db0a9d96394642e)
-- [Felipe Borges opened merge request !425: Drop old wizard files and concepts a...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/425)
-- [Felipe Borges pushed new project branch some-assistant-refactoring at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/some-assistant-refactoring)
-- [Felipe Borges commented on merge request !952 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/952#note_1081525)
-- [Felipe Borges opened merge request !978: [gnome-40] mouse: Prevent direction ...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/978)
 <!-- BLOG-POST-LIST:END -->
 
 ___
