@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #681 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/681#note_1086020)
 - [Felipe Borges commented on issue #206 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/206#note_1085998)
 - [Felipe Borges commented on issue #205 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/205#note_1085981)
 - [Felipe Borges accepted merge request !48: application: Add app specific categ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/48)
@@ -20,7 +21,6 @@
 - [Felipe Borges commented on merge request !426 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/426#note_1083230)
 - [Felipe Borges commented on merge request !426 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/426#note_1083200)
 - [Felipe Borges deleted project branch add-almalinux-logo at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-almalinux-logo)
-- [Felipe Borges accepted merge request !426: osinfo: Add AlmaLinux logo at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/426)
 <!-- BLOG-POST-LIST:END -->
 
 ___
