@@ -1,6 +1,12 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch dismiss-notifications-on-exit at GNOME /...](https://gitlab.gnome.org/GNOME/connections/-/commits/dismiss-notifications-on-exit)
+- [Felipe Borges accepted merge request !50: notifications: Dismiss notification...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/50)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/00fc785f5a59e50977e8898a014a8064472b6809)
+- [Felipe Borges pushed to project branch dismiss-notifications-on-exit at GNOME...](https://gitlab.gnome.org/GNOME/connections/-/compare/a1b9a8928f770109c9ef09f82bd69a53080f23b4...00fc785f5a59e50977e8898a014a8064472b6809)
+- [Felipe Borges opened merge request !50: notifications: Dismiss notifications ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/50)
+- [Felipe Borges pushed new project branch dismiss-notifications-on-exit at GNOM...](https://gitlab.gnome.org/GNOME/connections/-/commits/dismiss-notifications-on-exit)
 - [Felipe Borges commented on issue #681 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/681#note_1086020)
 - [Felipe Borges commented on issue #206 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/206#note_1085998)
 - [Felipe Borges commented on issue #205 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/205#note_1085981)
@@ -15,12 +21,6 @@
 - [Felipe Borges pushed new project tag 40.0.1 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/40.0.1)
 - [Felipe Borges deleted project branch release-gnome-40.0.1 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/release-gnome-40.0.1)
 - [Felipe Borges accepted merge request !49: Release 40.0.1 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/49)
-- [Felipe Borges pushed to project branch gnome-40 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/d433d4561aca00bd9ebf1cde4b31967d35eca4c4)
-- [Felipe Borges opened merge request !49: Release 40.0.1 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/49)
-- [Felipe Borges pushed new project branch release-gnome-40.0.1 at GNOME / Conne...](https://gitlab.gnome.org/GNOME/connections/-/commits/release-gnome-40.0.1)
-- [Felipe Borges commented on merge request !426 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/426#note_1083230)
-- [Felipe Borges commented on merge request !426 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/426#note_1083200)
-- [Felipe Borges deleted project branch add-almalinux-logo at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-almalinux-logo)
 <!-- BLOG-POST-LIST:END -->
 
 ___
