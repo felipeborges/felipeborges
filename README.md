@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #680 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/680#note_1087571)
 - [Felipe Borges deleted project branch drop-gnome-control-center-dep-on-grilo a...](https://gitlab.gnome.org/GNOME/jhbuild/-/commits/drop-gnome-control-center-dep-on-grilo)
 - [Felipe Borges opened merge request !120: core-latest: Drop gnome-control-cent...](https://gitlab.gnome.org/GNOME/jhbuild/-/merge_requests/120)
 - [Felipe Borges pushed new project branch drop-gnome-control-center-dep-on-gril...](https://gitlab.gnome.org/GNOME/jhbuild/-/commits/drop-gnome-control-center-dep-on-grilo)
@@ -20,7 +21,6 @@
 - [Felipe Borges commented on issue #206 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/206#note_1085998)
 - [Felipe Borges commented on issue #205 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/205#note_1085981)
 - [Felipe Borges accepted merge request !48: application: Add app specific categ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/48)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/0d0e3348d215032adab5f9fb635b4e219e5a54dc)
 <!-- BLOG-POST-LIST:END -->
 
 ___
