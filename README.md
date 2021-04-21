@@ -1,6 +1,14 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened merge request !120: core-latest: Drop gnome-control-cent...](https://gitlab.gnome.org/GNOME/jhbuild/-/merge_requests/120)
+- [Felipe Borges pushed new project branch drop-gnome-control-center-dep-on-gril...](https://gitlab.gnome.org/GNOME/jhbuild/-/commits/drop-gnome-control-center-dep-on-grilo)
+- [Felipe Borges opened merge request !1111: core/gnome-control-center: Remove g...](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/merge_requests/1111)
+- [Felipe Borges pushed new project branch drop-grilo-from-gnome-control-center ...](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/commits/drop-grilo-from-gnome-control-center)
+- [Felipe Borges commented on merge request !52 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/52#note_1087475)
+- [Felipe Borges accepted merge request !51: Don&#39;t use legacy path for metainfo ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/51)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/e1692bd1ee7fc0833ce3828dc9529a33af373398)
+- [Felipe Borges commented on merge request !51 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/51#note_1087444)
 - [Felipe Borges deleted project branch dismiss-notifications-on-exit at GNOME /...](https://gitlab.gnome.org/GNOME/connections/-/commits/dismiss-notifications-on-exit)
 - [Felipe Borges accepted merge request !50: notifications: Dismiss notification...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/50)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/00fc785f5a59e50977e8898a014a8064472b6809)
@@ -13,14 +21,6 @@
 - [Felipe Borges accepted merge request !48: application: Add app specific categ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/48)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/0d0e3348d215032adab5f9fb635b4e219e5a54dc)
 - [Felipe Borges commented on merge request !48 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/48#note_1085838)
-- [Felipe Borges commented on issue #1234 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1234#note_1085802)
-- [Felipe Borges commented on merge request !980 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/980#note_1085800)
-- [Felipe Borges closed issue #38: Missing source tarball version 40 in download...](https://gitlab.gnome.org/GNOME/connections/-/issues/38)
-- [Felipe Borges commented on issue #38 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/38#note_1085797)
-- [Felipe Borges commented on merge request !657 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/657#note_1083419)
-- [Felipe Borges pushed new project tag 40.0.1 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/40.0.1)
-- [Felipe Borges deleted project branch release-gnome-40.0.1 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/release-gnome-40.0.1)
-- [Felipe Borges accepted merge request !49: Release 40.0.1 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/49)
 <!-- BLOG-POST-LIST:END -->
 
 ___
