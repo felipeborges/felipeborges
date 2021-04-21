@@ -1,6 +1,12 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #682 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/682#note_1087606)
+- [Felipe Borges deleted project branch unattended-installer-warnings at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/unattended-installer-warnings)
+- [Felipe Borges accepted merge request !427: unattended-installer: Avoid access...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/427)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/b0915cc50c6ee8cfa917741108115a130cb6a259...80297db2f038afccdf936d84973347f233602805)
+- [Felipe Borges opened merge request !427: unattended-installer: Avoid accessin...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/427)
+- [Felipe Borges pushed new project branch unattended-installer-warnings at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/unattended-installer-warnings)
 - [Felipe Borges commented on issue #680 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/680#note_1087571)
 - [Felipe Borges deleted project branch drop-gnome-control-center-dep-on-grilo a...](https://gitlab.gnome.org/GNOME/jhbuild/-/commits/drop-gnome-control-center-dep-on-grilo)
 - [Felipe Borges opened merge request !120: core-latest: Drop gnome-control-cent...](https://gitlab.gnome.org/GNOME/jhbuild/-/merge_requests/120)
@@ -15,12 +21,6 @@
 - [Felipe Borges accepted merge request !50: notifications: Dismiss notification...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/50)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/00fc785f5a59e50977e8898a014a8064472b6809)
 - [Felipe Borges pushed to project branch dismiss-notifications-on-exit at GNOME...](https://gitlab.gnome.org/GNOME/connections/-/compare/a1b9a8928f770109c9ef09f82bd69a53080f23b4...00fc785f5a59e50977e8898a014a8064472b6809)
-- [Felipe Borges opened merge request !50: notifications: Dismiss notifications ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/50)
-- [Felipe Borges pushed new project branch dismiss-notifications-on-exit at GNOM...](https://gitlab.gnome.org/GNOME/connections/-/commits/dismiss-notifications-on-exit)
-- [Felipe Borges commented on issue #681 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/681#note_1086020)
-- [Felipe Borges commented on issue #206 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/206#note_1085998)
-- [Felipe Borges commented on issue #205 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/205#note_1085981)
-- [Felipe Borges accepted merge request !48: application: Add app specific categ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/48)
 <!-- BLOG-POST-LIST:END -->
 
 ___
