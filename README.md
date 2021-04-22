@@ -1,6 +1,11 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #28 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/28#note_1088515)
+- [Felipe Borges commented on merge request !428 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/428#note_1088512)
+- [Felipe Borges accepted merge request !428: assistant: Display image filepath ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/428)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/f205c284d4f0f3560e91287532f28ece8a52385f)
+- [Felipe Borges commented on merge request !428 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/428#note_1088511)
 - [Felipe Borges deleted project branch drop-grilo-from-gnome-control-center at ...](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/commits/drop-grilo-from-gnome-control-center)
 - [Felipe Borges commented on issue #28 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/28#note_1088389)
 - [Felipe Borges accepted merge request !52: appdata: Fix gettext domain name at...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/52)
@@ -16,11 +21,6 @@
 - [Felipe Borges commented on issue #680 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/680#note_1087571)
 - [Felipe Borges deleted project branch drop-gnome-control-center-dep-on-grilo a...](https://gitlab.gnome.org/GNOME/jhbuild/-/commits/drop-gnome-control-center-dep-on-grilo)
 - [Felipe Borges opened merge request !120: core-latest: Drop gnome-control-cent...](https://gitlab.gnome.org/GNOME/jhbuild/-/merge_requests/120)
-- [Felipe Borges pushed new project branch drop-gnome-control-center-dep-on-gril...](https://gitlab.gnome.org/GNOME/jhbuild/-/commits/drop-gnome-control-center-dep-on-grilo)
-- [Felipe Borges opened merge request !1111: core/gnome-control-center: Remove g...](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/merge_requests/1111)
-- [Felipe Borges pushed new project branch drop-grilo-from-gnome-control-center ...](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/commits/drop-grilo-from-gnome-control-center)
-- [Felipe Borges commented on merge request !52 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/52#note_1087475)
-- [Felipe Borges accepted merge request !51: Don&#39;t use legacy path for metainfo ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/51)
 <!-- BLOG-POST-LIST:END -->
 
 ___
