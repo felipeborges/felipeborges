@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges accepted merge request !52: appdata: Fix gettext domain name at...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/52)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/9dce5f4d067efba8fc49f975d1c667ae15f2618f)
+- [Felipe Borges pushed to project branch City-busz-master-patch-12007 at Balló ...](https://gitlab.gnome.org/City-busz/connections/-/compare/22d8852d89b2b9a993281862db7ccfec9dd4fb4e...9dce5f4d067efba8fc49f975d1c667ae15f2618f)
+- [Felipe Borges commented on merge request !52 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/52#note_1088348)
 - [Felipe Borges commented on issue #682 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/682#note_1087606)
 - [Felipe Borges deleted project branch unattended-installer-warnings at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/unattended-installer-warnings)
 - [Felipe Borges accepted merge request !427: unattended-installer: Avoid access...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/427)
@@ -17,10 +21,6 @@
 - [Felipe Borges accepted merge request !51: Don&#39;t use legacy path for metainfo ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/51)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/e1692bd1ee7fc0833ce3828dc9529a33af373398)
 - [Felipe Borges commented on merge request !51 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/51#note_1087444)
-- [Felipe Borges deleted project branch dismiss-notifications-on-exit at GNOME /...](https://gitlab.gnome.org/GNOME/connections/-/commits/dismiss-notifications-on-exit)
-- [Felipe Borges accepted merge request !50: notifications: Dismiss notification...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/50)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/00fc785f5a59e50977e8898a014a8064472b6809)
-- [Felipe Borges pushed to project branch dismiss-notifications-on-exit at GNOME...](https://gitlab.gnome.org/GNOME/connections/-/compare/a1b9a8928f770109c9ef09f82bd69a53080f23b4...00fc785f5a59e50977e8898a014a8064472b6809)
 <!-- BLOG-POST-LIST:END -->
 
 ___
