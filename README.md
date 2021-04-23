@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #686 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/686#note_1089435)
+- [Felipe Borges closed issue #686: No option to add new Remote Connection at GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/686)
 - [Felipe Borges pushed new project branch add-release-notes-script at GNOME / G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-release-notes-script)
 - [Felipe Borges commented on issue #28 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/28#note_1088515)
 - [Felipe Borges commented on merge request !428 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/428#note_1088512)
@@ -19,8 +21,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/b0915cc50c6ee8cfa917741108115a130cb6a259...80297db2f038afccdf936d84973347f233602805)
 - [Felipe Borges opened merge request !427: unattended-installer: Avoid accessin...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/427)
 - [Felipe Borges pushed new project branch unattended-installer-warnings at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/unattended-installer-warnings)
-- [Felipe Borges commented on issue #680 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/680#note_1087571)
-- [Felipe Borges deleted project branch drop-gnome-control-center-dep-on-grilo a...](https://gitlab.gnome.org/GNOME/jhbuild/-/commits/drop-gnome-control-center-dep-on-grilo)
 <!-- BLOG-POST-LIST:END -->
 
 ___
