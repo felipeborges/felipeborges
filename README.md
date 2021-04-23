@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed new project branch add-release-notes-script at GNOME / G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-release-notes-script)
 - [Felipe Borges commented on issue #28 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/28#note_1088515)
 - [Felipe Borges commented on merge request !428 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/428#note_1088512)
 - [Felipe Borges accepted merge request !428: assistant: Display image filepath ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/428)
@@ -20,7 +21,6 @@
 - [Felipe Borges pushed new project branch unattended-installer-warnings at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/unattended-installer-warnings)
 - [Felipe Borges commented on issue #680 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/680#note_1087571)
 - [Felipe Borges deleted project branch drop-gnome-control-center-dep-on-grilo a...](https://gitlab.gnome.org/GNOME/jhbuild/-/commits/drop-gnome-control-center-dep-on-grilo)
-- [Felipe Borges opened merge request !120: core-latest: Drop gnome-control-cent...](https://gitlab.gnome.org/GNOME/jhbuild/-/merge_requests/120)
 <!-- BLOG-POST-LIST:END -->
 
 ___
