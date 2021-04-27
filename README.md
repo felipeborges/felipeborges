@@ -20,7 +20,6 @@
 - [Felipe Borges deleted project branch unattended-installer-warnings at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/unattended-installer-warnings)
 - [Felipe Borges accepted merge request !427: unattended-installer: Avoid access...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/427)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/b0915cc50c6ee8cfa917741108115a130cb6a259...80297db2f038afccdf936d84973347f233602805)
-- [Felipe Borges opened merge request !427: unattended-installer: Avoid accessin...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/427)
 <!-- BLOG-POST-LIST:END -->
 
 ___
