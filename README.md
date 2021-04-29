@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !431 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/431#note_1094330)
 - [Felipe Borges opened merge request !431: app: Override &quot;--help&quot; command line ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/431)
 - [Felipe Borges commented on issue #688 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/688#note_1094301)
 - [Felipe Borges pushed new project branch override-help-cmdline-argument at GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/override-help-cmdline-argument)
@@ -18,7 +19,6 @@
 - [Felipe Borges commented on issue #686 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/686#note_1089435)
 - [Felipe Borges closed issue #686: No option to add new Remote Connection at GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/686)
 - [Felipe Borges pushed new project branch add-release-notes-script at GNOME / G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-release-notes-script)
-- [Felipe Borges commented on issue #28 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/28#note_1088515)
 <!-- BLOG-POST-LIST:END -->
 
 ___
