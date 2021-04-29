@@ -19,7 +19,6 @@
 - [Felipe Borges commented on merge request !428 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/428#note_1088512)
 - [Felipe Borges accepted merge request !428: assistant: Display image filepath ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/428)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/f205c284d4f0f3560e91287532f28ece8a52385f)
-- [Felipe Borges commented on merge request !428 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/428#note_1088511)
 <!-- BLOG-POST-LIST:END -->
 
 ___
