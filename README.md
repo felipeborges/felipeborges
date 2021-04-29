@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !987 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/987#note_1093674)
 - [Felipe Borges deleted project branch add-release-notes-script at GNOME / GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-release-notes-script)
 - [Felipe Borges accepted merge request !430: Introduce script to auto-generate ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/430)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/d33ab56588735234d60525353dbbe863bbb92aed)
@@ -19,7 +20,6 @@
 - [Felipe Borges accepted merge request !428: assistant: Display image filepath ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/428)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/f205c284d4f0f3560e91287532f28ece8a52385f)
 - [Felipe Borges commented on merge request !428 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/428#note_1088511)
-- [Felipe Borges deleted project branch drop-grilo-from-gnome-control-center at ...](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/commits/drop-grilo-from-gnome-control-center)
 <!-- BLOG-POST-LIST:END -->
 
 ___
