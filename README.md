@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch override-help-cmdline-argument at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/9a568a187aa9557a6836613b9ffb46d03cf315a3...60d76d345a36f94738a75145dbefb2bff3955f9a)
 - [Felipe Borges commented on issue #242 at Teams / Engagement / Social Media an...](https://gitlab.gnome.org/Teams/Engagement/Social-Media-and-News/-/issues/242#note_1094440)
 - [Felipe Borges commented on merge request !431 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/431#note_1094330)
 - [Felipe Borges opened merge request !431: app: Override &quot;--help&quot; command line ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/431)
@@ -18,7 +19,6 @@
 - [Felipe Borges commented on merge request !429 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/429#note_1091805)
 - [Felipe Borges deleted project branch update-readme at GNOME / gnome-keyring](https://gitlab.gnome.org/GNOME/gnome-keyring/-/commits/update-readme)
 - [Felipe Borges commented on issue #686 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/686#note_1089435)
-- [Felipe Borges closed issue #686: No option to add new Remote Connection at GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/686)
 <!-- BLOG-POST-LIST:END -->
 
 ___
