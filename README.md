@@ -1,6 +1,11 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened merge request !433: app, ui: Remove remaining references...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/433)
+- [Felipe Borges pushed new project branch purge-mentions-to-remoting-in-ui at G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/purge-mentions-to-remoting-in-ui)
+- [Felipe Borges commented on issue #692 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/692#note_1096762)
+- [Felipe Borges opened merge request !432: Release 40.1 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/432)
+- [Felipe Borges pushed new project branch release-40.1 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-40.1)
 - [Felipe Borges deleted project branch override-help-cmdline-argument at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/override-help-cmdline-argument)
 - [Felipe Borges accepted merge request !431: app: Override &quot;--help&quot; command lin...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/431)
 - [Felipe Borges closed issue #689: `flatpak run org.gnome.Boxes -h` closes the ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/689)
@@ -15,11 +20,6 @@
 - [Felipe Borges commented on merge request !987 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/987#note_1093674)
 - [Felipe Borges deleted project branch add-release-notes-script at GNOME / GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-release-notes-script)
 - [Felipe Borges accepted merge request !430: Introduce script to auto-generate ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/430)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/d33ab56588735234d60525353dbbe863bbb92aed)
-- [Felipe Borges commented on issue #690 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/690#note_1092688)
-- [Felipe Borges pushed to project branch add-release-notes-script at GNOME / GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/bdfd080a9613ae48737bcb2381fcc6b70b52b974...d33ab56588735234d60525353dbbe863bbb92aed)
-- [Felipe Borges opened merge request !430: Introduce script to auto-generate re...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/430)
-- [Felipe Borges accepted merge request !429: assistant: Display downloadable en...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/429)
 <!-- BLOG-POST-LIST:END -->
 
 ___
