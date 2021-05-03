@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch release-40.1 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-40.1)
+- [Felipe Borges accepted merge request !432: Release 40.1 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/432)
+- [Felipe Borges pushed to project branch gnome-40 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/56d35ff1ba7a8758cb128957cc676488000ae64f)
 - [Felipe Borges opened merge request !433: app, ui: Remove remaining references...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/433)
 - [Felipe Borges pushed new project branch purge-mentions-to-remoting-in-ui at G...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/purge-mentions-to-remoting-in-ui)
 - [Felipe Borges commented on issue #692 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/692#note_1096762)
@@ -17,9 +20,6 @@
 - [Felipe Borges opened merge request !431: app: Override &quot;--help&quot; command line ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/431)
 - [Felipe Borges commented on issue #688 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/688#note_1094301)
 - [Felipe Borges pushed new project branch override-help-cmdline-argument at GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/override-help-cmdline-argument)
-- [Felipe Borges commented on merge request !987 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/987#note_1093674)
-- [Felipe Borges deleted project branch add-release-notes-script at GNOME / GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/add-release-notes-script)
-- [Felipe Borges accepted merge request !430: Introduce script to auto-generate ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/430)
 <!-- BLOG-POST-LIST:END -->
 
 ___
