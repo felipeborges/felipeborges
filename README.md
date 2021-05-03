@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch purge-mentions-to-remoting-in-ui at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/purge-mentions-to-remoting-in-ui)
+- [Felipe Borges accepted merge request !433: app, ui: Remove remaining referenc...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/433)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/e821752d8a7e6d0fe59c10d7bc69e3b53849616e)
 - [Felipe Borges deleted project branch turn-db-object-into-singleton at GNOME /...](https://gitlab.gnome.org/GNOME/connections/-/commits/turn-db-object-into-singleton)
 - [Felipe Borges accepted merge request !53: Turn db object into singleton at GN...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/53)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/a3a8381e49d821599a830a08a06f38fae4f7c210...5a3fa64b194335811ee503c969bff1bff0ab8d84)
@@ -18,9 +21,6 @@
 - [Felipe Borges deleted project branch override-help-cmdline-argument at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/override-help-cmdline-argument)
 - [Felipe Borges accepted merge request !431: app: Override &quot;--help&quot; command lin...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/431)
 - [Felipe Borges closed issue #689: `flatpak run org.gnome.Boxes -h` closes the ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/689)
-- [Felipe Borges closed issue #394: &#39;gnome-boxes --help&#39; (or any other --help-* ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/394)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/60d76d345a36f94738a75145dbefb2bff3955f9a)
-- [Felipe Borges pushed to project branch override-help-cmdline-argument at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/9a568a187aa9557a6836613b9ffb46d03cf315a3...60d76d345a36f94738a75145dbefb2bff3955f9a)
 <!-- BLOG-POST-LIST:END -->
 
 ___
