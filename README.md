@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !10 at GNOME / gnome-boxes-logos](https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/merge_requests/10#note_1097769)
 - [Felipe Borges commented on issue #666 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/666#note_1097704)
 - [Felipe Borges closed issue #666: Boxes 3.38 doesn&#39;t boot gnome OS at GNOME / ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/666)
 - [Felipe Borges commented on issue #666 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/666#note_1097703)
@@ -20,7 +21,6 @@
 - [Felipe Borges closed issue #40: search button on the onboarding page at GNOME...](https://gitlab.gnome.org/GNOME/connections/-/issues/40)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/5a3fa64b194335811ee503c969bff1bff0ab8d84...1fbbe72d3b33c61a4e2b8f314d3fcf617086bc1f)
 - [Felipe Borges commented on issue #39 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/39#note_1096997)
-- [Felipe Borges opened merge request !54: Enable type-to-search and hide search...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/54)
 <!-- BLOG-POST-LIST:END -->
 
 ___
