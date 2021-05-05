@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch fix-typos at Felipe Borges / gnome-user-...](https://gitlab.gnome.org/felipeborges/gnome-user-docs/-/commits/fix-typos)
 - [Felipe Borges commented on issue #110 at Teams / MembershipCommittee](https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues/110#note_1098099)
 - [Felipe Borges commented on issue #93 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/93#note_1097844)
 - [Felipe Borges closed issue #93: GRUB2 doesn&#39;t respond to ctrl-x or f10 at GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/93)
@@ -20,7 +21,6 @@
 - [Felipe Borges closed issue #3: Handle mime-types at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/3)
 - [Felipe Borges deleted project branch search-ux-fixups at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/search-ux-fixups)
 - [Felipe Borges accepted merge request !54: Enable type-to-search and hide sear...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/54)
-- [Felipe Borges closed issue #42: type to search doesn&#39;t work at GNOME / Connec...](https://gitlab.gnome.org/GNOME/connections/-/issues/42)
 <!-- BLOG-POST-LIST:END -->
 
 ___
