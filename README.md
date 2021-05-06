@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #691 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/691#note_1099536)
+- [Felipe Borges commented on issue #36 at GNOME / GNOME Tour](https://gitlab.gnome.org/GNOME/gnome-tour/-/issues/36#note_1099535)
 - [Felipe Borges deleted project branch fix-typos at Felipe Borges / gnome-user-...](https://gitlab.gnome.org/felipeborges/gnome-user-docs/-/commits/fix-typos)
 - [Felipe Borges commented on issue #110 at Teams / MembershipCommittee](https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues/110#note_1098099)
 - [Felipe Borges commented on issue #93 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/93#note_1097844)
@@ -19,8 +21,6 @@
 - [Felipe Borges closed issue #4: Import .vnc and .rdp files at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/4)
 - [Felipe Borges closed issue #28: Popup Menus Behind VNC Display at GNOME / Con...](https://gitlab.gnome.org/GNOME/connections/-/issues/28)
 - [Felipe Borges closed issue #3: Handle mime-types at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/3)
-- [Felipe Borges deleted project branch search-ux-fixups at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/search-ux-fixups)
-- [Felipe Borges accepted merge request !54: Enable type-to-search and hide sear...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/54)
 <!-- BLOG-POST-LIST:END -->
 
 ___
