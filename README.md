@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #172 at Infrastructure / br-gnome-org](https://gitlab.gnome.org/Infrastructure/br-gnome-org/-/issues/172#note_1100854)
 - [Felipe Borges deleted project branch network-make-pages-drive-scrolledwindow ...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/network-make-pages-drive-scrolledwindow)
 - [Felipe Borges deleted project branch wifi-hotspot-psw-max-chars at GNOME / Se...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/wifi-hotspot-psw-max-chars)
 - [Felipe Borges opened issue #579: Appdata has ‘proprietary’ license (due to CC...](https://gitlab.gnome.org/GNOME/meld/-/issues/579)
@@ -20,7 +21,6 @@
 - [Felipe Borges commented on issue #688 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/688#note_1097695)
 - [Felipe Borges commented on issue #691 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/691#note_1097688)
 - [Felipe Borges commented on merge request !988 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/988#note_1097046)
-- [Felipe Borges commented on issue #9 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/9#note_1097032)
 <!-- BLOG-POST-LIST:END -->
 
 ___
