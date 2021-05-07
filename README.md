@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch network-make-pages-drive-scrolledwindow ...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/network-make-pages-drive-scrolledwindow)
+- [Felipe Borges deleted project branch wifi-hotspot-psw-max-chars at GNOME / Se...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/wifi-hotspot-psw-max-chars)
 - [Felipe Borges opened issue #579: Appdata has ‘proprietary’ license (due to CC...](https://gitlab.gnome.org/GNOME/meld/-/issues/579)
 - [Felipe Borges commented on issue #691 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/691#note_1099536)
 - [Felipe Borges commented on issue #36 at GNOME / GNOME Tour](https://gitlab.gnome.org/GNOME/gnome-tour/-/issues/36#note_1099535)
@@ -19,8 +21,6 @@
 - [Felipe Borges commented on issue #691 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/691#note_1097688)
 - [Felipe Borges commented on merge request !988 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/988#note_1097046)
 - [Felipe Borges commented on issue #9 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/9#note_1097032)
-- [Felipe Borges closed issue #4: Import .vnc and .rdp files at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/4)
-- [Felipe Borges closed issue #28: Popup Menus Behind VNC Display at GNOME / Con...](https://gitlab.gnome.org/GNOME/connections/-/issues/28)
 <!-- BLOG-POST-LIST:END -->
 
 ___
