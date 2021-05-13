@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #54 at GNOME / gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop/-/issues/54#note_1104740)
 - [Felipe Borges commented on issue #617 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/617#note_1104241)
 - [Felipe Borges commented on issue #617 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/617#note_1104237)
 - [Felipe Borges commented on issue #46 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/46#note_1104126)
@@ -20,7 +21,6 @@
 - [Felipe Borges pushed to project branch wip/fullscreen at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/3c8f0e944f13684b5dfbbd1730cd8dda5b737e54)
 - [Felipe Borges pushed to project branch wip/fullscreen at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/3d06313f3cc57b39425570f862e138c90e299c67...78ea65ac9d6878db25e6fd6558b8e47011ed7975)
 - [Felipe Borges deleted project branch wip/scale-mode at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/wip/scale-mode)
-- [Felipe Borges accepted merge request !57: vnc-connection, vnc-properties: Add...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/57)
 <!-- BLOG-POST-LIST:END -->
 
 ___
