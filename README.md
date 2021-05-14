@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges accepted merge request !18: disable sandboxing: fix #63 at GNOM...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/18)
+- [Felipe Borges closed issue #63: sandboxing breaks HTML previews at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/63)
+- [Felipe Borges pushed to project branch master at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commit/2369c675ad77751537ecde00a3dfc1287decda36)
+- [Felipe Borges commented on merge request !18 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/18#note_1105621)
 - [Felipe Borges commented on issue #54 at GNOME / gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop/-/issues/54#note_1105518)
 - [Felipe Borges commented on issue #54 at GNOME / gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop/-/issues/54#note_1105512)
 - [Felipe Borges commented on issue #54 at GNOME / gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop/-/issues/54#note_1104740)
@@ -17,10 +21,6 @@
 - [Felipe Borges deleted project branch wip/fullscreen at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/wip/fullscreen)
 - [Felipe Borges accepted merge request !56: window, display-view: Handle F11 to...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/56)
 - [Felipe Borges closed issue #5: Add fullscreen mode at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/5)
-- [Felipe Borges closed issue #5: Add fullscreen mode at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/5)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/e1d1c9a11241806c1e88acf36c3500e07a7e3993...3c8f0e944f13684b5dfbbd1730cd8dda5b737e54)
-- [Felipe Borges commented on merge request !56 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/56#note_1104044)
-- [Felipe Borges pushed to project branch wip/fullscreen at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/3c8f0e944f13684b5dfbbd1730cd8dda5b737e54)
 <!-- BLOG-POST-LIST:END -->
 
 ___
