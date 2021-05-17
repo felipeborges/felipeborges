@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed new project branch empty-state-prep at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/empty-state-prep)
+- [Felipe Borges commented on issue #83 at Teams / Design / Initiatives](https://gitlab.gnome.org/Teams/Design/initiatives/-/issues/83#note_1107918)
 - [Felipe Borges commented on issue #1367 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1367#note_1107813)
 - [Felipe Borges accepted merge request !18: disable sandboxing: fix #63 at GNOM...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/18)
 - [Felipe Borges closed issue #63: sandboxing breaks HTML previews at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/63)
@@ -19,8 +21,6 @@
 - [Felipe Borges commented on issue #45 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/45#note_1104100)
 - [Felipe Borges commented on merge request !59 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/59#note_1104099)
 - [Felipe Borges commented on issue #5 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/5#note_1104047)
-- [Felipe Borges deleted project branch wip/fullscreen at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/wip/fullscreen)
-- [Felipe Borges accepted merge request !56: window, display-view: Handle F11 to...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/56)
 <!-- BLOG-POST-LIST:END -->
 
 ___
