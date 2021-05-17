@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #46 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/46#note_1108503)
+- [Felipe Borges opened merge request !60: topbar: Move connection creation into...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/60)
+- [Felipe Borges pushed new project branch move-new-connection-to-popover at GNO...](https://gitlab.gnome.org/GNOME/connections/-/commits/move-new-connection-to-popover)
 - [Felipe Borges pushed to project branch wip/empty-state-update-graphic at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/4665fd89073c959a9adb654fe9048c20795f58f9...4396cc38fad7b28b85ec0b9591ef6532b18f7631)
 - [Felipe Borges deleted project branch empty-state-prep at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/empty-state-prep)
 - [Felipe Borges accepted merge request !434: Update the empty-state text and de...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/434)
@@ -18,9 +21,6 @@
 - [Felipe Borges commented on merge request !18 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/18#note_1105621)
 - [Felipe Borges commented on issue #54 at GNOME / gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop/-/issues/54#note_1105518)
 - [Felipe Borges commented on issue #54 at GNOME / gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop/-/issues/54#note_1105512)
-- [Felipe Borges commented on issue #54 at GNOME / gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop/-/issues/54#note_1104740)
-- [Felipe Borges commented on issue #617 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/617#note_1104241)
-- [Felipe Borges commented on issue #617 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/617#note_1104237)
 <!-- BLOG-POST-LIST:END -->
 
 ___
