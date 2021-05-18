@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch applications-sandbox-escape at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/compare/58f85e0d3d9d489043890455d45e3c3861e13e58...826e78945cebb783339f02aaa9349b7e757c2e10)
 - [Felipe Borges opened issue #47: Renaming a connection gives the impression th...](https://gitlab.gnome.org/GNOME/connections/-/issues/47)
 - [Felipe Borges deleted project branch wrap-display-on-scrolledwindow at GNOME ...](https://gitlab.gnome.org/GNOME/connections/-/commits/wrap-display-on-scrolledwindow)
 - [Felipe Borges accepted merge request !61: display-view: Wrap display widget o...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/61)
@@ -20,7 +21,6 @@
 - [Felipe Borges commented on issue #46 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/46#note_1108503)
 - [Felipe Borges opened merge request !60: topbar: Move connection creation into...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/60)
 - [Felipe Borges pushed new project branch move-new-connection-to-popover at GNO...](https://gitlab.gnome.org/GNOME/connections/-/commits/move-new-connection-to-popover)
-- [Felipe Borges pushed to project branch wip/empty-state-update-graphic at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/4665fd89073c959a9adb654fe9048c20795f58f9...4396cc38fad7b28b85ec0b9591ef6532b18f7631)
 <!-- BLOG-POST-LIST:END -->
 
 ___
