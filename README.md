@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/7830f140a58aad6e7c9b0ed931673630d66a8035)
 - [Felipe Borges deleted project branch decouple-display-name-and-address at GNO...](https://gitlab.gnome.org/GNOME/connections/-/commits/decouple-display-name-and-address)
 - [Felipe Borges accepted merge request !63: Untangle connection display_name an...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/63)
 - [Felipe Borges closed issue #47: Renaming a connection gives the impression th...](https://gitlab.gnome.org/GNOME/connections/-/issues/47)
@@ -20,7 +21,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/d55d29a13e0c035238b7ee8851f5ed93e85107d9)
 - [Felipe Borges opened merge request !61: display-view: Wrap display widget on ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/61)
 - [Felipe Borges pushed new project branch wrap-display-on-scrolledwindow at GNO...](https://gitlab.gnome.org/GNOME/connections/-/commits/wrap-display-on-scrolledwindow)
-- [Felipe Borges commented on issue #1354 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1354#note_1108582)
 <!-- BLOG-POST-LIST:END -->
 
 ___
