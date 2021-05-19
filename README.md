@@ -20,7 +20,6 @@
 - [Felipe Borges accepted merge request !61: display-view: Wrap display widget o...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/61)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/d55d29a13e0c035238b7ee8851f5ed93e85107d9)
 - [Felipe Borges opened merge request !61: display-view: Wrap display widget on ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/61)
-- [Felipe Borges pushed new project branch wrap-display-on-scrolledwindow at GNO...](https://gitlab.gnome.org/GNOME/connections/-/commits/wrap-display-on-scrolledwindow)
 <!-- BLOG-POST-LIST:END -->
 
 ___
