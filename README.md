@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #697 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/697#note_1121791)
+- [Felipe Borges commented on issue #697 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/697#note_1121790)
 - [Felipe Borges commented on issue #205 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/205#note_1120679)
 - [Felipe Borges commented on issue #1370 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1370#note_1119656)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/7830f140a58aad6e7c9b0ed931673630d66a8035)
@@ -17,8 +19,6 @@
 - [Felipe Borges opened merge request !62: Handle authentication failures at GNO...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/62)
 - [Felipe Borges pushed new project branch fix-auth-when-it-fails at GNOME / Con...](https://gitlab.gnome.org/GNOME/connections/-/commits/fix-auth-when-it-fails)
 - [Felipe Borges pushed to project branch applications-sandbox-escape at GNOME /...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/compare/58f85e0d3d9d489043890455d45e3c3861e13e58...826e78945cebb783339f02aaa9349b7e757c2e10)
-- [Felipe Borges opened issue #47: Renaming a connection gives the impression th...](https://gitlab.gnome.org/GNOME/connections/-/issues/47)
-- [Felipe Borges deleted project branch wrap-display-on-scrolledwindow at GNOME ...](https://gitlab.gnome.org/GNOME/connections/-/commits/wrap-display-on-scrolledwindow)
 <!-- BLOG-POST-LIST:END -->
 
 ___
