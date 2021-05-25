@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !673 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/673#note_1122714)
+- [Felipe Borges opened merge request !673: nautilus-previewer: Only launch prev...](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/673)
+- [Felipe Borges pushed new project branch previewer-track-currently-open-file a...](https://gitlab.gnome.org/GNOME/nautilus/-/commits/previewer-track-currently-open-file)
 - [Felipe Borges commented on issue #698 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/698#note_1122430)
 - [Felipe Borges commented on issue #118 at Teams / Design / os-mockups](https://gitlab.gnome.org/Teams/Design/os-mockups/-/issues/118#note_1122428)
 - [Felipe Borges commented on issue #118 at Teams / Design / os-mockups](https://gitlab.gnome.org/Teams/Design/os-mockups/-/issues/118#note_1122423)
@@ -16,9 +19,6 @@
 - [Felipe Borges opened merge request !63: Untangle connection display_name and ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/63)
 - [Felipe Borges pushed new project branch decouple-display-name-and-address at ...](https://gitlab.gnome.org/GNOME/connections/-/commits/decouple-display-name-and-address)
 - [Felipe Borges deleted project branch fix-auth-when-it-fails at GNOME / Connec...](https://gitlab.gnome.org/GNOME/connections/-/commits/fix-auth-when-it-fails)
-- [Felipe Borges accepted merge request !62: Handle authentication failures at G...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/62)
-- [Felipe Borges closed issue #17: VNC password prompt doesn&#39;t provide feedback ...](https://gitlab.gnome.org/GNOME/connections/-/issues/17)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/d55d29a13e0c035238b7ee8851f5ed93e85107d9...49702c0cf83175bd87137251d542a4a792c6297a)
 <!-- BLOG-POST-LIST:END -->
 
 ___
