@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !61 at Infrastructure / planet-web](https://gitlab.gnome.org/Infrastructure/planet-web/-/merge_requests/61#note_1123267)
 - [Felipe Borges deleted project branch add-some-2021-interns at Felipe Borges /...](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-some-2021-interns)
 - [Felipe Borges closed issue #101: [GSoC] Request to add Nishal&#39;s feed at Infra...](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/101)
 - [Felipe Borges closed issue #98: [Outreachy] Request to add Madds&#39; blog at Inf...](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/98)
@@ -20,7 +21,6 @@
 - [Felipe Borges commented on issue #698 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/698#note_1122430)
 - [Felipe Borges commented on issue #118 at Teams / Design / os-mockups](https://gitlab.gnome.org/Teams/Design/os-mockups/-/issues/118#note_1122428)
 - [Felipe Borges commented on issue #118 at Teams / Design / os-mockups](https://gitlab.gnome.org/Teams/Design/os-mockups/-/issues/118#note_1122423)
-- [Felipe Borges commented on issue #697 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/697#note_1121791)
 <!-- BLOG-POST-LIST:END -->
 
 ___
