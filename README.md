@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges closed issue #4: Use system colors for preview window at GNOME ...](https://gitlab.gnome.org/GNOME/sushi/-/issues/4)
+- [Felipe Borges closed issue #57: window keeps reopening when trying preview a ...](https://gitlab.gnome.org/GNOME/sushi/-/issues/57)
+- [Felipe Borges opened merge request !19: mainWindow: Account for scale factor ...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/19)
+- [Felipe Borges pushed new project branch window-account-for-scale-factor at GN...](https://gitlab.gnome.org/GNOME/sushi/-/commits/window-account-for-scale-factor)
 - [Felipe Borges deleted project branch add-learn-more-link at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/add-learn-more-link)
 - [Felipe Borges accepted merge request !65: assistant: Add &quot;Learn more&quot; link po...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/65)
 - [Felipe Borges closed issue #46: New connection dialog: better instructions at...](https://gitlab.gnome.org/GNOME/connections/-/issues/46)
@@ -17,10 +21,6 @@
 - [Felipe Borges opened merge request !64: connection: Add helper method for vis...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/64)
 - [Felipe Borges pushed new project branch add-helper-for-name-resolution at GNO...](https://gitlab.gnome.org/GNOME/connections/-/commits/add-helper-for-name-resolution)
 - [Felipe Borges pushed to project branch stop-updating-previewer-for-multiple-w...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/0b7a7f95f84f775be38e5533a37f93567fba2b59)
-- [Felipe Borges commented on merge request !61 at Infrastructure / planet-web](https://gitlab.gnome.org/Infrastructure/planet-web/-/merge_requests/61#note_1123267)
-- [Felipe Borges deleted project branch add-some-2021-interns at Felipe Borges /...](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-some-2021-interns)
-- [Felipe Borges closed issue #101: [GSoC] Request to add Nishal&#39;s feed at Infra...](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/101)
-- [Felipe Borges closed issue #98: [Outreachy] Request to add Madds&#39; blog at Inf...](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/98)
 <!-- BLOG-POST-LIST:END -->
 
 ___
