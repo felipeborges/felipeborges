@@ -1,6 +1,13 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened merge request !998: flatpak: Stop bundling libhandy at G...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/998)
+- [Felipe Borges pushed new project branch stop-bundling-libhandy at GNOME / Set...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/stop-bundling-libhandy)
+- [Felipe Borges commented on merge request !1092 at GNOME / gnome-build-meta](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/merge_requests/1092#note_1124389)
+- [Felipe Borges commented on issue #1358 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1358#note_1124386)
+- [Felipe Borges commented on issue #1360 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1360#note_1124385)
+- [Felipe Borges commented on merge request !949 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/949#note_1124378)
+- [Felipe Borges commented on issue #1371 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1371#note_1124373)
 - [Felipe Borges commented on issue #24 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/24#note_1124327)
 - [Felipe Borges deleted project branch add-nishit-and-arijitk at Felipe Borges ...](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-nishit-and-arijitk)
 - [Felipe Borges closed issue #103: [GSoC] Request to add Arijit&#39;s Blog at Infra...](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/103)
@@ -14,13 +21,6 @@
 - [Felipe Borges commented on issue #121 at Teams / MembershipCommittee](https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues/121#note_1124109)
 - [Felipe Borges commented on issue #699 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/699#note_1124108)
 - [Felipe Borges closed issue #4: Use system colors for preview window at GNOME ...](https://gitlab.gnome.org/GNOME/sushi/-/issues/4)
-- [Felipe Borges closed issue #57: window keeps reopening when trying preview a ...](https://gitlab.gnome.org/GNOME/sushi/-/issues/57)
-- [Felipe Borges opened merge request !19: mainWindow: Account for scale factor ...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/19)
-- [Felipe Borges pushed new project branch window-account-for-scale-factor at GN...](https://gitlab.gnome.org/GNOME/sushi/-/commits/window-account-for-scale-factor)
-- [Felipe Borges deleted project branch add-learn-more-link at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/add-learn-more-link)
-- [Felipe Borges accepted merge request !65: assistant: Add &quot;Learn more&quot; link po...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/65)
-- [Felipe Borges closed issue #46: New connection dialog: better instructions at...](https://gitlab.gnome.org/GNOME/connections/-/issues/46)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/b691cbc58467c72eaf2d43d7e38da82100665267)
 <!-- BLOG-POST-LIST:END -->
 
 ___
