@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed new project branch add-ci at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commits/add-ci)
 - [Felipe Borges opened merge request !998: flatpak: Stop bundling libhandy at G...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/998)
 - [Felipe Borges pushed new project branch stop-bundling-libhandy at GNOME / Set...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/stop-bundling-libhandy)
 - [Felipe Borges commented on merge request !1092 at GNOME / gnome-build-meta](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/merge_requests/1092#note_1124389)
@@ -20,7 +21,6 @@
 - [Felipe Borges commented on issue #4 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/4#note_1124112)
 - [Felipe Borges commented on issue #121 at Teams / MembershipCommittee](https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues/121#note_1124109)
 - [Felipe Borges commented on issue #699 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/699#note_1124108)
-- [Felipe Borges closed issue #4: Use system colors for preview window at GNOME ...](https://gitlab.gnome.org/GNOME/sushi/-/issues/4)
 <!-- BLOG-POST-LIST:END -->
 
 ___
