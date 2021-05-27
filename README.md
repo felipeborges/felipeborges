@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #122 at Teams / MembershipCommittee](https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues/122#note_1124261)
 - [Felipe Borges commented on issue #51 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/51#note_1124155)
 - [Felipe Borges commented on issue #51 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/51#note_1124151)
 - [Felipe Borges commented on issue #4 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/4#note_1124112)
@@ -20,7 +21,6 @@
 - [Felipe Borges deleted project branch stop-updating-previewer-for-multiple-win...](https://gitlab.gnome.org/GNOME/nautilus/-/commits/stop-updating-previewer-for-multiple-windows)
 - [Felipe Borges closed issue #1823: Only with video files, when sushi preview w...](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1823)
 - [Felipe Borges opened issue #49: Use libadwaita for the preferences dialog at ...](https://gitlab.gnome.org/GNOME/connections/-/issues/49)
-- [Felipe Borges deleted project branch add-helper-for-name-resolution at GNOME ...](https://gitlab.gnome.org/GNOME/connections/-/commits/add-helper-for-name-resolution)
 <!-- BLOG-POST-LIST:END -->
 
 ___
