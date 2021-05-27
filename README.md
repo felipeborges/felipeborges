@@ -1,6 +1,11 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #51 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/51#note_1124155)
+- [Felipe Borges commented on issue #51 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/51#note_1124151)
+- [Felipe Borges commented on issue #4 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/4#note_1124112)
+- [Felipe Borges commented on issue #121 at Teams / MembershipCommittee](https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues/121#note_1124109)
+- [Felipe Borges commented on issue #699 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/699#note_1124108)
 - [Felipe Borges closed issue #4: Use system colors for preview window at GNOME ...](https://gitlab.gnome.org/GNOME/sushi/-/issues/4)
 - [Felipe Borges closed issue #57: window keeps reopening when trying preview a ...](https://gitlab.gnome.org/GNOME/sushi/-/issues/57)
 - [Felipe Borges opened merge request !19: mainWindow: Account for scale factor ...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/19)
@@ -16,11 +21,6 @@
 - [Felipe Borges closed issue #1823: Only with video files, when sushi preview w...](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1823)
 - [Felipe Borges opened issue #49: Use libadwaita for the preferences dialog at ...](https://gitlab.gnome.org/GNOME/connections/-/issues/49)
 - [Felipe Borges deleted project branch add-helper-for-name-resolution at GNOME ...](https://gitlab.gnome.org/GNOME/connections/-/commits/add-helper-for-name-resolution)
-- [Felipe Borges accepted merge request !64: connection: Add helper method for v...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/64)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/ca511ff7738f0d9dba8d487e2508546c13d1e714)
-- [Felipe Borges opened merge request !64: connection: Add helper method for vis...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/64)
-- [Felipe Borges pushed new project branch add-helper-for-name-resolution at GNO...](https://gitlab.gnome.org/GNOME/connections/-/commits/add-helper-for-name-resolution)
-- [Felipe Borges pushed to project branch stop-updating-previewer-for-multiple-w...](https://gitlab.gnome.org/GNOME/nautilus/-/commit/0b7a7f95f84f775be38e5533a37f93567fba2b59)
 <!-- BLOG-POST-LIST:END -->
 
 ___
