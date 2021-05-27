@@ -1,6 +1,12 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #24 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/24#note_1124327)
+- [Felipe Borges deleted project branch add-nishit-and-arijitk at Felipe Borges ...](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-nishit-and-arijitk)
+- [Felipe Borges closed issue #103: [GSoC] Request to add Arijit&#39;s Blog at Infra...](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/103)
+- [Felipe Borges closed issue #102: Add Nishit Patel&#39;s blog [GSoC 2021] at Infra...](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/102)
+- [Felipe Borges opened merge request !62: Add Arijit and Nishit gsoc 2021 inter...](https://gitlab.gnome.org/Infrastructure/planet-web/-/merge_requests/62)
+- [Felipe Borges pushed new project branch add-nishit-and-arijitk at Felipe Borg...](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-nishit-and-arijitk)
 - [Felipe Borges commented on issue #122 at Teams / MembershipCommittee](https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues/122#note_1124261)
 - [Felipe Borges commented on issue #51 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/51#note_1124155)
 - [Felipe Borges commented on issue #51 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/51#note_1124151)
@@ -15,12 +21,6 @@
 - [Felipe Borges accepted merge request !65: assistant: Add &quot;Learn more&quot; link po...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/65)
 - [Felipe Borges closed issue #46: New connection dialog: better instructions at...](https://gitlab.gnome.org/GNOME/connections/-/issues/46)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/b691cbc58467c72eaf2d43d7e38da82100665267)
-- [Felipe Borges opened issue #50: Add multiple windows support at GNOME / Conne...](https://gitlab.gnome.org/GNOME/connections/-/issues/50)
-- [Felipe Borges opened merge request !65: assistant: Add &quot;Learn more&quot; link poin...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/65)
-- [Felipe Borges pushed new project branch add-learn-more-link at GNOME / Connec...](https://gitlab.gnome.org/GNOME/connections/-/commits/add-learn-more-link)
-- [Felipe Borges deleted project branch stop-updating-previewer-for-multiple-win...](https://gitlab.gnome.org/GNOME/nautilus/-/commits/stop-updating-previewer-for-multiple-windows)
-- [Felipe Borges closed issue #1823: Only with video files, when sushi preview w...](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1823)
-- [Felipe Borges opened issue #49: Use libadwaita for the preferences dialog at ...](https://gitlab.gnome.org/GNOME/connections/-/issues/49)
 <!-- BLOG-POST-LIST:END -->
 
 ___
