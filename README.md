@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #114 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/114#note_1126721)
 - [Felipe Borges commented on issue #665 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/665#note_1126647)
 - [Felipe Borges commented on issue #212 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/212#note_1126642)
 - [Felipe Borges deleted project branch stop-bundling-libhandy at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/stop-bundling-libhandy)
@@ -20,7 +21,6 @@
 - [Felipe Borges pushed new project branch add-nishit-and-arijitk at Felipe Borg...](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-nishit-and-arijitk)
 - [Felipe Borges commented on issue #122 at Teams / MembershipCommittee](https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues/122#note_1124261)
 - [Felipe Borges commented on issue #51 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/51#note_1124155)
-- [Felipe Borges commented on issue #51 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/51#note_1124151)
 <!-- BLOG-POST-LIST:END -->
 
 ___
