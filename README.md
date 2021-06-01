@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #665 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/665#note_1126647)
+- [Felipe Borges commented on issue #212 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/212#note_1126642)
 - [Felipe Borges deleted project branch stop-bundling-libhandy at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/stop-bundling-libhandy)
 - [Felipe Borges pushed new project branch add-ci at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commits/add-ci)
 - [Felipe Borges opened merge request !998: flatpak: Stop bundling libhandy at G...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/998)
@@ -19,8 +21,6 @@
 - [Felipe Borges commented on issue #122 at Teams / MembershipCommittee](https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues/122#note_1124261)
 - [Felipe Borges commented on issue #51 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/51#note_1124155)
 - [Felipe Borges commented on issue #51 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/51#note_1124151)
-- [Felipe Borges commented on issue #4 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/4#note_1124112)
-- [Felipe Borges commented on issue #121 at Teams / MembershipCommittee](https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues/121#note_1124109)
 <!-- BLOG-POST-LIST:END -->
 
 ___
