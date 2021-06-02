@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch update-recommended at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/bb9d98aaeefdc617c86e23a31d0ec79aab77ecfd...96b030692c436f493af3666556f03271e1dbb75f)
 - [Felipe Borges commented on merge request !438 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/438#note_1127016)
 - [Felipe Borges opened merge request !438: recommended-downloads: Update to lat...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/438)
 - [Felipe Borges pushed new project branch update-recommended at GNOME / GNOME B...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/update-recommended)
@@ -20,7 +21,6 @@
 - [Felipe Borges pushed new project branch add-ci at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commits/add-ci)
 - [Felipe Borges opened merge request !998: flatpak: Stop bundling libhandy at G...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/998)
 - [Felipe Borges pushed new project branch stop-bundling-libhandy at GNOME / Set...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/stop-bundling-libhandy)
-- [Felipe Borges commented on merge request !1092 at GNOME / gnome-build-meta](https://gitlab.gnome.org/GNOME/gnome-build-meta/-/merge_requests/1092#note_1124389)
 <!-- BLOG-POST-LIST:END -->
 
 ___
