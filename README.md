@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #1382 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1382#note_1133293)
 - [Felipe Borges commented on issue #1382 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1382#note_1133209)
 - [Felipe Borges commented on issue #1382 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1382#note_1133205)
 - [Felipe Borges commented on issue #24 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/24#note_1133200)
@@ -20,7 +21,6 @@
 - [Felipe Borges commented on merge request !438 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/438#note_1127016)
 - [Felipe Borges opened merge request !438: recommended-downloads: Update to lat...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/438)
 - [Felipe Borges pushed new project branch update-recommended at GNOME / GNOME B...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/update-recommended)
-- [Felipe Borges opened merge request !437: help: Replace uses of &quot;open-menu-sym...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/437)
 <!-- BLOG-POST-LIST:END -->
 
 ___
