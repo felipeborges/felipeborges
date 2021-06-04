@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch add-maximiliano at Felipe Borges / plane...](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-maximiliano)
+- [Felipe Borges closed issue #108: Request to add Maximiliano&#39;s blog [GSoC 2021...](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/108)
 - [Felipe Borges commented on issue #1382 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1382#note_1133293)
 - [Felipe Borges commented on issue #1382 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1382#note_1133209)
 - [Felipe Borges commented on issue #1382 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1382#note_1133205)
@@ -19,8 +21,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/96b030692c436f493af3666556f03271e1dbb75f)
 - [Felipe Borges pushed to project branch update-recommended at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/bb9d98aaeefdc617c86e23a31d0ec79aab77ecfd...96b030692c436f493af3666556f03271e1dbb75f)
 - [Felipe Borges commented on merge request !438 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/438#note_1127016)
-- [Felipe Borges opened merge request !438: recommended-downloads: Update to lat...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/438)
-- [Felipe Borges pushed new project branch update-recommended at GNOME / GNOME B...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/update-recommended)
 <!-- BLOG-POST-LIST:END -->
 
 ___
