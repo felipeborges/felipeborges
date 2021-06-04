@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed new project tag 40.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/40.2)
+- [Felipe Borges deleted project branch release-gnome-40.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-gnome-40.2)
+- [Felipe Borges accepted merge request !439: Release 40.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/439)
+- [Felipe Borges pushed to project branch gnome-40 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/e3323a6a7244d85386add290d601ce885a92814e...916f3e14fb70e364dd731330cb929805a7bb64ca)
 - [Felipe Borges opened merge request !439: Release 40.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/439)
 - [Felipe Borges pushed new project branch release-gnome-40.2 at GNOME / GNOME B...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-gnome-40.2)
 - [Felipe Borges pushed to project branch master at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commit/eecc1df6c7857de9ed5fb83fde8a88f073a911cf)
@@ -17,10 +21,6 @@
 - [Felipe Borges accepted merge request !20: [gnome-3-38] mainWindow: Account fo...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/20)
 - [Felipe Borges pushed to project branch gnome-3-38 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commit/0ca5bbc0fa504195345183b38a76b0e8e5b4158d)
 - [Felipe Borges opened merge request !20: [gnome-3-38] mainWindow: Account for ...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/20)
-- [Felipe Borges pushed new project branch backport-scale-factor-window-size at ...](https://gitlab.gnome.org/GNOME/sushi/-/commits/backport-scale-factor-window-size)
-- [Felipe Borges deleted project branch window-account-for-scale-factor at GNOME...](https://gitlab.gnome.org/GNOME/sushi/-/commits/window-account-for-scale-factor)
-- [Felipe Borges accepted merge request !19: mainWindow: Account for scale facto...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/19)
-- [Felipe Borges closed issue #64: Previews are massive in Wayland at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/64)
 <!-- BLOG-POST-LIST:END -->
 
 ___
