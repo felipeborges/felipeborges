@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !1001 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1001#note_1135038)
 - [Felipe Borges pushed new project tag 40.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/40.2)
 - [Felipe Borges deleted project branch release-gnome-40.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-gnome-40.2)
 - [Felipe Borges accepted merge request !439: Release 40.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/439)
@@ -20,7 +21,6 @@
 - [Felipe Borges deleted project branch backport-scale-factor-window-size at GNO...](https://gitlab.gnome.org/GNOME/sushi/-/commits/backport-scale-factor-window-size)
 - [Felipe Borges accepted merge request !20: [gnome-3-38] mainWindow: Account fo...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/20)
 - [Felipe Borges pushed to project branch gnome-3-38 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commit/0ca5bbc0fa504195345183b38a76b0e8e5b4158d)
-- [Felipe Borges opened merge request !20: [gnome-3-38] mainWindow: Account for ...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/20)
 <!-- BLOG-POST-LIST:END -->
 
 ___
