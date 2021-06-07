@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on merge request !440 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/440#note_1135668)
+- [Felipe Borges opened merge request !440: Draft: vm-configurator: Sync clock t...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/440)
+- [Felipe Borges pushed to project branch wip/syncup-clock at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/07c56a9ddc5587e3663c9208d4a58fb33c080594...d062904f2e74055665ab5b4f8a4040be236e29a4)
+- [Felipe Borges pushed new project branch wip/syncup-clock at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/wip/syncup-clock)
 - [Felipe Borges commented on merge request !1001 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1001#note_1135038)
 - [Felipe Borges pushed new project tag 40.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/40.2)
 - [Felipe Borges deleted project branch release-gnome-40.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-gnome-40.2)
@@ -17,10 +21,6 @@
 - [Felipe Borges opened merge request !21: release: prepare for 3.38.1 at GNOME ...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/21)
 - [Felipe Borges pushed new project branch release-3.38.1 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commits/release-3.38.1)
 - [Felipe Borges deleted project branch backport-disable-sandboxing at GNOME / s...](https://gitlab.gnome.org/GNOME/sushi/-/commits/backport-disable-sandboxing)
-- [Felipe Borges pushed new project branch backport-disable-sandboxing at GNOME ...](https://gitlab.gnome.org/GNOME/sushi/-/commits/backport-disable-sandboxing)
-- [Felipe Borges deleted project branch backport-scale-factor-window-size at GNO...](https://gitlab.gnome.org/GNOME/sushi/-/commits/backport-scale-factor-window-size)
-- [Felipe Borges accepted merge request !20: [gnome-3-38] mainWindow: Account fo...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/20)
-- [Felipe Borges pushed to project branch gnome-3-38 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commit/0ca5bbc0fa504195345183b38a76b0e8e5b4158d)
 <!-- BLOG-POST-LIST:END -->
 
 ___
