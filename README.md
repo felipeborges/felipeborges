@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges accepted merge request !66: icon: better app icon at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/66)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/5e129e10b25f7dd1f48815a09195d0ec1c033a56)
+- [Felipe Borges commented on merge request !121 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/121#note_1136080)
 - [Felipe Borges opened merge request !121: Update remote desktop technology use...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/121)
 - [Felipe Borges pushed new project branch replace-vino-with-gnome-remote-deskto...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/commits/replace-vino-with-gnome-remote-desktop)
 - [Felipe Borges commented on merge request !440 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/440#note_1135668)
@@ -17,9 +20,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commit/eecc1df6c7857de9ed5fb83fde8a88f073a911cf)
 - [Felipe Borges commented on merge request !676 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/676#note_1133776)
 - [Felipe Borges pushed new project tag 3.38.1 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commits/3.38.1)
-- [Felipe Borges deleted project branch release-3.38.1 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commits/release-3.38.1)
-- [Felipe Borges accepted merge request !21: release: prepare for 3.38.1 at GNOM...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/21)
-- [Felipe Borges pushed to project branch gnome-3-38 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/compare/0ca5bbc0fa504195345183b38a76b0e8e5b4158d...545dead8bd108b22a7dc09cbb08148adc45fd1a4)
 <!-- BLOG-POST-LIST:END -->
 
 ___
