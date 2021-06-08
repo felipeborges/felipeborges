@@ -20,7 +20,6 @@
 - [Felipe Borges pushed to project branch gnome-3-38 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/compare/0ca5bbc0fa504195345183b38a76b0e8e5b4158d...545dead8bd108b22a7dc09cbb08148adc45fd1a4)
 - [Felipe Borges opened merge request !21: release: prepare for 3.38.1 at GNOME ...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/21)
 - [Felipe Borges pushed new project branch release-3.38.1 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commits/release-3.38.1)
-- [Felipe Borges deleted project branch backport-disable-sandboxing at GNOME / s...](https://gitlab.gnome.org/GNOME/sushi/-/commits/backport-disable-sandboxing)
 <!-- BLOG-POST-LIST:END -->
 
 ___
