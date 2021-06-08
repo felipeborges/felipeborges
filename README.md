@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened merge request !67: Add GSoC 2021 intern Abanoub Ghadban ...](https://gitlab.gnome.org/Infrastructure/planet-web/-/merge_requests/67)
+- [Felipe Borges pushed new project branch add-abanoub at Felipe Borges / planet...](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-abanoub)
+- [Felipe Borges commented on issue #104 at Infrastructure / planet-web](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/104#note_1136150)
+- [Felipe Borges commented on issue #37 at Infrastructure / Infrastructure](https://gitlab.gnome.org/Infrastructure/Infrastructure/-/issues/37#note_1136144)
 - [Felipe Borges accepted merge request !66: icon: better app icon at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/66)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/5e129e10b25f7dd1f48815a09195d0ec1c033a56)
 - [Felipe Borges commented on merge request !121 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/121#note_1136080)
@@ -15,11 +19,6 @@
 - [Felipe Borges deleted project branch release-gnome-40.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-gnome-40.2)
 - [Felipe Borges accepted merge request !439: Release 40.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/439)
 - [Felipe Borges pushed to project branch gnome-40 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/e3323a6a7244d85386add290d601ce885a92814e...916f3e14fb70e364dd731330cb929805a7bb64ca)
-- [Felipe Borges opened merge request !439: Release 40.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/439)
-- [Felipe Borges pushed new project branch release-gnome-40.2 at GNOME / GNOME B...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-gnome-40.2)
-- [Felipe Borges pushed to project branch master at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commit/eecc1df6c7857de9ed5fb83fde8a88f073a911cf)
-- [Felipe Borges commented on merge request !676 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/676#note_1133776)
-- [Felipe Borges pushed new project tag 3.38.1 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commits/3.38.1)
 <!-- BLOG-POST-LIST:END -->
 
 ___
