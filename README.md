@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #210 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/210#note_1136716)
+- [Felipe Borges commented on issue #210 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/210#note_1136714)
 - [Felipe Borges commented on merge request !1004 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1004#note_1136673)
 - [Felipe Borges deleted project branch add-abanoub at Felipe Borges / planet-web](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-abanoub)
 - [Felipe Borges closed issue #107: Add Abanoub&#39;s blog [GSoC 2021] at Infrastruc...](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/107)
@@ -17,8 +19,6 @@
 - [Felipe Borges commented on merge request !440 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/440#note_1135668)
 - [Felipe Borges opened merge request !440: Draft: vm-configurator: Sync clock t...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/440)
 - [Felipe Borges pushed to project branch wip/syncup-clock at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/07c56a9ddc5587e3663c9208d4a58fb33c080594...d062904f2e74055665ab5b4f8a4040be236e29a4)
-- [Felipe Borges pushed new project branch wip/syncup-clock at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/wip/syncup-clock)
-- [Felipe Borges commented on merge request !1001 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1001#note_1135038)
 <!-- BLOG-POST-LIST:END -->
 
 ___
