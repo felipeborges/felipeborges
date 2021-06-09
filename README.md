@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch make-add-printer-button-sensitive at E...](https://gitlab.gnome.org/edaigle/gnome-control-center/-/compare/885374d34613ed648ff80cc6d056207c7f0f67ff...1fc8b772a4caee4606de672c2ec30cfbbb594db9)
+- [Felipe Borges commented on issue #66 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/66#note_1136934)
+- [Felipe Borges opened issue #66: Crash when switching between [audio] files qu...](https://gitlab.gnome.org/GNOME/sushi/-/issues/66)
 - [Felipe Borges commented on issue #210 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/210#note_1136716)
 - [Felipe Borges commented on issue #210 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/210#note_1136714)
 - [Felipe Borges commented on merge request !1004 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1004#note_1136673)
@@ -16,9 +19,6 @@
 - [Felipe Borges commented on merge request !121 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/121#note_1136080)
 - [Felipe Borges opened merge request !121: Update remote desktop technology use...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/121)
 - [Felipe Borges pushed new project branch replace-vino-with-gnome-remote-deskto...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/commits/replace-vino-with-gnome-remote-desktop)
-- [Felipe Borges commented on merge request !440 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/440#note_1135668)
-- [Felipe Borges opened merge request !440: Draft: vm-configurator: Sync clock t...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/440)
-- [Felipe Borges pushed to project branch wip/syncup-clock at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/07c56a9ddc5587e3663c9208d4a58fb33c080594...d062904f2e74055665ab5b4f8a4040be236e29a4)
 <!-- BLOG-POST-LIST:END -->
 
 ___
