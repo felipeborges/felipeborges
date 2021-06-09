@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch add-abanoub at Felipe Borges / planet-web](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-abanoub)
+- [Felipe Borges closed issue #107: Add Abanoub&#39;s blog [GSoC 2021] at Infrastruc...](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/107)
 - [Felipe Borges commented on issue #24 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/24#note_1136182)
 - [Felipe Borges opened merge request !67: Add GSoC 2021 intern Abanoub Ghadban ...](https://gitlab.gnome.org/Infrastructure/planet-web/-/merge_requests/67)
 - [Felipe Borges pushed new project branch add-abanoub at Felipe Borges / planet...](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-abanoub)
@@ -17,8 +19,6 @@
 - [Felipe Borges pushed new project branch wip/syncup-clock at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/wip/syncup-clock)
 - [Felipe Borges commented on merge request !1001 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1001#note_1135038)
 - [Felipe Borges pushed new project tag 40.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/40.2)
-- [Felipe Borges deleted project branch release-gnome-40.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-gnome-40.2)
-- [Felipe Borges accepted merge request !439: Release 40.2 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/439)
 <!-- BLOG-POST-LIST:END -->
 
 ___
