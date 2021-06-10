@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch fix-abanoub-feed-url at Felipe Borges / ...](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/fix-abanoub-feed-url)
+- [Felipe Borges deleted project branch add-zbrown at Felipe Borges / planet-web](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-zbrown)
+- [Felipe Borges closed issue #109: [GSoC] Request to add zbrown at Infrastructu...](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/109)
 - [Felipe Borges opened issue #132: gnome-network-displays isn&#39;t Vino&#39;s replacem...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/132)
 - [Felipe Borges commented on issue #24 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/24#note_1138744)
 - [Felipe Borges opened merge request !69: Fix Abanoub&#39;s blog feed URL at Infras...](https://gitlab.gnome.org/Infrastructure/planet-web/-/merge_requests/69)
@@ -18,9 +21,6 @@
 - [Felipe Borges commented on issue #210 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/210#note_1136714)
 - [Felipe Borges commented on merge request !1004 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1004#note_1136673)
 - [Felipe Borges deleted project branch add-abanoub at Felipe Borges / planet-web](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-abanoub)
-- [Felipe Borges closed issue #107: Add Abanoub&#39;s blog [GSoC 2021] at Infrastruc...](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/107)
-- [Felipe Borges commented on issue #24 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/24#note_1136182)
-- [Felipe Borges opened merge request !67: Add GSoC 2021 intern Abanoub Ghadban ...](https://gitlab.gnome.org/Infrastructure/planet-web/-/merge_requests/67)
 <!-- BLOG-POST-LIST:END -->
 
 ___
