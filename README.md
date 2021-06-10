@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #104 at Infrastructure / planet-web](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/104#note_1138632)
 - [Felipe Borges accepted merge request !1004: Printers panel: Make &quot;Add...&quot; but...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1004)
 - [Felipe Borges pushed to project branch master at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commit/1fc8b772a4caee4606de672c2ec30cfbbb594db9)
 - [Felipe Borges pushed to project branch make-add-printer-button-sensitive at E...](https://gitlab.gnome.org/edaigle/gnome-control-center/-/compare/885374d34613ed648ff80cc6d056207c7f0f67ff...1fc8b772a4caee4606de672c2ec30cfbbb594db9)
@@ -19,7 +20,6 @@
 - [Felipe Borges accepted merge request !66: icon: better app icon at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/66)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/5e129e10b25f7dd1f48815a09195d0ec1c033a56)
 - [Felipe Borges commented on merge request !121 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/121#note_1136080)
-- [Felipe Borges opened merge request !121: Update remote desktop technology use...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/121)
 <!-- BLOG-POST-LIST:END -->
 
 ___
