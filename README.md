@@ -1,6 +1,13 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened issue #132: gnome-network-displays isn&#39;t Vino&#39;s replacem...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/132)
+- [Felipe Borges commented on issue #24 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/24#note_1138744)
+- [Felipe Borges opened merge request !69: Fix Abanoub&#39;s blog feed URL at Infras...](https://gitlab.gnome.org/Infrastructure/planet-web/-/merge_requests/69)
+- [Felipe Borges pushed new project branch fix-abanoub-feed-url at Felipe Borges...](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/fix-abanoub-feed-url)
+- [Felipe Borges opened merge request !68: Add GSoC 2021 intern Zander Brown&#39;s b...](https://gitlab.gnome.org/Infrastructure/planet-web/-/merge_requests/68)
+- [Felipe Borges pushed new project branch add-zbrown at Felipe Borges / planet-web](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-zbrown)
+- [Felipe Borges commented on issue #706 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/706#note_1138736)
 - [Felipe Borges commented on issue #104 at Infrastructure / planet-web](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/104#note_1138632)
 - [Felipe Borges accepted merge request !1004: Printers panel: Make &quot;Add...&quot; but...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1004)
 - [Felipe Borges pushed to project branch master at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commit/1fc8b772a4caee4606de672c2ec30cfbbb594db9)
@@ -14,12 +21,6 @@
 - [Felipe Borges closed issue #107: Add Abanoub&#39;s blog [GSoC 2021] at Infrastruc...](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/107)
 - [Felipe Borges commented on issue #24 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/24#note_1136182)
 - [Felipe Borges opened merge request !67: Add GSoC 2021 intern Abanoub Ghadban ...](https://gitlab.gnome.org/Infrastructure/planet-web/-/merge_requests/67)
-- [Felipe Borges pushed new project branch add-abanoub at Felipe Borges / planet...](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-abanoub)
-- [Felipe Borges commented on issue #104 at Infrastructure / planet-web](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/104#note_1136150)
-- [Felipe Borges commented on issue #37 at Infrastructure / Infrastructure](https://gitlab.gnome.org/Infrastructure/Infrastructure/-/issues/37#note_1136144)
-- [Felipe Borges accepted merge request !66: icon: better app icon at GNOME / Co...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/66)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/5e129e10b25f7dd1f48815a09195d0ec1c033a56)
-- [Felipe Borges commented on merge request !121 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/121#note_1136080)
 <!-- BLOG-POST-LIST:END -->
 
 ___
