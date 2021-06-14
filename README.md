@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch add-dhanuka at Felipe Borges / planet-web](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-dhanuka)
+- [Felipe Borges closed issue #110: [GSoC] Request to add Dhanuka&#39;s Blog at Infr...](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/110)
 - [Felipe Borges commented on issue #24 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/24#note_1177951)
 - [Felipe Borges opened merge request !71: Add GSoC 2021 intern Dhanuka Warusadu...](https://gitlab.gnome.org/Infrastructure/planet-web/-/merge_requests/71)
 - [Felipe Borges pushed new project branch add-dhanuka at Felipe Borges / planet...](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-dhanuka)
@@ -19,8 +21,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / gtk-frdp](https://gitlab.gnome.org/GNOME/gtk-frdp/-/commit/a837c36e19260e9b8e9c7b5845ba1aca499c455b)
 - [Felipe Borges commented on issue #110 at Infrastructure / planet-web](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/110#note_1177643)
 - [Felipe Borges commented on issue #1382 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1382#note_1142600)
-- [Felipe Borges commented on merge request !121 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/121#note_1139526)
-- [Felipe Borges closed merge request !121: Update remote desktop technology use...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/121)
 <!-- BLOG-POST-LIST:END -->
 
 ___
