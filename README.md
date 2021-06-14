@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #110 at Infrastructure / planet-web](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/110#note_1177643)
 - [Felipe Borges commented on issue #1382 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1382#note_1142600)
 - [Felipe Borges commented on merge request !121 at GNOME / gnome-user-docs](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/121#note_1139526)
 - [Felipe Borges closed merge request !121: Update remote desktop technology use...](https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/121)
@@ -20,7 +21,6 @@
 - [Felipe Borges pushed to project branch make-add-printer-button-sensitive at E...](https://gitlab.gnome.org/edaigle/gnome-control-center/-/compare/885374d34613ed648ff80cc6d056207c7f0f67ff...1fc8b772a4caee4606de672c2ec30cfbbb594db9)
 - [Felipe Borges commented on issue #66 at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/issues/66#note_1136934)
 - [Felipe Borges opened issue #66: Crash when switching between [audio] files qu...](https://gitlab.gnome.org/GNOME/sushi/-/issues/66)
-- [Felipe Borges commented on issue #210 at Teams / Board](https://gitlab.gnome.org/Teams/Board/-/issues/210#note_1136716)
 <!-- BLOG-POST-LIST:END -->
 
 ___
