@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch flatpak-add-clutter-for-cheese at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/flatpak-add-clutter-for-cheese)
+- [Felipe Borges closed issue #1380: GNOME Builder: ERROR: Dependency &quot;clutter-1...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1380)
 - [Felipe Borges commented on issue #1893 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1893#note_1178458)
 - [Felipe Borges commented on issue #126 at Teams / MembershipCommittee](https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues/126#note_1178421)
 - [Felipe Borges commented on issue #127 at Teams / MembershipCommittee](https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues/127#note_1178419)
@@ -19,8 +21,6 @@
 - [Felipe Borges deleted project branch flatpak-update-freerdp at GNOME / Connec...](https://gitlab.gnome.org/GNOME/connections/-/commits/flatpak-update-freerdp)
 - [Felipe Borges accepted merge request !67: flatpak: Update FreeRDP at GNOME / ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/67)
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/ae485035525a8ceea07117fe16ecf1b90318a6aa)
-- [Felipe Borges pushed to project branch flatpak-update-freerdp at GNOME / Conn...](https://gitlab.gnome.org/GNOME/connections/-/compare/c90a7d26c4463e110407dfc42ee1960f1301d888...ae485035525a8ceea07117fe16ecf1b90318a6aa)
-- [Felipe Borges pushed to project branch flatpak-update-freerdp at GNOME / Conn...](https://gitlab.gnome.org/GNOME/connections/-/commit/c90a7d26c4463e110407dfc42ee1960f1301d888)
 <!-- BLOG-POST-LIST:END -->
 
 ___
