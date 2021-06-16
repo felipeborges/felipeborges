@@ -1,6 +1,10 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges closed issue #29: Could you make a new release or tag? at GNOME...](https://gitlab.gnome.org/GNOME/gtk-frdp/-/issues/29)
+- [Felipe Borges closed issue #21: Port ssh-display to libssh2 at GNOME / Connec...](https://gitlab.gnome.org/GNOME/connections/-/issues/21)
+- [Felipe Borges pushed to project branch wip/empty-state-update-graphic at GNOM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/4396cc38fad7b28b85ec0b9591ef6532b18f7631...3e5d0cc272ff55ffb5137fd024d88f8cb69b1064)
+- [Felipe Borges pushed to project branch wip/syncup-clock at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/d062904f2e74055665ab5b4f8a4040be236e29a4...9f5a2a7dcebf7e8fb050b8f512eeae5a07d435c8)
 - [Felipe Borges deleted project branch flatpak-add-clutter-for-cheese at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/commits/flatpak-add-clutter-for-cheese)
 - [Felipe Borges closed issue #1380: GNOME Builder: ERROR: Dependency &quot;clutter-1...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1380)
 - [Felipe Borges commented on issue #1893 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1893#note_1178458)
@@ -17,10 +21,6 @@
 - [Felipe Borges commented on issue #24 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/24#note_1177951)
 - [Felipe Borges opened merge request !71: Add GSoC 2021 intern Dhanuka Warusadu...](https://gitlab.gnome.org/Infrastructure/planet-web/-/merge_requests/71)
 - [Felipe Borges pushed new project branch add-dhanuka at Felipe Borges / planet...](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-dhanuka)
-- [Felipe Borges pushed new project branch wip/fix-rdp-auth at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/wip/fix-rdp-auth)
-- [Felipe Borges deleted project branch flatpak-update-freerdp at GNOME / Connec...](https://gitlab.gnome.org/GNOME/connections/-/commits/flatpak-update-freerdp)
-- [Felipe Borges accepted merge request !67: flatpak: Update FreeRDP at GNOME / ...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/67)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/ae485035525a8ceea07117fe16ecf1b90318a6aa)
 <!-- BLOG-POST-LIST:END -->
 
 ___
