@@ -1,6 +1,11 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch onboarding-dialog at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/0b148d8323a364108f6ed9c8d3b0db8b70a72edb...3f9b5cd563926573f8083379efca20e2eb839db0)
+- [Felipe Borges commented on merge request !68 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/68#note_1182602)
+- [Felipe Borges pushed to project branch onboarding-dialog at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/ab17bfbaa4918e7c7808278618be70c400c0cc4b...0b148d8323a364108f6ed9c8d3b0db8b70a72edb)
+- [Felipe Borges opened merge request !68: app: Introduce Onboarding dialog at G...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/68)
+- [Felipe Borges pushed new project branch onboarding-dialog at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/onboarding-dialog)
 - [Felipe Borges opened merge request !72: Add GSoC 2021 Pitivi intern Piotr Brz...](https://gitlab.gnome.org/Infrastructure/planet-web/-/merge_requests/72)
 - [Felipe Borges pushed new project branch add-wildtree at Felipe Borges / plane...](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-wildtree)
 - [Felipe Borges commented on issue #1897 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1897#note_1182446)
@@ -16,11 +21,6 @@
 - [Felipe Borges commented on issue #127 at Teams / MembershipCommittee](https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues/127#note_1178419)
 - [Felipe Borges opened issue #170: GNOME Online Accounts uses goa-account-owncl...](https://gitlab.gnome.org/GNOME/gnome-online-accounts/-/issues/170)
 - [Felipe Borges closed issue #1352: GNOME Online Accounts uses goa-account-ownc...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1352)
-- [Felipe Borges commented on issue #1352 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1352#note_1178387)
-- [Felipe Borges pushed to project branch flatpak-add-clutter-for-cheese at GNOM...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/compare/6defef70ca00d1640dc70549e6481a9acacafe2f...bdc0368bd0d968966d2deef202141cfa9aa15e64)
-- [Felipe Borges closed issue #24: Students create a blog and syndicate it with ...](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/24)
-- [Felipe Borges commented on issue #24 at Teams / Engagement / GSoC 2021](https://gitlab.gnome.org/Teams/Engagement/gsoc-2021/-/issues/24#note_1178371)
-- [Felipe Borges deleted project branch add-dhanuka at Felipe Borges / planet-web](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-dhanuka)
 <!-- BLOG-POST-LIST:END -->
 
 ___
