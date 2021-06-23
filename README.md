@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges commented on issue #39 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/39#note_1183321)
 - [Felipe Borges commented on merge request !441 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/441#note_1183287)
 - [Felipe Borges deleted project branch onboarding-dialog at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/onboarding-dialog)
 - [Felipe Borges accepted merge request !68: app: Introduce Onboarding dialog at...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/68)
@@ -20,7 +21,6 @@
 - [Felipe Borges pushed to project branch onboarding-dialog at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/ab17bfbaa4918e7c7808278618be70c400c0cc4b...0b148d8323a364108f6ed9c8d3b0db8b70a72edb)
 - [Felipe Borges opened merge request !68: app: Introduce Onboarding dialog at G...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/68)
 - [Felipe Borges pushed new project branch onboarding-dialog at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/onboarding-dialog)
-- [Felipe Borges opened merge request !72: Add GSoC 2021 Pitivi intern Piotr Brz...](https://gitlab.gnome.org/Infrastructure/planet-web/-/merge_requests/72)
 <!-- BLOG-POST-LIST:END -->
 
 ___
