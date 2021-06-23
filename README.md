@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch add-wildtree at Felipe Borges / planet-web](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-wildtree)
+- [Felipe Borges closed issue #111: [GSoC] Request to add wildtree&#39;s blog at Inf...](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/111)
 - [Felipe Borges pushed to project branch onboarding-dialog at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/0b148d8323a364108f6ed9c8d3b0db8b70a72edb...3f9b5cd563926573f8083379efca20e2eb839db0)
 - [Felipe Borges commented on merge request !68 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/68#note_1182602)
 - [Felipe Borges pushed to project branch onboarding-dialog at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/ab17bfbaa4918e7c7808278618be70c400c0cc4b...0b148d8323a364108f6ed9c8d3b0db8b70a72edb)
@@ -19,8 +21,6 @@
 - [Felipe Borges commented on issue #1893 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1893#note_1178458)
 - [Felipe Borges commented on issue #126 at Teams / MembershipCommittee](https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues/126#note_1178421)
 - [Felipe Borges commented on issue #127 at Teams / MembershipCommittee](https://gitlab.gnome.org/Teams/MembershipCommittee/-/issues/127#note_1178419)
-- [Felipe Borges opened issue #170: GNOME Online Accounts uses goa-account-owncl...](https://gitlab.gnome.org/GNOME/gnome-online-accounts/-/issues/170)
-- [Felipe Borges closed issue #1352: GNOME Online Accounts uses goa-account-ownc...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1352)
 <!-- BLOG-POST-LIST:END -->
 
 ___
