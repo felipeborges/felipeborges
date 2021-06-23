@@ -1,6 +1,13 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges accepted merge request !441: app: Keep running for run-in-bg VM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/441)
+- [Felipe Borges pushed to project branch gnome-40 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/01922ea366398720073b566823dfa0568817a422)
+- [Felipe Borges deleted project branch onboarding-dialog-button-visibility at G...](https://gitlab.gnome.org/GNOME/connections/-/commits/onboarding-dialog-button-visibility)
+- [Felipe Borges accepted merge request !69: onboarding-dialog: Toggle back/next...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/69)
+- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/89373c9897e404e6898f380b3bae574af4a4870c)
+- [Felipe Borges opened merge request !69: onboarding-dialog: Toggle back/next b...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/69)
+- [Felipe Borges pushed new project branch onboarding-dialog-button-visibility a...](https://gitlab.gnome.org/GNOME/connections/-/commits/onboarding-dialog-button-visibility)
 - [Felipe Borges commented on issue #39 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/39#note_1183321)
 - [Felipe Borges commented on merge request !441 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/441#note_1183287)
 - [Felipe Borges deleted project branch onboarding-dialog at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/onboarding-dialog)
@@ -14,13 +21,6 @@
 - [Felipe Borges commented on merge request !441 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/441#note_1183255)
 - [Felipe Borges opened merge request !441: app: Keep running for run-in-bg VMs ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/441)
 - [Felipe Borges pushed new project branch gnome-40-fix-run-in-bg at GNOME / GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/gnome-40-fix-run-in-bg)
-- [Felipe Borges deleted project branch add-wildtree at Felipe Borges / planet-web](https://gitlab.gnome.org/felipeborges/planet-web/-/commits/add-wildtree)
-- [Felipe Borges closed issue #111: [GSoC] Request to add wildtree&#39;s blog at Inf...](https://gitlab.gnome.org/Infrastructure/planet-web/-/issues/111)
-- [Felipe Borges pushed to project branch onboarding-dialog at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/0b148d8323a364108f6ed9c8d3b0db8b70a72edb...3f9b5cd563926573f8083379efca20e2eb839db0)
-- [Felipe Borges commented on merge request !68 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/68#note_1182602)
-- [Felipe Borges pushed to project branch onboarding-dialog at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/compare/ab17bfbaa4918e7c7808278618be70c400c0cc4b...0b148d8323a364108f6ed9c8d3b0db8b70a72edb)
-- [Felipe Borges opened merge request !68: app: Introduce Onboarding dialog at G...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/68)
-- [Felipe Borges pushed new project branch onboarding-dialog at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/onboarding-dialog)
 <!-- BLOG-POST-LIST:END -->
 
 ___
