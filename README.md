@@ -1,6 +1,11 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges pushed to project branch wip/jimmac/mouse-test-graphic at GNOME...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/compare/c9a3c33ddffd2023043c43f3b7e78f049d9098de...1b6c8ca55d4180eae39707457a7c8834931ee67c)
+- [Felipe Borges commented on merge request !1898 at GNOME / gnome-shell](https://gitlab.gnome.org/GNOME/gnome-shell/-/merge_requests/1898#note_1185857)
+- [Felipe Borges commented on merge request !1006 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1006#note_1185855)
+- [Felipe Borges commented on merge request !1006 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1006#note_1185844)
+- [Felipe Borges commented on merge request !1006 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/merge_requests/1006#note_1185837)
 - [Felipe Borges commented on merge request !1898 at GNOME / gnome-shell](https://gitlab.gnome.org/GNOME/gnome-shell/-/merge_requests/1898#note_1185835)
 - [Felipe Borges opened merge request !1898: WIP: runDialog: Don&#39;t run commands ...](https://gitlab.gnome.org/GNOME/gnome-shell/-/merge_requests/1898)
 - [Felipe Borges pushed new project branch run-dialog-parental-control at GNOME ...](https://gitlab.gnome.org/GNOME/gnome-shell/-/commits/run-dialog-parental-control)
@@ -16,11 +21,6 @@
 - [Felipe Borges commented on merge request !682 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/682#note_1183489)
 - [Felipe Borges commented on issue #39 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/39#note_1183484)
 - [Felipe Borges commented on issue #39 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/39#note_1183483)
-- [Felipe Borges accepted merge request !70: onboarding: adjust illustrations at...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/70)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/849c53687ae2b96f6b5c8230eff27359eed091f9)
-- [Felipe Borges commented on merge request !70 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/70#note_1183449)
-- [Felipe Borges accepted merge request !441: app: Keep running for run-in-bg VM...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/441)
-- [Felipe Borges pushed to project branch gnome-40 at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/01922ea366398720073b566823dfa0568817a422)
 <!-- BLOG-POST-LIST:END -->
 
 ___
