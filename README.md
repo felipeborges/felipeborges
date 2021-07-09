@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch transfer-popover-encapsulate-setup at GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/transfer-popover-encapsulate-setup)
+- [Felipe Borges accepted merge request !444: transfer-popover: Encapsulate widg...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/444)
+- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/6329621438912ea63288866a2003436246216cd9)
 - [Felipe Borges pushed to project branch transfer-popover-encapsulate-setup at ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/11935d7c4f366acfb61ce52f70dc547b3da9b059...6329621438912ea63288866a2003436246216cd9)
 - [Felipe Borges commented on issue #493 at GNOME / Settings](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/493#note_1200318)
 - [Felipe Borges closed issue #1404: WiFi settings are hidden when there is an i...](https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1404)
@@ -18,9 +21,6 @@
 - [Felipe Borges pushed new project branch release-gnome-41.alpha at GNOME / GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-gnome-41.alpha)
 - [Felipe Borges deleted project branch release-gnome-41-alpha at GNOME / Connec...](https://gitlab.gnome.org/GNOME/connections/-/commits/release-gnome-41-alpha)
 - [Felipe Borges accepted merge request !74: Release 41.alpha at GNOME / Connect...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/74)
-- [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/358168b3c518e5b55d520f2d59408506086d0710)
-- [Felipe Borges opened merge request !74: Release 41.alpha at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/74)
-- [Felipe Borges pushed new project branch release-gnome-41-alpha at GNOME / Con...](https://gitlab.gnome.org/GNOME/connections/-/commits/release-gnome-41-alpha)
 <!-- BLOG-POST-LIST:END -->
 
 ___
