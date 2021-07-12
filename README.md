@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened issue #31: nightly: ERRCONNECT_PASSWORD_CERTAINLY_EXPIRE...](https://gitlab.gnome.org/GNOME/gtk-frdp/-/issues/31)
+- [Felipe Borges closed issue #54: nightly: ERRCONNECT_PASSWORD_CERTAINLY_EXPIRE...](https://gitlab.gnome.org/GNOME/connections/-/issues/54)
+- [Felipe Borges commented on issue #54 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/54#note_1201997)
 - [Felipe Borges deleted project branch transfer-popover-encapsulate-setup at GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/transfer-popover-encapsulate-setup)
 - [Felipe Borges accepted merge request !444: transfer-popover: Encapsulate widg...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/444)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/6329621438912ea63288866a2003436246216cd9)
@@ -18,9 +21,6 @@
 - [Felipe Borges pushed to project branch master at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commit/d49f469acec5c4ffc9c73ddf64c08a6543143d9a)
 - [Felipe Borges pushed new project tag 41.alpha at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/commits/41.alpha)
 - [Felipe Borges opened merge request !446: Release 41.alpha at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/446)
-- [Felipe Borges pushed new project branch release-gnome-41.alpha at GNOME / GNO...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/release-gnome-41.alpha)
-- [Felipe Borges deleted project branch release-gnome-41-alpha at GNOME / Connec...](https://gitlab.gnome.org/GNOME/connections/-/commits/release-gnome-41-alpha)
-- [Felipe Borges accepted merge request !74: Release 41.alpha at GNOME / Connect...](https://gitlab.gnome.org/GNOME/connections/-/merge_requests/74)
 <!-- BLOG-POST-LIST:END -->
 
 ___
