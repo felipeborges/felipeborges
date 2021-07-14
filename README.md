@@ -1,6 +1,8 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened merge request !22: Drop libmusicbrainz dependency at GNO...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/22)
+- [Felipe Borges pushed new project branch drop-libmusicbrainz at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commits/drop-libmusicbrainz)
 - [Felipe Borges opened issue #613: Mailing list alias is bouncing back for one ...](https://gitlab.gnome.org/Infrastructure/Infrastructure/-/issues/613)
 - [Felipe Borges commented on issue #1916 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1916#note_1202637)
 - [Felipe Borges closed issue #1916: Feature: Make empty space in header toolbar...](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1916)
@@ -19,8 +21,6 @@
 - [Felipe Borges closed issue #54: nightly: ERRCONNECT_PASSWORD_CERTAINLY_EXPIRE...](https://gitlab.gnome.org/GNOME/connections/-/issues/54)
 - [Felipe Borges commented on issue #54 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/54#note_1201997)
 - [Felipe Borges deleted project branch transfer-popover-encapsulate-setup at GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/transfer-popover-encapsulate-setup)
-- [Felipe Borges accepted merge request !444: transfer-popover: Encapsulate widg...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/444)
-- [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/6329621438912ea63288866a2003436246216cd9)
 <!-- BLOG-POST-LIST:END -->
 
 ___
