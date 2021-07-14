@@ -1,6 +1,7 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges opened issue #613: Mailing list alias is bouncing back for one ...](https://gitlab.gnome.org/Infrastructure/Infrastructure/-/issues/613)
 - [Felipe Borges commented on issue #1916 at GNOME / Files](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1916#note_1202637)
 - [Felipe Borges closed issue #1916: Feature: Make empty space in header toolbar...](https://gitlab.gnome.org/GNOME/nautilus/-/issues/1916)
 - [Felipe Borges deleted project branch add-flatpak-manifest at GNOME / gtk-frdp](https://gitlab.gnome.org/GNOME/gtk-frdp/-/commits/add-flatpak-manifest)
@@ -20,7 +21,6 @@
 - [Felipe Borges deleted project branch transfer-popover-encapsulate-setup at GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/transfer-popover-encapsulate-setup)
 - [Felipe Borges accepted merge request !444: transfer-popover: Encapsulate widg...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/merge_requests/444)
 - [Felipe Borges pushed to project branch master at GNOME / GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commit/6329621438912ea63288866a2003436246216cd9)
-- [Felipe Borges pushed to project branch transfer-popover-encapsulate-setup at ...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/compare/11935d7c4f366acfb61ce52f70dc547b3da9b059...6329621438912ea63288866a2003436246216cd9)
 <!-- BLOG-POST-LIST:END -->
 
 ___
