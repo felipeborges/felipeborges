@@ -1,6 +1,9 @@
 # Most Recent Activity in GNOME's GitLab
 
 <!-- BLOG-POST-LIST:START -->
+- [Felipe Borges deleted project branch drop-libmusicbrainz at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commits/drop-libmusicbrainz)
+- [Felipe Borges accepted merge request !22: Drop libmusicbrainz dependency at G...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/22)
+- [Felipe Borges pushed to project branch master at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/compare/eecc1df6c7857de9ed5fb83fde8a88f073a911cf...5f2995abf97ca6d068046fedf598bb9a82dc88d3)
 - [Felipe Borges opened merge request !22: Drop libmusicbrainz dependency at GNO...](https://gitlab.gnome.org/GNOME/sushi/-/merge_requests/22)
 - [Felipe Borges pushed new project branch drop-libmusicbrainz at GNOME / sushi](https://gitlab.gnome.org/GNOME/sushi/-/commits/drop-libmusicbrainz)
 - [Felipe Borges opened issue #613: Mailing list alias is bouncing back for one ...](https://gitlab.gnome.org/Infrastructure/Infrastructure/-/issues/613)
@@ -18,9 +21,6 @@
 - [Felipe Borges opened merge request !12: build: Make &quot;examples&quot; build optional...](https://gitlab.gnome.org/GNOME/gtk-frdp/-/merge_requests/12)
 - [Felipe Borges pushed new project branch build-examples-optionally at GNOME / ...](https://gitlab.gnome.org/GNOME/gtk-frdp/-/commits/build-examples-optionally)
 - [Felipe Borges opened issue #31: nightly: ERRCONNECT_PASSWORD_CERTAINLY_EXPIRE...](https://gitlab.gnome.org/GNOME/gtk-frdp/-/issues/31)
-- [Felipe Borges closed issue #54: nightly: ERRCONNECT_PASSWORD_CERTAINLY_EXPIRE...](https://gitlab.gnome.org/GNOME/connections/-/issues/54)
-- [Felipe Borges commented on issue #54 at GNOME / Connections](https://gitlab.gnome.org/GNOME/connections/-/issues/54#note_1201997)
-- [Felipe Borges deleted project branch transfer-popover-encapsulate-setup at GN...](https://gitlab.gnome.org/GNOME/gnome-boxes/-/commits/transfer-popover-encapsulate-setup)
 <!-- BLOG-POST-LIST:END -->
 
 ___
